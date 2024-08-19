@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07bdce58e5082e7d00e08542c75f3a30b68039390e89a3f55b1739134b99231e
-size 661
+SiO2 network (Fit to neutron G(r))
+0.0657    		! number density
+2.90 1.40
+     2.35		! cut offs
+0.2 0.2 		! maximum move
+0 0.0		! nswap,swapfrac
+0.1			! r spacing
+.true.			! whether to use moveout option
+0			! number of configurations to collect
+9000 1			! step for printing,plotting
+60 10     		! Time limit, step for saving
+0 0 0 0			! No. of g(r), neutron, X-ray, EXAFS expts
+3			! no. of coordination constraints
+1 2 0.  1.8  4 1. 0.00001
+2 1 0.  1.8  2 1. 0.00001
+1 2 1.8 2.2  0 1. 0.0001
+0			! no. of average coordination constraints
+0			! no. of bvs constraints
+0			! no. of triplet constraints
+.false.			! whether to use a potential

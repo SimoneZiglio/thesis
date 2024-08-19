@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de0beb9ebdafe47c4b8d9c63e2455dae7cf46023f791fa4ad59bf6fe2a805a17
-size 234
+All datasets have been given to you with the implicit agreement that they have to serve only as an example dataset for the EPSR tutorial and for no other purpose. For this reason, no detail about the treatment of the data is included.

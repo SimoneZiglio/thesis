@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce8c2c860b1dc58db22a81257ba9130e09c183199303406477ab8afae672b963
-size 564
+reset
+
+
+unset title
+set xlabel 'x [\C'
+set ylabel 'y [\C'
+set zlabel 'z [\C'
+set ticslevel  0.500000E-01
+set xrange [-0.132E+02: 0.120E+02]
+set yrange [-0.132E+02: 0.120E+02]
+set zrange [-0.120E+02: 0.120E+02]
+set view  0.300000E+02, 0.300000E+02
+
+splot \
+'/home/simo/Scrivania/Thesis/EPSR/ex_1/sio2.splb' u 2:3:4 notitle w l lt 4 lw    0.10000, \
+'/home/simo/Scrivania/Thesis/EPSR/ex_1/sio2.spl01' u 2:3:4 notitle w p pt     0 ps  0.000000E+00 lt     0, \
+'/home/simo/Scrivania/Thesis/EPSR/ex_1/sio2.spl02' u 2:3:4 notitle w p pt     0 ps  0.000000E+00 lt     0
+

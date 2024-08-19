@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ae5fcd329b5f54f82b52bd027bf307d94f1debe535aeb866dc27b76c5032da6
-size 826
+benznormal.SHARM.h01
+12               no. of coefficients - determined from coefficients file                         
+0               = 0 for identical molecules, else 1 if different                                
+1               0 sets first coefficient to zero - normally 1                                   
+4               number of smoothings on coefficients                                            
+1 0               l1, l2                                                          
+1 0                                                                        
+0                                                                              
+1                 nvary               
+0 0 0
+0 0               
+90 90            
+90 0              
+90 45             
+45 0              
+45 90             
+54.7 45           

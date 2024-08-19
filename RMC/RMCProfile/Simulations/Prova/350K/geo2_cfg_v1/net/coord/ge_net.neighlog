@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af717790d26c02079274a463dc626da3b7b7f41e6d0abb9f6b7059fe8d77cf89
-size 1525
+ DW option activated: distance window will be used
+  Generating new .neigh file
+ Potential distances
+   2.8999999999999999     
+   3.6000000000000001     
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ .neigh file calculated
+ Coordination summary:
+
+
+ Coordination number      Number of atoms   (%)
+           1           1           1
+           4          59          59
+           5          33          33
+           6           7           7

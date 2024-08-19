@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b514c2a189265baf1ad6302037471daca8489dcef5696fbb0c51563870ea21c
-size 1880
+met.SHARM               Title of this file
+fnameato    <undefined>               Name of .ato file                                                               
+nr          100               Number of radius values (max 200)                                               
+rmax        10               Maximum radius for spherical harmonic coefficients                              
+nsumt       0               Number of configurations already accumulated                                    
+ncoeffs     0               Number of coefficients (program calculates this)                                
+l1values    0               L1 values (separated by spaces)                                                 
+l2values    0               L2 values (separated by spaces)                                                 
+lvalues     0               L values (separated by spaces)                                                  
+n1step      0               Step in N1 values                                                               
+n2step      0               Step in N2 values                                                               
+atom-c      <undefined>               Central molecule - list of centre atom types                                    
+axisc1      <undefined>               First axis definition for central molecule                                      
+axisc2      <undefined>               Second axis definition for central molecule                                     
+atom-s      <undefined>               Second molecule - list of centre atom types                                     
+axiss1      <undefined>               First axis definition for second molecule                                       
+axiss2      <undefined>               Second axis definition for second molecule                                      
+q

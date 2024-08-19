@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b6ed2590f3dbac5e99b5a5875e6a6088243ee07e3589e7cd1dc2d078733cfde
-size 192
+set EPSRroot=C:\EPSR18
+set currentdir=%CD%
+
+cd %EPSRroot%
+
+call epsrsetup
+
+cd %currentdir%
+
+copy system_commands_windows.txt system_commands.txt
+title EPSR in %CD%
+
+%EPSRbin%\epsrshell

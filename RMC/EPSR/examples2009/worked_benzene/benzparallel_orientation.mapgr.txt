@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ddd0bdf2edb00cc416799ce2d06a51d19fa5aed91c2505bb63a5ec45fe58b108
-size 958
+benzparallel.SHARM.h01
+512               no. of coefficients - determined from coefficients file                         
+0               = 0 for identical molecules, else 1 if different                                
+1               0 sets first coefficient to zero - normally 1                                   
+4               number of smoothings on coefficients                                            
+1 1 0              use l1 and l2 (1 or 0)                                                          
+0 0               use n1 and n2 (1 or 0)                                                          
+1 0             use m2 (1 or 0) and m (1 or 0)                                                                
+2               vary (thetal, phil) (1), (thetam, phim) (2), (thetam, chim) (3)                 
+0 0 0
+0 0              100
+45 0             010
+90 0               001
+0 90             011
+45 90              101
+90 90             110
+

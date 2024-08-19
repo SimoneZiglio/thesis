@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b61914ed3e3b81bcafe6ebf99f17a41ec1ef177b9aceb5d4bbdb53c5db8a21d
-size 3218
+sio2_000.TRI               Title of this file
+fnameato    sio2_000.ato               Name of .ato file                                                               
+nsize       100               Number of theta bins [180]                                                      
+nsumt       113               Number of configurations already accumulated                                    
+ndist       3               Number of tri-angle distributions                                               
+
+triangles   1
+
+atom1       Si               Atom type 1 to define a triangle                                                
+atom2       O               Atom type 2 to define a triangle                                                
+atom3       Si               Atom type 3 to define a triangle                                                
+ltype       1               Single atom3 types [1], or multiple atom3 types [2]?                            
+rmin12      1               Minimum distance for atoms 1 and 2                                              
+rmax12      2.4               Maximum distance for atoms 1 and 2                                              
+rmin23      1               Minimum distance for atoms 2 and 3                                              
+rmax23      2.4               Maximum distance for atoms 2 and 3                                              
+
+triangles   2
+
+atom1       O               Atom type 1 to define a triangle                                                
+atom2       Si               Atom type 2 to define a triangle                                                
+atom3       O               Atom type 3 to define a triangle                                                
+ltype       1               Single atom3 types [1], or multiple atom3 types [2]?                            
+rmin12      1               Minimum distance for atoms 1 and 2                                              
+rmax12      2.4               Maximum distance for atoms 1 and 2                                              
+rmin23      1               Minimum distance for atoms 2 and 3                                              
+rmax23      2.4               Maximum distance for atoms 2 and 3                                              
+
+triangles   3
+
+atom1       Si               Atom type 1 to define a triangle                                                
+atom2       O               Atom type 2 to define a triangle                                                
+atom3       O               Atom type 3 to define a triangle                                                
+ltype       1               Single atom3 types [1], or multiple atom3 types [2]?                            
+rmin12      1               Minimum distance for atoms 1 and 2                                              
+rmax12      2.3               Maximum distance for atoms 1 and 2                                              
+rmin23      1               Minimum distance for atoms 2 and 3                                              
+rmax23      3.2               Maximum distance for atoms 2 and 3                                              
+q

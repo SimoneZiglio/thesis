@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:850916bfb25db4b10287844371460cf2ec39bdedeff9fe8c10954085af5b4936
-size 1282
+
+  Current date: 16:46:21 on 03-05-2024
+  EPSR version 26: 2017-03-10      
+
+  Trial no.     5      Iteration no.     1      No. of configurations in sum     1
+  Chi-square  0.846007E-04 R-space coeff.:  0.143438E-01 Abs. empirical energy:   0.300000E+03
+  Quality factor  0.721449E-02 Control level, baseline and threshold:  0.000000E+00  0.000000E+00  0.200000E+00
+  Pair energies: repulsive -0.253928E+04 harmonic  0.000000E+00 per molecule
+  Tethered energy:  0.000000E+00 per molecule
+  Coordination constraint energy:  0.000000E+00 per molecule
+  Three-body energy:  0.000000E+00 per molecule
+  Three-body pressure:  0.000000E+00 kbar
+  No. of .erg lines:   17059 Average gradient of quality factor:  0.000000E+00
+  Sizefactor    1.00000 Number density  0.66400E-01
+  Net charge =    0.00000
+  R-factor for data file  1:  0.8460E-04
+  Noise in average g(r)  0.770013E+01
+  Intermolecular energy and U_pol -0.253902E+04  0.000000E+00 kJ/mole
+  Intermolecular pressure  0.174131E+04 kbar
+  Average dipole moment and std.  0.000000E+00  0.000000E+00 D
+  Av. intermolecular energy -0.253930E+04+- 0.278741E+00 kJ/mole
+  Av. intermolecular pressure  0.174539E+04+- 0.384887E+01 kbar
+  Number of rejects in MOLFIT:-
+       0       0       0     750
+       0       0     554     554

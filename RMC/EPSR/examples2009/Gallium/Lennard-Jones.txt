@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6aa6616f41abf3c9dc4d914b6ae8b3fc426e32417d4fd5d14acf51e2244d9eb
-size 126
+Gallium:
+epsilon = 0.8 kJmol-1
+sigma = 2.8 Angstroms
+mass = 70
+density = 0.0525 atomsA-3
+
+The data is data type 1 Q,S(Q)

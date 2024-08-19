@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:968a581a0006c08041d91532dc940f6c62ceb35ce947652cd42cda7e18c5d3ca
-size 1351
+sio2.RINGS               Title of this file
+fnameato    sio2_090.ato               Name of .ato file                                                               
+nsize       15               Maximum ring length (max 25)                                                    
+nsumt       -1               Number of configurations already accumulated                                    
+ndist       1               Number of ring distributions                                                    
+
+ring   1
+
+atom1       Si               Atom type 1 for first atom in first molecule                                    
+atom2       Si               Atom type 2 for second atom in first molecule                                   
+atom3       Si               Atom type 3 for atom in second molecule                                         
+rmin13      1               Minimum distance for atom1-atom3                                                
+rmax13      3.5               Maximum distance for atom1-atom3                                                
+rmin23      1               Minimum distance for atom2-atom3                                                
+rmax23      3.5               Maximum distance for atom2-atom3                                                
+q
+   1  0.13193E+01  0.18795E+01  0.66844E+01  0.17648E+01 

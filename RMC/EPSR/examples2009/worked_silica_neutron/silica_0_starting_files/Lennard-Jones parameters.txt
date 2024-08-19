@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:601e97e872a9ea3114fb3467bff5de6ee4747409325625b1ab2805b4f63bb424
-size 189
+Silicon:
+epsilon = 0.8 kJmol-1
+sigma = 0.76 Angstroms
+mass = 28
+charge = +4
+
+Oxygen:
+epsilon = 0.65 kJmol-1
+sigma = 3.69 Angstroms
+mass = 16
+charge -2
+
+density = 0.0664 atomsA-3

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04804abaae0308cb411eec2d627c02d3d5fbff580aea53aa91db5856793f861e
-size 510
+#Refinement:    1 Initial energies:  -0.253932E+04  0.000000E+00 Sizefactor et al.:   0.100000E+01  0.445693E-02  0.300000E+00  0.300000E+03
+#Intramolecular shake> 
+     1 -0.253932E+04  0.000000E+00                0                0
+     2 -0.253925E+04  0.000000E+00               18             4766
+     3 -0.253933E+04  0.000000E+00               25             5097
+     4 -0.253939E+04  0.000000E+00               25             5026
+     5 -0.253928E+04  0.000000E+00               21             5015

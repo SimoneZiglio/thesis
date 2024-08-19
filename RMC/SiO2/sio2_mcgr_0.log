@@ -1,3 +1,3803 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bc97e9cbe17068dbe26f8f647eb16d66802ca2b316e825f916167fe8903f0ed
-size 161553
+
+ =========================
+ MCGR 3.5
+ =========================
+
+ Using files : sio2_mcgr_0
+ Time        : Mon Dec 23 12:53:55 2013
+ Host        : TOTOROPC
+ User        : Marco Zanatta
+
+  1 basis functions fitting to
+  1 total F(Q)'s
+
+ Cut offs in basis functions are at:
+
+
+ There are  1 zero constraints 
+ Partial  1 is zero between   0.00 and   0.70
+
+
+ Coefficients of basis functions at minimum Q are:
+     Total  1        0.2759
+
+
+ Number density is 0.0657 atoms per cubic Angstrom
+
+
+
+ Experimental data set  1 is given at  220 Q points from  0.20 to 44.00
+
+ Standard deviations are uniform
+  Standard deviation multiplier is 0.01000
+ Not convoluting with experimental resolution function
+ Rezeroing experimental data
+ No. of background coefficients are:  1
+ Initial background coefficients are:
+                0.00000
+
+ Using   351 r points spaced at 0.029A up to   10.025A
+ Maximum change in rg(r) is 0.0100
+
+
+ There are  1 positivity constraints 
+ Partial  1 is positive between     0.00 and    50.00
+
+ There are  0 coordination constraints 
+ 
+  Applying Gaussian moves.... 
+ 
+  Up to    50.00000     A, sigma is :   4.2480882E-02
+    (with            9  points in a Gaussian)
+ 
+ 
+
+ Summary
+ nacc =        0; ngen =        0; chi**2/dof = 5.5409E+00; chi**2 = 3.1639E+03;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.9255E-03; chi**2/np = 1.4381E+01; chi**2 = 3.1639E+03;
+ End of summary
+
+ Saving results ... Do not interrupt
+ Saving completed
+
+ Summary
+ nacc =    10000; ngen =    11639; chi**2/dof = 1.6885E+00; chi**2 = 9.6414E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.5710E-04; chi**2/np = 4.3825E+00; chi**2 = 9.6414E+02;
+ End of summary
+
+ Summary
+ nacc =    20000; ngen =    22707; chi**2/dof = 1.2103E+00; chi**2 = 6.9106E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.2652E-04; chi**2/np = 3.1412E+00; chi**2 = 6.9106E+02;
+ End of summary
+
+ Summary
+ nacc =    30000; ngen =    33738; chi**2/dof = 8.7159E-01; chi**2 = 4.9768E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.1251E-05; chi**2/np = 2.2622E+00; chi**2 = 4.9768E+02;
+ End of summary
+
+ Summary
+ nacc =    40000; ngen =    44720; chi**2/dof = 6.4294E-01; chi**2 = 3.6712E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.1935E-06; chi**2/np = 1.6687E+00; chi**2 = 3.6712E+02;
+ End of summary
+
+ Summary
+ nacc =    50000; ngen =    55666; chi**2/dof = 5.2053E-01; chi**2 = 2.9722E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6721E-05; chi**2/np = 1.3510E+00; chi**2 = 2.9722E+02;
+ End of summary
+
+ Summary
+ nacc =    60000; ngen =    66645; chi**2/dof = 4.4302E-01; chi**2 = 2.5296E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2740E-04; chi**2/np = 1.1498E+00; chi**2 = 2.5296E+02;
+ End of summary
+
+ Summary
+ nacc =    70000; ngen =    77596; chi**2/dof = 3.7831E-01; chi**2 = 2.1602E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.6681E-05; chi**2/np = 9.8189E-01; chi**2 = 2.1602E+02;
+ End of summary
+
+ Summary
+ nacc =    80000; ngen =    88471; chi**2/dof = 3.1978E-01; chi**2 = 1.8260E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5183E-05; chi**2/np = 8.2998E-01; chi**2 = 1.8260E+02;
+ End of summary
+
+ Summary
+ nacc =    90000; ngen =    99450; chi**2/dof = 2.9470E-01; chi**2 = 1.6828E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2307E-05; chi**2/np = 7.6489E-01; chi**2 = 1.6828E+02;
+ End of summary
+
+ Summary
+ nacc =   100000; ngen =   110341; chi**2/dof = 2.4281E-01; chi**2 = 1.3864E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7511E-04; chi**2/np = 6.3019E-01; chi**2 = 1.3864E+02;
+ End of summary
+
+ Summary
+ nacc =   110000; ngen =   121235; chi**2/dof = 2.2601E-01; chi**2 = 1.2905E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.3300E-05; chi**2/np = 5.8661E-01; chi**2 = 1.2905E+02;
+ End of summary
+
+ Summary
+ nacc =   120000; ngen =   132152; chi**2/dof = 2.2951E-01; chi**2 = 1.3105E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.9923E-05; chi**2/np = 5.9569E-01; chi**2 = 1.3105E+02;
+ End of summary
+
+ Summary
+ nacc =   130000; ngen =   143066; chi**2/dof = 2.2511E-01; chi**2 = 1.2854E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8605E-05; chi**2/np = 5.8427E-01; chi**2 = 1.2854E+02;
+ End of summary
+
+ Summary
+ nacc =   140000; ngen =   153915; chi**2/dof = 2.0741E-01; chi**2 = 1.1843E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.0858E-05; chi**2/np = 5.3832E-01; chi**2 = 1.1843E+02;
+ End of summary
+
+ Summary
+ nacc =   150000; ngen =   164885; chi**2/dof = 2.3814E-01; chi**2 = 1.3598E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2155E-04; chi**2/np = 6.1807E-01; chi**2 = 1.3598E+02;
+ End of summary
+
+ Summary
+ nacc =   160000; ngen =   175827; chi**2/dof = 2.2285E-01; chi**2 = 1.2725E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.7770E-05; chi**2/np = 5.7841E-01; chi**2 = 1.2725E+02;
+ End of summary
+
+ Summary
+ nacc =   170000; ngen =   186758; chi**2/dof = 2.0878E-01; chi**2 = 1.1921E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.8517E-05; chi**2/np = 5.4187E-01; chi**2 = 1.1921E+02;
+ End of summary
+
+ Summary
+ nacc =   180000; ngen =   197607; chi**2/dof = 2.1847E-01; chi**2 = 1.2475E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.0022E-05; chi**2/np = 5.6704E-01; chi**2 = 1.2475E+02;
+ End of summary
+
+ Summary
+ nacc =   190000; ngen =   208454; chi**2/dof = 1.9114E-01; chi**2 = 1.0914E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.7610E-05; chi**2/np = 4.9610E-01; chi**2 = 1.0914E+02;
+ End of summary
+
+ Summary
+ nacc =   200000; ngen =   219356; chi**2/dof = 1.9090E-01; chi**2 = 1.0901E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.0659E-05; chi**2/np = 4.9548E-01; chi**2 = 1.0901E+02;
+ End of summary
+
+ Summary
+ nacc =   210000; ngen =   230258; chi**2/dof = 1.6429E-01; chi**2 = 9.3812E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.6970E-05; chi**2/np = 4.2642E-01; chi**2 = 9.3812E+01;
+ End of summary
+
+ Summary
+ nacc =   220000; ngen =   241138; chi**2/dof = 1.7178E-01; chi**2 = 9.8085E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3092E-04; chi**2/np = 4.4584E-01; chi**2 = 9.8085E+01;
+ End of summary
+
+ Summary
+ nacc =   230000; ngen =   252038; chi**2/dof = 1.8213E-01; chi**2 = 1.0400E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.5477E-04; chi**2/np = 4.7271E-01; chi**2 = 1.0400E+02;
+ End of summary
+
+ Summary
+ nacc =   240000; ngen =   262951; chi**2/dof = 1.7602E-01; chi**2 = 1.0051E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.3357E-05; chi**2/np = 4.5686E-01; chi**2 = 1.0051E+02;
+ End of summary
+
+ Summary
+ nacc =   250000; ngen =   273892; chi**2/dof = 1.9718E-01; chi**2 = 1.1259E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.4293E-05; chi**2/np = 5.1176E-01; chi**2 = 1.1259E+02;
+ End of summary
+
+ Summary
+ nacc =   260000; ngen =   284800; chi**2/dof = 1.7121E-01; chi**2 = 9.7761E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8778E-04; chi**2/np = 4.4437E-01; chi**2 = 9.7761E+01;
+ End of summary
+
+ Summary
+ nacc =   270000; ngen =   295803; chi**2/dof = 1.4118E-01; chi**2 = 8.0616E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.0058E-05; chi**2/np = 3.6644E-01; chi**2 = 8.0616E+01;
+ End of summary
+
+ Summary
+ nacc =   280000; ngen =   306771; chi**2/dof = 1.3146E-01; chi**2 = 7.5066E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.0789E-06; chi**2/np = 3.4121E-01; chi**2 = 7.5066E+01;
+ End of summary
+
+ Summary
+ nacc =   290000; ngen =   317745; chi**2/dof = 1.4768E-01; chi**2 = 8.4325E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.8782E-05; chi**2/np = 3.8329E-01; chi**2 = 8.4325E+01;
+ End of summary
+
+ Summary
+ nacc =   300000; ngen =   328628; chi**2/dof = 1.3276E-01; chi**2 = 7.5804E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.7501E-05; chi**2/np = 3.4456E-01; chi**2 = 7.5804E+01;
+ End of summary
+
+ Summary
+ nacc =   310000; ngen =   339480; chi**2/dof = 1.3156E-01; chi**2 = 7.5119E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8608E-04; chi**2/np = 3.4145E-01; chi**2 = 7.5119E+01;
+ End of summary
+
+ Summary
+ nacc =   320000; ngen =   350486; chi**2/dof = 1.2051E-01; chi**2 = 6.8812E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.1208E-05; chi**2/np = 3.1278E-01; chi**2 = 6.8812E+01;
+ End of summary
+
+ Summary
+ nacc =   330000; ngen =   361432; chi**2/dof = 1.3152E-01; chi**2 = 7.5100E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.6868E-05; chi**2/np = 3.4136E-01; chi**2 = 7.5100E+01;
+ End of summary
+
+ Summary
+ nacc =   340000; ngen =   372355; chi**2/dof = 1.4435E-01; chi**2 = 8.2423E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1041E-04; chi**2/np = 3.7465E-01; chi**2 = 8.2423E+01;
+ End of summary
+
+ Summary
+ nacc =   350000; ngen =   383250; chi**2/dof = 1.3738E-01; chi**2 = 7.8445E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2823E-04; chi**2/np = 3.5657E-01; chi**2 = 7.8445E+01;
+ End of summary
+
+ Summary
+ nacc =   360000; ngen =   394118; chi**2/dof = 1.3708E-01; chi**2 = 7.8275E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.2173E-05; chi**2/np = 3.5580E-01; chi**2 = 7.8275E+01;
+ End of summary
+
+ Summary
+ nacc =   370000; ngen =   405049; chi**2/dof = 1.4168E-01; chi**2 = 8.0901E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.7420E-05; chi**2/np = 3.6773E-01; chi**2 = 8.0901E+01;
+ End of summary
+
+ Summary
+ nacc =   380000; ngen =   415908; chi**2/dof = 1.6115E-01; chi**2 = 9.2018E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9453E-04; chi**2/np = 4.1826E-01; chi**2 = 9.2018E+01;
+ End of summary
+
+ Summary
+ nacc =   390000; ngen =   426805; chi**2/dof = 1.4064E-01; chi**2 = 8.0308E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0167E-04; chi**2/np = 3.6504E-01; chi**2 = 8.0308E+01;
+ End of summary
+
+ Summary
+ nacc =   400000; ngen =   437725; chi**2/dof = 1.2868E-01; chi**2 = 7.3474E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.3905E-05; chi**2/np = 3.3397E-01; chi**2 = 7.3474E+01;
+ End of summary
+
+ Summary
+ nacc =   410000; ngen =   448628; chi**2/dof = 1.2760E-01; chi**2 = 7.2858E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3752E-05; chi**2/np = 3.3117E-01; chi**2 = 7.2858E+01;
+ End of summary
+
+ Summary
+ nacc =   420000; ngen =   459507; chi**2/dof = 1.3811E-01; chi**2 = 7.8863E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.8730E-05; chi**2/np = 3.5847E-01; chi**2 = 7.8863E+01;
+ End of summary
+
+ Summary
+ nacc =   430000; ngen =   470458; chi**2/dof = 1.5788E-01; chi**2 = 9.0150E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5251E-04; chi**2/np = 4.0977E-01; chi**2 = 9.0150E+01;
+ End of summary
+
+ Summary
+ nacc =   440000; ngen =   481326; chi**2/dof = 1.5069E-01; chi**2 = 8.6043E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7790E-05; chi**2/np = 3.9110E-01; chi**2 = 8.6043E+01;
+ End of summary
+
+ Summary
+ nacc =   450000; ngen =   492178; chi**2/dof = 1.4434E-01; chi**2 = 8.2420E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.6558E-05; chi**2/np = 3.7463E-01; chi**2 = 8.2420E+01;
+ End of summary
+
+ Summary
+ nacc =   460000; ngen =   503069; chi**2/dof = 1.3673E-01; chi**2 = 7.8071E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3100E-04; chi**2/np = 3.5487E-01; chi**2 = 7.8071E+01;
+ End of summary
+
+ Summary
+ nacc =   470000; ngen =   513993; chi**2/dof = 1.4555E-01; chi**2 = 8.3111E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.3239E-06; chi**2/np = 3.7778E-01; chi**2 = 8.3111E+01;
+ End of summary
+
+ Summary
+ nacc =   480000; ngen =   524999; chi**2/dof = 1.5801E-01; chi**2 = 9.0222E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.1725E-05; chi**2/np = 4.1010E-01; chi**2 = 9.0222E+01;
+ End of summary
+
+ Summary
+ nacc =   490000; ngen =   535928; chi**2/dof = 1.4217E-01; chi**2 = 8.1178E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.4546E-05; chi**2/np = 3.6899E-01; chi**2 = 8.1178E+01;
+ End of summary
+
+ Summary
+ nacc =   500000; ngen =   546881; chi**2/dof = 1.6031E-01; chi**2 = 9.1539E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4016E-04; chi**2/np = 4.1609E-01; chi**2 = 9.1539E+01;
+ End of summary
+
+ Summary
+ nacc =   510000; ngen =   557727; chi**2/dof = 1.4819E-01; chi**2 = 8.4618E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5142E-05; chi**2/np = 3.8463E-01; chi**2 = 8.4618E+01;
+ End of summary
+
+ Summary
+ nacc =   520000; ngen =   568566; chi**2/dof = 1.4054E-01; chi**2 = 8.0247E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1275E-04; chi**2/np = 3.6476E-01; chi**2 = 8.0247E+01;
+ End of summary
+
+ Summary
+ nacc =   530000; ngen =   579434; chi**2/dof = 1.7180E-01; chi**2 = 9.8097E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5637E-06; chi**2/np = 4.4589E-01; chi**2 = 9.8097E+01;
+ End of summary
+
+ Summary
+ nacc =   540000; ngen =   590385; chi**2/dof = 1.6090E-01; chi**2 = 9.1871E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8418E-05; chi**2/np = 4.1760E-01; chi**2 = 9.1871E+01;
+ End of summary
+
+ Summary
+ nacc =   550000; ngen =   601272; chi**2/dof = 1.5914E-01; chi**2 = 9.0869E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0874E-04; chi**2/np = 4.1304E-01; chi**2 = 9.0869E+01;
+ End of summary
+
+ Summary
+ nacc =   560000; ngen =   612225; chi**2/dof = 1.6956E-01; chi**2 = 9.6821E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.9747E-05; chi**2/np = 4.4010E-01; chi**2 = 9.6821E+01;
+ End of summary
+
+ Summary
+ nacc =   570000; ngen =   623199; chi**2/dof = 1.5345E-01; chi**2 = 8.7618E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.8125E-05; chi**2/np = 3.9826E-01; chi**2 = 8.7618E+01;
+ End of summary
+
+ Summary
+ nacc =   580000; ngen =   634085; chi**2/dof = 1.5711E-01; chi**2 = 8.9711E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.3824E-05; chi**2/np = 4.0778E-01; chi**2 = 8.9711E+01;
+ End of summary
+
+ Summary
+ nacc =   590000; ngen =   645057; chi**2/dof = 1.6106E-01; chi**2 = 9.1966E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1222E-04; chi**2/np = 4.1803E-01; chi**2 = 9.1966E+01;
+ End of summary
+
+ Summary
+ nacc =   600000; ngen =   655929; chi**2/dof = 1.6205E-01; chi**2 = 9.2530E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.0265E-05; chi**2/np = 4.2059E-01; chi**2 = 9.2530E+01;
+ End of summary
+
+ Summary
+ nacc =   610000; ngen =   666718; chi**2/dof = 1.6768E-01; chi**2 = 9.5746E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.9400E-05; chi**2/np = 4.3521E-01; chi**2 = 9.5746E+01;
+ End of summary
+
+ Summary
+ nacc =   620000; ngen =   677675; chi**2/dof = 1.8055E-01; chi**2 = 1.0309E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3521E-04; chi**2/np = 4.6860E-01; chi**2 = 1.0309E+02;
+ End of summary
+
+ Summary
+ nacc =   630000; ngen =   688560; chi**2/dof = 1.5623E-01; chi**2 = 8.9210E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.5713E-05; chi**2/np = 4.0550E-01; chi**2 = 8.9210E+01;
+ End of summary
+
+ Summary
+ nacc =   640000; ngen =   699495; chi**2/dof = 1.6544E-01; chi**2 = 9.4468E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8127E-04; chi**2/np = 4.2940E-01; chi**2 = 9.4468E+01;
+ End of summary
+
+ Summary
+ nacc =   650000; ngen =   710399; chi**2/dof = 1.6671E-01; chi**2 = 9.5189E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.7668E-05; chi**2/np = 4.3268E-01; chi**2 = 9.5189E+01;
+ End of summary
+
+ Summary
+ nacc =   660000; ngen =   721241; chi**2/dof = 1.5633E-01; chi**2 = 8.9263E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.0029E-05; chi**2/np = 4.0574E-01; chi**2 = 8.9263E+01;
+ End of summary
+
+ Summary
+ nacc =   670000; ngen =   732230; chi**2/dof = 1.5463E-01; chi**2 = 8.8291E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3855E-04; chi**2/np = 4.0132E-01; chi**2 = 8.8291E+01;
+ End of summary
+
+ Summary
+ nacc =   680000; ngen =   743114; chi**2/dof = 1.4840E-01; chi**2 = 8.4735E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.1404E-05; chi**2/np = 3.8516E-01; chi**2 = 8.4735E+01;
+ End of summary
+
+ Summary
+ nacc =   690000; ngen =   754060; chi**2/dof = 1.6594E-01; chi**2 = 9.4751E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.3689E-05; chi**2/np = 4.3069E-01; chi**2 = 9.4751E+01;
+ End of summary
+
+ Summary
+ nacc =   700000; ngen =   764937; chi**2/dof = 1.8932E-01; chi**2 = 1.0810E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6404E-05; chi**2/np = 4.9138E-01; chi**2 = 1.0810E+02;
+ End of summary
+
+ Summary
+ nacc =   710000; ngen =   775861; chi**2/dof = 2.0090E-01; chi**2 = 1.1471E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2203E-04; chi**2/np = 5.2142E-01; chi**2 = 1.1471E+02;
+ End of summary
+
+ Summary
+ nacc =   720000; ngen =   786820; chi**2/dof = 1.8335E-01; chi**2 = 1.0469E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5304E-04; chi**2/np = 4.7587E-01; chi**2 = 1.0469E+02;
+ End of summary
+
+ Summary
+ nacc =   730000; ngen =   797703; chi**2/dof = 1.8039E-01; chi**2 = 1.0300E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.4745E-05; chi**2/np = 4.6820E-01; chi**2 = 1.0300E+02;
+ End of summary
+
+ Summary
+ nacc =   740000; ngen =   808625; chi**2/dof = 1.7439E-01; chi**2 = 9.9575E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9365E-04; chi**2/np = 4.5261E-01; chi**2 = 9.9575E+01;
+ End of summary
+
+ Summary
+ nacc =   750000; ngen =   819567; chi**2/dof = 1.7847E-01; chi**2 = 1.0190E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1940E-04; chi**2/np = 4.6320E-01; chi**2 = 1.0190E+02;
+ End of summary
+
+ Summary
+ nacc =   760000; ngen =   830415; chi**2/dof = 1.7424E-01; chi**2 = 9.9488E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8179E-05; chi**2/np = 4.5222E-01; chi**2 = 9.9488E+01;
+ End of summary
+
+ Summary
+ nacc =   770000; ngen =   841280; chi**2/dof = 1.8423E-01; chi**2 = 1.0519E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2555E-06; chi**2/np = 4.7816E-01; chi**2 = 1.0519E+02;
+ End of summary
+
+ Summary
+ nacc =   780000; ngen =   852165; chi**2/dof = 1.7641E-01; chi**2 = 1.0073E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0593E-05; chi**2/np = 4.5787E-01; chi**2 = 1.0073E+02;
+ End of summary
+
+ Summary
+ nacc =   790000; ngen =   863120; chi**2/dof = 1.4559E-01; chi**2 = 8.3131E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.4354E-05; chi**2/np = 3.7787E-01; chi**2 = 8.3131E+01;
+ End of summary
+
+ Summary
+ nacc =   800000; ngen =   874021; chi**2/dof = 1.6460E-01; chi**2 = 9.3986E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5534E-04; chi**2/np = 4.2721E-01; chi**2 = 9.3986E+01;
+ End of summary
+
+ Summary
+ nacc =   810000; ngen =   884923; chi**2/dof = 1.5000E-01; chi**2 = 8.5649E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.7152E-05; chi**2/np = 3.8931E-01; chi**2 = 8.5649E+01;
+ End of summary
+
+ Summary
+ nacc =   820000; ngen =   895824; chi**2/dof = 1.7005E-01; chi**2 = 9.7097E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.9067E-05; chi**2/np = 4.4135E-01; chi**2 = 9.7097E+01;
+ End of summary
+
+ Summary
+ nacc =   830000; ngen =   906704; chi**2/dof = 1.6536E-01; chi**2 = 9.4423E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.0841E-05; chi**2/np = 4.2920E-01; chi**2 = 9.4423E+01;
+ End of summary
+
+ Summary
+ nacc =   840000; ngen =   917488; chi**2/dof = 1.5438E-01; chi**2 = 8.8149E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1947E-04; chi**2/np = 4.0068E-01; chi**2 = 8.8149E+01;
+ End of summary
+
+ Summary
+ nacc =   850000; ngen =   928352; chi**2/dof = 2.0485E-01; chi**2 = 1.1697E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6487E-04; chi**2/np = 5.3168E-01; chi**2 = 1.1697E+02;
+ End of summary
+
+ Summary
+ nacc =   860000; ngen =   939281; chi**2/dof = 2.0507E-01; chi**2 = 1.1710E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2126E-04; chi**2/np = 5.3225E-01; chi**2 = 1.1710E+02;
+ End of summary
+
+ Summary
+ nacc =   870000; ngen =   950340; chi**2/dof = 1.7895E-01; chi**2 = 1.0218E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7689E-04; chi**2/np = 4.6447E-01; chi**2 = 1.0218E+02;
+ End of summary
+
+ Summary
+ nacc =   880000; ngen =   961250; chi**2/dof = 1.6784E-01; chi**2 = 9.5838E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7742E-04; chi**2/np = 4.3563E-01; chi**2 = 9.5838E+01;
+ End of summary
+
+ Summary
+ nacc =   890000; ngen =   972202; chi**2/dof = 1.7196E-01; chi**2 = 9.8188E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9476E-05; chi**2/np = 4.4631E-01; chi**2 = 9.8188E+01;
+ End of summary
+
+ Summary
+ nacc =   900000; ngen =   983149; chi**2/dof = 1.5292E-01; chi**2 = 8.7318E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2394E-05; chi**2/np = 3.9690E-01; chi**2 = 8.7318E+01;
+ End of summary
+
+ Summary
+ nacc =   910000; ngen =   994110; chi**2/dof = 1.5007E-01; chi**2 = 8.5689E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.6626E-06; chi**2/np = 3.8950E-01; chi**2 = 8.5689E+01;
+ End of summary
+
+ Summary
+ nacc =   920000; ngen =  1005026; chi**2/dof = 1.3446E-01; chi**2 = 7.6774E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.6210E-05; chi**2/np = 3.4897E-01; chi**2 = 7.6774E+01;
+ End of summary
+
+ Summary
+ nacc =   930000; ngen =  1015981; chi**2/dof = 1.3018E-01; chi**2 = 7.4331E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.1667E-05; chi**2/np = 3.3787E-01; chi**2 = 7.4331E+01;
+ End of summary
+
+ Summary
+ nacc =   940000; ngen =  1026850; chi**2/dof = 1.3362E-01; chi**2 = 7.6299E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.6251E-05; chi**2/np = 3.4681E-01; chi**2 = 7.6299E+01;
+ End of summary
+
+ Summary
+ nacc =   950000; ngen =  1037692; chi**2/dof = 1.4235E-01; chi**2 = 8.1281E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8847E-05; chi**2/np = 3.6946E-01; chi**2 = 8.1281E+01;
+ End of summary
+
+ Summary
+ nacc =   960000; ngen =  1048563; chi**2/dof = 1.5852E-01; chi**2 = 9.0513E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0075E-04; chi**2/np = 4.1142E-01; chi**2 = 9.0513E+01;
+ End of summary
+
+ Summary
+ nacc =   970000; ngen =  1059521; chi**2/dof = 1.5697E-01; chi**2 = 8.9632E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2448E-04; chi**2/np = 4.0742E-01; chi**2 = 8.9632E+01;
+ End of summary
+
+ Summary
+ nacc =   980000; ngen =  1070447; chi**2/dof = 1.7109E-01; chi**2 = 9.7692E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0293E-04; chi**2/np = 4.4405E-01; chi**2 = 9.7692E+01;
+ End of summary
+
+ Summary
+ nacc =   990000; ngen =  1081368; chi**2/dof = 1.5978E-01; chi**2 = 9.1234E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5414E-04; chi**2/np = 4.1470E-01; chi**2 = 9.1234E+01;
+ End of summary
+
+ Summary
+ nacc =  1000000; ngen =  1092318; chi**2/dof = 1.4854E-01; chi**2 = 8.4814E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4073E-04; chi**2/np = 3.8552E-01; chi**2 = 8.4814E+01;
+ End of summary
+
+ Summary
+ nacc =  1010000; ngen =  1103259; chi**2/dof = 1.4534E-01; chi**2 = 8.2989E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9459E-05; chi**2/np = 3.7722E-01; chi**2 = 8.2989E+01;
+ End of summary
+
+ Summary
+ nacc =  1020000; ngen =  1114240; chi**2/dof = 1.7882E-01; chi**2 = 1.0210E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0486E-04; chi**2/np = 4.6411E-01; chi**2 = 1.0210E+02;
+ End of summary
+
+ Summary
+ nacc =  1030000; ngen =  1125198; chi**2/dof = 1.5292E-01; chi**2 = 8.7320E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.0928E-05; chi**2/np = 3.9691E-01; chi**2 = 8.7320E+01;
+ End of summary
+
+ Summary
+ nacc =  1040000; ngen =  1136053; chi**2/dof = 1.5874E-01; chi**2 = 9.0639E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.0060E-05; chi**2/np = 4.1200E-01; chi**2 = 9.0639E+01;
+ End of summary
+
+ Summary
+ nacc =  1050000; ngen =  1146992; chi**2/dof = 1.4356E-01; chi**2 = 8.1973E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.2442E-05; chi**2/np = 3.7261E-01; chi**2 = 8.1973E+01;
+ End of summary
+
+ Summary
+ nacc =  1060000; ngen =  1157929; chi**2/dof = 1.4667E-01; chi**2 = 8.3751E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.5253E-05; chi**2/np = 3.8068E-01; chi**2 = 8.3751E+01;
+ End of summary
+
+ Summary
+ nacc =  1070000; ngen =  1168908; chi**2/dof = 1.2719E-01; chi**2 = 7.2623E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9244E-05; chi**2/np = 3.3011E-01; chi**2 = 7.2623E+01;
+ End of summary
+
+ Summary
+ nacc =  1080000; ngen =  1179796; chi**2/dof = 1.0915E-01; chi**2 = 6.2324E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.1977E-05; chi**2/np = 2.8329E-01; chi**2 = 6.2324E+01;
+ End of summary
+
+ Summary
+ nacc =  1090000; ngen =  1190707; chi**2/dof = 1.4161E-01; chi**2 = 8.0859E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0510E-04; chi**2/np = 3.6754E-01; chi**2 = 8.0859E+01;
+ End of summary
+
+ Summary
+ nacc =  1100000; ngen =  1201537; chi**2/dof = 1.3453E-01; chi**2 = 7.6817E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.1454E-05; chi**2/np = 3.4917E-01; chi**2 = 7.6817E+01;
+ End of summary
+
+ Summary
+ nacc =  1110000; ngen =  1212451; chi**2/dof = 1.6570E-01; chi**2 = 9.4612E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.8661E-05; chi**2/np = 4.3005E-01; chi**2 = 9.4612E+01;
+ End of summary
+
+ Summary
+ nacc =  1120000; ngen =  1223368; chi**2/dof = 1.5715E-01; chi**2 = 8.9731E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3820E-04; chi**2/np = 4.0787E-01; chi**2 = 8.9731E+01;
+ End of summary
+
+ Summary
+ nacc =  1130000; ngen =  1234252; chi**2/dof = 1.5087E-01; chi**2 = 8.6145E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6517E-05; chi**2/np = 3.9157E-01; chi**2 = 8.6145E+01;
+ End of summary
+
+ Summary
+ nacc =  1140000; ngen =  1245077; chi**2/dof = 1.5015E-01; chi**2 = 8.5738E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.8834E-05; chi**2/np = 3.8972E-01; chi**2 = 8.5738E+01;
+ End of summary
+
+ Summary
+ nacc =  1150000; ngen =  1255950; chi**2/dof = 1.4099E-01; chi**2 = 8.0504E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0245E-04; chi**2/np = 3.6593E-01; chi**2 = 8.0504E+01;
+ End of summary
+
+ Summary
+ nacc =  1160000; ngen =  1266832; chi**2/dof = 1.4852E-01; chi**2 = 8.4804E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.0683E-05; chi**2/np = 3.8547E-01; chi**2 = 8.4804E+01;
+ End of summary
+
+ Summary
+ nacc =  1170000; ngen =  1277706; chi**2/dof = 1.4888E-01; chi**2 = 8.5010E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.9865E-05; chi**2/np = 3.8641E-01; chi**2 = 8.5010E+01;
+ End of summary
+
+ Summary
+ nacc =  1180000; ngen =  1288626; chi**2/dof = 1.5172E-01; chi**2 = 8.6634E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5652E-04; chi**2/np = 3.9379E-01; chi**2 = 8.6634E+01;
+ End of summary
+
+ Summary
+ nacc =  1190000; ngen =  1299506; chi**2/dof = 1.5316E-01; chi**2 = 8.7456E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.7888E-05; chi**2/np = 3.9753E-01; chi**2 = 8.7456E+01;
+ End of summary
+
+ Summary
+ nacc =  1200000; ngen =  1310467; chi**2/dof = 1.5508E-01; chi**2 = 8.8549E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0762E-04; chi**2/np = 4.0249E-01; chi**2 = 8.8549E+01;
+ End of summary
+
+ Summary
+ nacc =  1210000; ngen =  1321512; chi**2/dof = 1.7568E-01; chi**2 = 1.0032E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.3615E-04; chi**2/np = 4.5598E-01; chi**2 = 1.0032E+02;
+ End of summary
+
+ Summary
+ nacc =  1220000; ngen =  1332501; chi**2/dof = 1.5832E-01; chi**2 = 9.0403E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.7472E-05; chi**2/np = 4.1092E-01; chi**2 = 9.0403E+01;
+ End of summary
+
+ Summary
+ nacc =  1230000; ngen =  1343459; chi**2/dof = 1.6712E-01; chi**2 = 9.5425E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.5550E-05; chi**2/np = 4.3375E-01; chi**2 = 9.5425E+01;
+ End of summary
+
+ Summary
+ nacc =  1240000; ngen =  1354485; chi**2/dof = 1.9304E-01; chi**2 = 1.1023E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0656E-04; chi**2/np = 5.0104E-01; chi**2 = 1.1023E+02;
+ End of summary
+
+ Summary
+ nacc =  1250000; ngen =  1365452; chi**2/dof = 1.9847E-01; chi**2 = 1.1333E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.5829E-05; chi**2/np = 5.1512E-01; chi**2 = 1.1333E+02;
+ End of summary
+
+ Summary
+ nacc =  1260000; ngen =  1376356; chi**2/dof = 2.0749E-01; chi**2 = 1.1847E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6929E-05; chi**2/np = 5.3852E-01; chi**2 = 1.1847E+02;
+ End of summary
+
+ Summary
+ nacc =  1270000; ngen =  1387290; chi**2/dof = 1.7822E-01; chi**2 = 1.0176E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9166E-04; chi**2/np = 4.6257E-01; chi**2 = 1.0176E+02;
+ End of summary
+
+ Summary
+ nacc =  1280000; ngen =  1398229; chi**2/dof = 1.8116E-01; chi**2 = 1.0344E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.7145E-05; chi**2/np = 4.7019E-01; chi**2 = 1.0344E+02;
+ End of summary
+
+ Summary
+ nacc =  1290000; ngen =  1409108; chi**2/dof = 1.6705E-01; chi**2 = 9.5386E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.6583E-05; chi**2/np = 4.3357E-01; chi**2 = 9.5386E+01;
+ End of summary
+
+ Summary
+ nacc =  1300000; ngen =  1420064; chi**2/dof = 1.7740E-01; chi**2 = 1.0130E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.9023E-06; chi**2/np = 4.6044E-01; chi**2 = 1.0130E+02;
+ End of summary
+
+ Summary
+ nacc =  1310000; ngen =  1430987; chi**2/dof = 1.7953E-01; chi**2 = 1.0251E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1272E-05; chi**2/np = 4.6596E-01; chi**2 = 1.0251E+02;
+ End of summary
+
+ Summary
+ nacc =  1320000; ngen =  1441902; chi**2/dof = 1.7807E-01; chi**2 = 1.0168E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.4185E-05; chi**2/np = 4.6218E-01; chi**2 = 1.0168E+02;
+ End of summary
+
+ Summary
+ nacc =  1330000; ngen =  1452807; chi**2/dof = 1.6936E-01; chi**2 = 9.6703E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9979E-05; chi**2/np = 4.3956E-01; chi**2 = 9.6703E+01;
+ End of summary
+
+ Summary
+ nacc =  1340000; ngen =  1463738; chi**2/dof = 1.4911E-01; chi**2 = 8.5140E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.1945E-06; chi**2/np = 3.8700E-01; chi**2 = 8.5140E+01;
+ End of summary
+
+ Summary
+ nacc =  1350000; ngen =  1474698; chi**2/dof = 1.4681E-01; chi**2 = 8.3829E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.8928E-06; chi**2/np = 3.8104E-01; chi**2 = 8.3829E+01;
+ End of summary
+
+ Summary
+ nacc =  1360000; ngen =  1485564; chi**2/dof = 1.7450E-01; chi**2 = 9.9638E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2736E-04; chi**2/np = 4.5290E-01; chi**2 = 9.9638E+01;
+ End of summary
+
+ Summary
+ nacc =  1370000; ngen =  1496528; chi**2/dof = 1.5993E-01; chi**2 = 9.1319E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1797E-04; chi**2/np = 4.1508E-01; chi**2 = 9.1319E+01;
+ End of summary
+
+ Summary
+ nacc =  1380000; ngen =  1507431; chi**2/dof = 1.4458E-01; chi**2 = 8.2557E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.8762E-05; chi**2/np = 3.7526E-01; chi**2 = 8.2557E+01;
+ End of summary
+
+ Summary
+ nacc =  1390000; ngen =  1518369; chi**2/dof = 1.5202E-01; chi**2 = 8.6803E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.7110E-05; chi**2/np = 3.9456E-01; chi**2 = 8.6803E+01;
+ End of summary
+
+ Summary
+ nacc =  1400000; ngen =  1529352; chi**2/dof = 1.4564E-01; chi**2 = 8.3163E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1503E-04; chi**2/np = 3.7801E-01; chi**2 = 8.3163E+01;
+ End of summary
+
+ Summary
+ nacc =  1410000; ngen =  1540268; chi**2/dof = 2.0160E-01; chi**2 = 1.1511E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4336E-05; chi**2/np = 5.2324E-01; chi**2 = 1.1511E+02;
+ End of summary
+
+ Summary
+ nacc =  1420000; ngen =  1551150; chi**2/dof = 1.6384E-01; chi**2 = 9.3551E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4242E-04; chi**2/np = 4.2523E-01; chi**2 = 9.3551E+01;
+ End of summary
+
+ Summary
+ nacc =  1430000; ngen =  1562133; chi**2/dof = 1.5348E-01; chi**2 = 8.7637E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5705E-05; chi**2/np = 3.9835E-01; chi**2 = 8.7637E+01;
+ End of summary
+
+ Summary
+ nacc =  1440000; ngen =  1573009; chi**2/dof = 1.4825E-01; chi**2 = 8.4653E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.8157E-05; chi**2/np = 3.8479E-01; chi**2 = 8.4653E+01;
+ End of summary
+
+ Summary
+ nacc =  1450000; ngen =  1583960; chi**2/dof = 1.4263E-01; chi**2 = 8.1444E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5289E-04; chi**2/np = 3.7020E-01; chi**2 = 8.1444E+01;
+ End of summary
+
+ Summary
+ nacc =  1460000; ngen =  1594830; chi**2/dof = 1.4380E-01; chi**2 = 8.2109E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1606E-05; chi**2/np = 3.7322E-01; chi**2 = 8.2109E+01;
+ End of summary
+
+ Summary
+ nacc =  1470000; ngen =  1605696; chi**2/dof = 1.3224E-01; chi**2 = 7.5510E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4428E-05; chi**2/np = 3.4323E-01; chi**2 = 7.5510E+01;
+ End of summary
+
+ Summary
+ nacc =  1480000; ngen =  1616576; chi**2/dof = 1.6574E-01; chi**2 = 9.4638E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.5316E-05; chi**2/np = 4.3017E-01; chi**2 = 9.4638E+01;
+ End of summary
+
+ Summary
+ nacc =  1490000; ngen =  1627407; chi**2/dof = 1.3857E-01; chi**2 = 7.9121E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4897E-05; chi**2/np = 3.5964E-01; chi**2 = 7.9121E+01;
+ End of summary
+
+ Summary
+ nacc =  1500000; ngen =  1638316; chi**2/dof = 1.2324E-01; chi**2 = 7.0370E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9049E-06; chi**2/np = 3.1986E-01; chi**2 = 7.0370E+01;
+ End of summary
+
+ Summary
+ nacc =  1510000; ngen =  1649230; chi**2/dof = 1.4249E-01; chi**2 = 8.1362E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2878E-05; chi**2/np = 3.6983E-01; chi**2 = 8.1362E+01;
+ End of summary
+
+ Summary
+ nacc =  1520000; ngen =  1660064; chi**2/dof = 1.6781E-01; chi**2 = 9.5822E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9549E-04; chi**2/np = 4.3555E-01; chi**2 = 9.5822E+01;
+ End of summary
+
+ Summary
+ nacc =  1530000; ngen =  1670931; chi**2/dof = 1.6480E-01; chi**2 = 9.4099E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.5315E-06; chi**2/np = 4.2772E-01; chi**2 = 9.4099E+01;
+ End of summary
+
+ Summary
+ nacc =  1540000; ngen =  1681895; chi**2/dof = 1.4970E-01; chi**2 = 8.5482E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.9868E-05; chi**2/np = 3.8855E-01; chi**2 = 8.5482E+01;
+ End of summary
+
+ Summary
+ nacc =  1550000; ngen =  1692758; chi**2/dof = 1.3518E-01; chi**2 = 7.7189E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.5407E-06; chi**2/np = 3.5086E-01; chi**2 = 7.7189E+01;
+ End of summary
+
+ Summary
+ nacc =  1560000; ngen =  1703659; chi**2/dof = 1.5227E-01; chi**2 = 8.6943E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9179E-04; chi**2/np = 3.9520E-01; chi**2 = 8.6943E+01;
+ End of summary
+
+ Summary
+ nacc =  1570000; ngen =  1714568; chi**2/dof = 1.3754E-01; chi**2 = 7.8536E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.2299E-05; chi**2/np = 3.5698E-01; chi**2 = 7.8536E+01;
+ End of summary
+
+ Summary
+ nacc =  1580000; ngen =  1725504; chi**2/dof = 1.5402E-01; chi**2 = 8.7943E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.9767E-05; chi**2/np = 3.9974E-01; chi**2 = 8.7943E+01;
+ End of summary
+
+ Summary
+ nacc =  1590000; ngen =  1736423; chi**2/dof = 1.3514E-01; chi**2 = 7.7165E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1714E-04; chi**2/np = 3.5075E-01; chi**2 = 7.7165E+01;
+ End of summary
+
+ Summary
+ nacc =  1600000; ngen =  1747292; chi**2/dof = 1.3284E-01; chi**2 = 7.5851E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6905E-05; chi**2/np = 3.4478E-01; chi**2 = 7.5851E+01;
+ End of summary
+
+ Summary
+ nacc =  1610000; ngen =  1758201; chi**2/dof = 1.2968E-01; chi**2 = 7.4047E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3093E-04; chi**2/np = 3.3658E-01; chi**2 = 7.4047E+01;
+ End of summary
+
+ Summary
+ nacc =  1620000; ngen =  1769089; chi**2/dof = 1.3951E-01; chi**2 = 7.9660E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.0245E-06; chi**2/np = 3.6209E-01; chi**2 = 7.9660E+01;
+ End of summary
+
+ Summary
+ nacc =  1630000; ngen =  1779996; chi**2/dof = 1.4974E-01; chi**2 = 8.5504E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.3856E-05; chi**2/np = 3.8866E-01; chi**2 = 8.5504E+01;
+ End of summary
+
+ Summary
+ nacc =  1640000; ngen =  1790930; chi**2/dof = 1.7034E-01; chi**2 = 9.7262E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.0131E-05; chi**2/np = 4.4210E-01; chi**2 = 9.7262E+01;
+ End of summary
+
+ Summary
+ nacc =  1650000; ngen =  1801810; chi**2/dof = 1.4282E-01; chi**2 = 8.1553E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4563E-04; chi**2/np = 3.7069E-01; chi**2 = 8.1553E+01;
+ End of summary
+
+ Summary
+ nacc =  1660000; ngen =  1812644; chi**2/dof = 1.5376E-01; chi**2 = 8.7794E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.4287E-04; chi**2/np = 3.9907E-01; chi**2 = 8.7794E+01;
+ End of summary
+
+ Summary
+ nacc =  1670000; ngen =  1823535; chi**2/dof = 1.4165E-01; chi**2 = 8.0882E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1342E-04; chi**2/np = 3.6764E-01; chi**2 = 8.0882E+01;
+ End of summary
+
+ Summary
+ nacc =  1680000; ngen =  1834528; chi**2/dof = 1.1601E-01; chi**2 = 6.6242E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2226E-04; chi**2/np = 3.0110E-01; chi**2 = 6.6242E+01;
+ End of summary
+
+ Summary
+ nacc =  1690000; ngen =  1845413; chi**2/dof = 1.4115E-01; chi**2 = 8.0595E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6416E-04; chi**2/np = 3.6634E-01; chi**2 = 8.0595E+01;
+ End of summary
+
+ Summary
+ nacc =  1700000; ngen =  1856315; chi**2/dof = 1.4503E-01; chi**2 = 8.2813E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.7460E-05; chi**2/np = 3.7642E-01; chi**2 = 8.2813E+01;
+ End of summary
+
+ Summary
+ nacc =  1710000; ngen =  1867187; chi**2/dof = 1.4447E-01; chi**2 = 8.2491E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.1460E-04; chi**2/np = 3.7496E-01; chi**2 = 8.2491E+01;
+ End of summary
+
+ Summary
+ nacc =  1720000; ngen =  1878070; chi**2/dof = 1.3833E-01; chi**2 = 7.8985E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.6419E-05; chi**2/np = 3.5902E-01; chi**2 = 7.8985E+01;
+ End of summary
+
+ Summary
+ nacc =  1730000; ngen =  1888998; chi**2/dof = 1.5405E-01; chi**2 = 8.7960E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9402E-04; chi**2/np = 3.9982E-01; chi**2 = 8.7960E+01;
+ End of summary
+
+ Summary
+ nacc =  1740000; ngen =  1899941; chi**2/dof = 1.3628E-01; chi**2 = 7.7814E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1423E-04; chi**2/np = 3.5370E-01; chi**2 = 7.7814E+01;
+ End of summary
+
+ Summary
+ nacc =  1750000; ngen =  1910844; chi**2/dof = 1.2300E-01; chi**2 = 7.0234E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.8206E-05; chi**2/np = 3.1925E-01; chi**2 = 7.0234E+01;
+ End of summary
+
+ Summary
+ nacc =  1760000; ngen =  1921780; chi**2/dof = 1.4334E-01; chi**2 = 8.1849E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1688E-04; chi**2/np = 3.7204E-01; chi**2 = 8.1849E+01;
+ End of summary
+
+ Summary
+ nacc =  1770000; ngen =  1932703; chi**2/dof = 1.4457E-01; chi**2 = 8.2549E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3324E-04; chi**2/np = 3.7522E-01; chi**2 = 8.2549E+01;
+ End of summary
+
+ Summary
+ nacc =  1780000; ngen =  1943642; chi**2/dof = 1.6398E-01; chi**2 = 9.3635E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.8604E-04; chi**2/np = 4.2561E-01; chi**2 = 9.3635E+01;
+ End of summary
+
+ Summary
+ nacc =  1790000; ngen =  1954585; chi**2/dof = 1.4187E-01; chi**2 = 8.1006E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6415E-04; chi**2/np = 3.6821E-01; chi**2 = 8.1006E+01;
+ End of summary
+
+ Summary
+ nacc =  1800000; ngen =  1965481; chi**2/dof = 1.5868E-01; chi**2 = 9.0605E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2825E-04; chi**2/np = 4.1184E-01; chi**2 = 9.0605E+01;
+ End of summary
+
+ Summary
+ nacc =  1810000; ngen =  1976445; chi**2/dof = 1.2509E-01; chi**2 = 7.1428E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4057E-04; chi**2/np = 3.2467E-01; chi**2 = 7.1428E+01;
+ End of summary
+
+ Summary
+ nacc =  1820000; ngen =  1987253; chi**2/dof = 1.5887E-01; chi**2 = 9.0717E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.8884E-05; chi**2/np = 4.1235E-01; chi**2 = 9.0717E+01;
+ End of summary
+
+ Summary
+ nacc =  1830000; ngen =  1998159; chi**2/dof = 1.6357E-01; chi**2 = 9.3399E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6919E-04; chi**2/np = 4.2454E-01; chi**2 = 9.3399E+01;
+ End of summary
+
+ Summary
+ nacc =  1840000; ngen =  2009064; chi**2/dof = 1.7657E-01; chi**2 = 1.0082E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.1859E-05; chi**2/np = 4.5827E-01; chi**2 = 1.0082E+02;
+ End of summary
+
+ Summary
+ nacc =  1850000; ngen =  2019962; chi**2/dof = 1.6526E-01; chi**2 = 9.4363E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4417E-04; chi**2/np = 4.2892E-01; chi**2 = 9.4363E+01;
+ End of summary
+
+ Summary
+ nacc =  1860000; ngen =  2030836; chi**2/dof = 1.4904E-01; chi**2 = 8.5100E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5716E-04; chi**2/np = 3.8682E-01; chi**2 = 8.5100E+01;
+ End of summary
+
+ Summary
+ nacc =  1870000; ngen =  2041699; chi**2/dof = 1.7796E-01; chi**2 = 1.0162E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.4571E-05; chi**2/np = 4.6189E-01; chi**2 = 1.0162E+02;
+ End of summary
+
+ Summary
+ nacc =  1880000; ngen =  2052702; chi**2/dof = 1.6932E-01; chi**2 = 9.6683E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.2892E-05; chi**2/np = 4.3947E-01; chi**2 = 9.6683E+01;
+ End of summary
+
+ Summary
+ nacc =  1890000; ngen =  2063661; chi**2/dof = 1.7447E-01; chi**2 = 9.9621E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.6555E-06; chi**2/np = 4.5282E-01; chi**2 = 9.9621E+01;
+ End of summary
+
+ Summary
+ nacc =  1900000; ngen =  2074545; chi**2/dof = 1.7783E-01; chi**2 = 1.0154E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.5248E-04; chi**2/np = 4.6156E-01; chi**2 = 1.0154E+02;
+ End of summary
+
+ Summary
+ nacc =  1910000; ngen =  2085490; chi**2/dof = 1.6887E-01; chi**2 = 9.6423E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9695E-04; chi**2/np = 4.3828E-01; chi**2 = 9.6423E+01;
+ End of summary
+
+ Summary
+ nacc =  1920000; ngen =  2096393; chi**2/dof = 1.6577E-01; chi**2 = 9.4657E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.8347E-05; chi**2/np = 4.3026E-01; chi**2 = 9.4657E+01;
+ End of summary
+
+ Summary
+ nacc =  1930000; ngen =  2107250; chi**2/dof = 1.5555E-01; chi**2 = 8.8819E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7569E-04; chi**2/np = 4.0372E-01; chi**2 = 8.8819E+01;
+ End of summary
+
+ Summary
+ nacc =  1940000; ngen =  2118147; chi**2/dof = 1.7284E-01; chi**2 = 9.8692E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4537E-04; chi**2/np = 4.4860E-01; chi**2 = 9.8692E+01;
+ End of summary
+
+ Summary
+ nacc =  1950000; ngen =  2129058; chi**2/dof = 1.9098E-01; chi**2 = 1.0905E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.9378E-05; chi**2/np = 4.9568E-01; chi**2 = 1.0905E+02;
+ End of summary
+
+ Summary
+ nacc =  1960000; ngen =  2139968; chi**2/dof = 1.9710E-01; chi**2 = 1.1255E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4412E-05; chi**2/np = 5.1157E-01; chi**2 = 1.1255E+02;
+ End of summary
+
+ Summary
+ nacc =  1970000; ngen =  2150862; chi**2/dof = 1.7599E-01; chi**2 = 1.0049E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.8623E-06; chi**2/np = 4.5676E-01; chi**2 = 1.0049E+02;
+ End of summary
+
+ Summary
+ nacc =  1980000; ngen =  2161756; chi**2/dof = 1.7802E-01; chi**2 = 1.0165E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0128E-04; chi**2/np = 4.6205E-01; chi**2 = 1.0165E+02;
+ End of summary
+
+ Summary
+ nacc =  1990000; ngen =  2172590; chi**2/dof = 1.9594E-01; chi**2 = 1.1188E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4263E-04; chi**2/np = 5.0854E-01; chi**2 = 1.1188E+02;
+ End of summary
+
+ Summary
+ nacc =  2000000; ngen =  2183549; chi**2/dof = 2.0002E-01; chi**2 = 1.1421E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8142E-05; chi**2/np = 5.1914E-01; chi**2 = 1.1421E+02;
+ End of summary
+
+ Summary
+ nacc =  2010000; ngen =  2194481; chi**2/dof = 1.8769E-01; chi**2 = 1.0717E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.9621E-05; chi**2/np = 4.8714E-01; chi**2 = 1.0717E+02;
+ End of summary
+
+ Summary
+ nacc =  2020000; ngen =  2205445; chi**2/dof = 1.9115E-01; chi**2 = 1.0914E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5486E-05; chi**2/np = 4.9611E-01; chi**2 = 1.0914E+02;
+ End of summary
+
+ Summary
+ nacc =  2030000; ngen =  2216324; chi**2/dof = 2.1780E-01; chi**2 = 1.2437E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8256E-04; chi**2/np = 5.6530E-01; chi**2 = 1.2437E+02;
+ End of summary
+
+ Summary
+ nacc =  2040000; ngen =  2227254; chi**2/dof = 1.6357E-01; chi**2 = 9.3400E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.5023E-05; chi**2/np = 4.2455E-01; chi**2 = 9.3400E+01;
+ End of summary
+
+ Summary
+ nacc =  2050000; ngen =  2238209; chi**2/dof = 1.5883E-01; chi**2 = 9.0692E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.1771E-05; chi**2/np = 4.1224E-01; chi**2 = 9.0692E+01;
+ End of summary
+
+ Summary
+ nacc =  2060000; ngen =  2249160; chi**2/dof = 1.5687E-01; chi**2 = 8.9575E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6138E-04; chi**2/np = 4.0716E-01; chi**2 = 8.9575E+01;
+ End of summary
+
+ Summary
+ nacc =  2070000; ngen =  2260085; chi**2/dof = 1.6681E-01; chi**2 = 9.5246E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1657E-04; chi**2/np = 4.3294E-01; chi**2 = 9.5246E+01;
+ End of summary
+
+ Summary
+ nacc =  2080000; ngen =  2270960; chi**2/dof = 1.5889E-01; chi**2 = 9.0729E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.7006E-05; chi**2/np = 4.1240E-01; chi**2 = 9.0729E+01;
+ End of summary
+
+ Summary
+ nacc =  2090000; ngen =  2281847; chi**2/dof = 1.4952E-01; chi**2 = 8.5378E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.7937E-05; chi**2/np = 3.8808E-01; chi**2 = 8.5378E+01;
+ End of summary
+
+ Summary
+ nacc =  2100000; ngen =  2292741; chi**2/dof = 1.6006E-01; chi**2 = 9.1393E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2064E-05; chi**2/np = 4.1542E-01; chi**2 = 9.1393E+01;
+ End of summary
+
+ Summary
+ nacc =  2110000; ngen =  2303704; chi**2/dof = 1.5522E-01; chi**2 = 8.8629E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.2469E-05; chi**2/np = 4.0286E-01; chi**2 = 8.8629E+01;
+ End of summary
+
+ Summary
+ nacc =  2120000; ngen =  2314616; chi**2/dof = 1.8769E-01; chi**2 = 1.0717E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3477E-05; chi**2/np = 4.8713E-01; chi**2 = 1.0717E+02;
+ End of summary
+
+ Summary
+ nacc =  2130000; ngen =  2325497; chi**2/dof = 1.8465E-01; chi**2 = 1.0543E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5165E-05; chi**2/np = 4.7924E-01; chi**2 = 1.0543E+02;
+ End of summary
+
+ Summary
+ nacc =  2140000; ngen =  2336443; chi**2/dof = 1.6628E-01; chi**2 = 9.4943E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.6222E-06; chi**2/np = 4.3156E-01; chi**2 = 9.4943E+01;
+ End of summary
+
+ Summary
+ nacc =  2150000; ngen =  2347306; chi**2/dof = 1.7866E-01; chi**2 = 1.0201E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6203E-04; chi**2/np = 4.6369E-01; chi**2 = 1.0201E+02;
+ End of summary
+
+ Summary
+ nacc =  2160000; ngen =  2358170; chi**2/dof = 1.7118E-01; chi**2 = 9.7745E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.2730E-05; chi**2/np = 4.4430E-01; chi**2 = 9.7745E+01;
+ End of summary
+
+ Summary
+ nacc =  2170000; ngen =  2369084; chi**2/dof = 1.6645E-01; chi**2 = 9.5042E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1643E-05; chi**2/np = 4.3201E-01; chi**2 = 9.5042E+01;
+ End of summary
+
+ Summary
+ nacc =  2180000; ngen =  2380015; chi**2/dof = 1.9388E-01; chi**2 = 1.1070E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2881E-04; chi**2/np = 5.0320E-01; chi**2 = 1.1070E+02;
+ End of summary
+
+ Summary
+ nacc =  2190000; ngen =  2390899; chi**2/dof = 1.8034E-01; chi**2 = 1.0298E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2452E-04; chi**2/np = 4.6807E-01; chi**2 = 1.0298E+02;
+ End of summary
+
+ Summary
+ nacc =  2200000; ngen =  2401827; chi**2/dof = 1.7832E-01; chi**2 = 1.0182E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1860E-05; chi**2/np = 4.6283E-01; chi**2 = 1.0182E+02;
+ End of summary
+
+ Summary
+ nacc =  2210000; ngen =  2412720; chi**2/dof = 1.8764E-01; chi**2 = 1.0714E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.7448E-05; chi**2/np = 4.8700E-01; chi**2 = 1.0714E+02;
+ End of summary
+
+ Summary
+ nacc =  2220000; ngen =  2423585; chi**2/dof = 1.7717E-01; chi**2 = 1.0116E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5420E-04; chi**2/np = 4.5983E-01; chi**2 = 1.0116E+02;
+ End of summary
+
+ Summary
+ nacc =  2230000; ngen =  2434505; chi**2/dof = 1.8765E-01; chi**2 = 1.0715E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5811E-04; chi**2/np = 4.8704E-01; chi**2 = 1.0715E+02;
+ End of summary
+
+ Summary
+ nacc =  2240000; ngen =  2445491; chi**2/dof = 1.5698E-01; chi**2 = 8.9637E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.4873E-05; chi**2/np = 4.0744E-01; chi**2 = 8.9637E+01;
+ End of summary
+
+ Summary
+ nacc =  2250000; ngen =  2456443; chi**2/dof = 1.6456E-01; chi**2 = 9.3966E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.7042E-05; chi**2/np = 4.2712E-01; chi**2 = 9.3966E+01;
+ End of summary
+
+ Summary
+ nacc =  2260000; ngen =  2467312; chi**2/dof = 1.6475E-01; chi**2 = 9.4074E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.5467E-07; chi**2/np = 4.2761E-01; chi**2 = 9.4074E+01;
+ End of summary
+
+ Summary
+ nacc =  2270000; ngen =  2478254; chi**2/dof = 1.8031E-01; chi**2 = 1.0296E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.2464E-05; chi**2/np = 4.6799E-01; chi**2 = 1.0296E+02;
+ End of summary
+
+ Summary
+ nacc =  2280000; ngen =  2489147; chi**2/dof = 1.7359E-01; chi**2 = 9.9119E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5023E-05; chi**2/np = 4.5054E-01; chi**2 = 9.9119E+01;
+ End of summary
+
+ Summary
+ nacc =  2290000; ngen =  2500075; chi**2/dof = 1.7639E-01; chi**2 = 1.0072E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4607E-05; chi**2/np = 4.5782E-01; chi**2 = 1.0072E+02;
+ End of summary
+
+ Summary
+ nacc =  2300000; ngen =  2510962; chi**2/dof = 1.6888E-01; chi**2 = 9.6431E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.6019E-05; chi**2/np = 4.3832E-01; chi**2 = 9.6431E+01;
+ End of summary
+
+ Summary
+ nacc =  2310000; ngen =  2521919; chi**2/dof = 1.7043E-01; chi**2 = 9.7317E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6857E-05; chi**2/np = 4.4235E-01; chi**2 = 9.7317E+01;
+ End of summary
+
+ Summary
+ nacc =  2320000; ngen =  2532796; chi**2/dof = 1.7887E-01; chi**2 = 1.0213E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0827E-04; chi**2/np = 4.6424E-01; chi**2 = 1.0213E+02;
+ End of summary
+
+ Summary
+ nacc =  2330000; ngen =  2543620; chi**2/dof = 1.7200E-01; chi**2 = 9.8212E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4662E-04; chi**2/np = 4.4642E-01; chi**2 = 9.8212E+01;
+ End of summary
+
+ Summary
+ nacc =  2340000; ngen =  2554499; chi**2/dof = 1.8118E-01; chi**2 = 1.0345E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.2383E-05; chi**2/np = 4.7025E-01; chi**2 = 1.0345E+02;
+ End of summary
+
+ Summary
+ nacc =  2350000; ngen =  2565404; chi**2/dof = 1.6327E-01; chi**2 = 9.3230E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9078E-05; chi**2/np = 4.2377E-01; chi**2 = 9.3230E+01;
+ End of summary
+
+ Summary
+ nacc =  2360000; ngen =  2576216; chi**2/dof = 1.6182E-01; chi**2 = 9.2401E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.0837E-04; chi**2/np = 4.2001E-01; chi**2 = 9.2401E+01;
+ End of summary
+
+ Summary
+ nacc =  2370000; ngen =  2586987; chi**2/dof = 1.5388E-01; chi**2 = 8.7865E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.4636E-05; chi**2/np = 3.9939E-01; chi**2 = 8.7865E+01;
+ End of summary
+
+ Summary
+ nacc =  2380000; ngen =  2597851; chi**2/dof = 1.7742E-01; chi**2 = 1.0131E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.1907E-05; chi**2/np = 4.6049E-01; chi**2 = 1.0131E+02;
+ End of summary
+
+ Summary
+ nacc =  2390000; ngen =  2608784; chi**2/dof = 1.8021E-01; chi**2 = 1.0290E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.4241E-05; chi**2/np = 4.6774E-01; chi**2 = 1.0290E+02;
+ End of summary
+
+ Summary
+ nacc =  2400000; ngen =  2619696; chi**2/dof = 1.8868E-01; chi**2 = 1.0774E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.2407E-05; chi**2/np = 4.8971E-01; chi**2 = 1.0774E+02;
+ End of summary
+
+ Summary
+ nacc =  2410000; ngen =  2630556; chi**2/dof = 1.8978E-01; chi**2 = 1.0836E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.8399E-05; chi**2/np = 4.9257E-01; chi**2 = 1.0836E+02;
+ End of summary
+
+ Summary
+ nacc =  2420000; ngen =  2641486; chi**2/dof = 1.7222E-01; chi**2 = 9.8340E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2075E-04; chi**2/np = 4.4700E-01; chi**2 = 9.8340E+01;
+ End of summary
+
+ Summary
+ nacc =  2430000; ngen =  2652426; chi**2/dof = 1.9020E-01; chi**2 = 1.0860E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6663E-06; chi**2/np = 4.9366E-01; chi**2 = 1.0860E+02;
+ End of summary
+
+ Summary
+ nacc =  2440000; ngen =  2663352; chi**2/dof = 1.8416E-01; chi**2 = 1.0515E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8184E-04; chi**2/np = 4.7798E-01; chi**2 = 1.0515E+02;
+ End of summary
+
+ Summary
+ nacc =  2450000; ngen =  2674364; chi**2/dof = 1.5026E-01; chi**2 = 8.5798E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6463E-04; chi**2/np = 3.8999E-01; chi**2 = 8.5798E+01;
+ End of summary
+
+ Summary
+ nacc =  2460000; ngen =  2685257; chi**2/dof = 1.6818E-01; chi**2 = 9.6030E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.3643E-06; chi**2/np = 4.3650E-01; chi**2 = 9.6030E+01;
+ End of summary
+
+ Summary
+ nacc =  2470000; ngen =  2696217; chi**2/dof = 1.5417E-01; chi**2 = 8.8031E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2248E-04; chi**2/np = 4.0014E-01; chi**2 = 8.8031E+01;
+ End of summary
+
+ Summary
+ nacc =  2480000; ngen =  2707058; chi**2/dof = 1.4837E-01; chi**2 = 8.4720E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2970E-05; chi**2/np = 3.8509E-01; chi**2 = 8.4720E+01;
+ End of summary
+
+ Summary
+ nacc =  2490000; ngen =  2717958; chi**2/dof = 1.5107E-01; chi**2 = 8.6259E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0203E-04; chi**2/np = 3.9209E-01; chi**2 = 8.6259E+01;
+ End of summary
+
+ Summary
+ nacc =  2500000; ngen =  2728807; chi**2/dof = 1.4297E-01; chi**2 = 8.1633E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8970E-05; chi**2/np = 3.7106E-01; chi**2 = 8.1633E+01;
+ End of summary
+
+ Summary
+ nacc =  2510000; ngen =  2739653; chi**2/dof = 1.4407E-01; chi**2 = 8.2266E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4350E-05; chi**2/np = 3.7394E-01; chi**2 = 8.2266E+01;
+ End of summary
+
+ Summary
+ nacc =  2520000; ngen =  2750545; chi**2/dof = 1.4865E-01; chi**2 = 8.4877E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.8030E-05; chi**2/np = 3.8580E-01; chi**2 = 8.4877E+01;
+ End of summary
+
+ Summary
+ nacc =  2530000; ngen =  2761496; chi**2/dof = 1.3780E-01; chi**2 = 7.8685E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1108E-04; chi**2/np = 3.5766E-01; chi**2 = 7.8685E+01;
+ End of summary
+
+ Summary
+ nacc =  2540000; ngen =  2772463; chi**2/dof = 1.6192E-01; chi**2 = 9.2454E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0179E-04; chi**2/np = 4.2025E-01; chi**2 = 9.2454E+01;
+ End of summary
+
+ Summary
+ nacc =  2550000; ngen =  2783319; chi**2/dof = 1.6177E-01; chi**2 = 9.2373E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7666E-04; chi**2/np = 4.1988E-01; chi**2 = 9.2373E+01;
+ End of summary
+
+ Summary
+ nacc =  2560000; ngen =  2794254; chi**2/dof = 1.4452E-01; chi**2 = 8.2519E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.3135E-05; chi**2/np = 3.7509E-01; chi**2 = 8.2519E+01;
+ End of summary
+
+ Summary
+ nacc =  2570000; ngen =  2805130; chi**2/dof = 1.3384E-01; chi**2 = 7.6420E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.3686E-05; chi**2/np = 3.4736E-01; chi**2 = 7.6420E+01;
+ End of summary
+
+ Summary
+ nacc =  2580000; ngen =  2815988; chi**2/dof = 1.3664E-01; chi**2 = 7.8022E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.0583E-06; chi**2/np = 3.5464E-01; chi**2 = 7.8022E+01;
+ End of summary
+
+ Summary
+ nacc =  2590000; ngen =  2826880; chi**2/dof = 1.5627E-01; chi**2 = 8.9230E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.3197E-05; chi**2/np = 4.0559E-01; chi**2 = 8.9230E+01;
+ End of summary
+
+ Summary
+ nacc =  2600000; ngen =  2837774; chi**2/dof = 1.4814E-01; chi**2 = 8.4588E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9797E-05; chi**2/np = 3.8449E-01; chi**2 = 8.4588E+01;
+ End of summary
+
+ Summary
+ nacc =  2610000; ngen =  2848666; chi**2/dof = 1.5123E-01; chi**2 = 8.6351E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2363E-05; chi**2/np = 3.9251E-01; chi**2 = 8.6351E+01;
+ End of summary
+
+ Summary
+ nacc =  2620000; ngen =  2859530; chi**2/dof = 1.6059E-01; chi**2 = 9.1694E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8305E-04; chi**2/np = 4.1679E-01; chi**2 = 9.1694E+01;
+ End of summary
+
+ Summary
+ nacc =  2630000; ngen =  2870512; chi**2/dof = 1.6220E-01; chi**2 = 9.2616E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8227E-05; chi**2/np = 4.2098E-01; chi**2 = 9.2616E+01;
+ End of summary
+
+ Summary
+ nacc =  2640000; ngen =  2881424; chi**2/dof = 1.7443E-01; chi**2 = 9.9599E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2871E-05; chi**2/np = 4.5272E-01; chi**2 = 9.9599E+01;
+ End of summary
+
+ Summary
+ nacc =  2650000; ngen =  2892307; chi**2/dof = 1.7788E-01; chi**2 = 1.0157E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.5925E-04; chi**2/np = 4.6169E-01; chi**2 = 1.0157E+02;
+ End of summary
+
+ Summary
+ nacc =  2660000; ngen =  2903110; chi**2/dof = 1.8468E-01; chi**2 = 1.0545E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8816E-04; chi**2/np = 4.7933E-01; chi**2 = 1.0545E+02;
+ End of summary
+
+ Summary
+ nacc =  2670000; ngen =  2914063; chi**2/dof = 1.8219E-01; chi**2 = 1.0403E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.1182E-05; chi**2/np = 4.7287E-01; chi**2 = 1.0403E+02;
+ End of summary
+
+ Summary
+ nacc =  2680000; ngen =  2924971; chi**2/dof = 2.1115E-01; chi**2 = 1.2057E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1072E-04; chi**2/np = 5.4804E-01; chi**2 = 1.2057E+02;
+ End of summary
+
+ Summary
+ nacc =  2690000; ngen =  2935829; chi**2/dof = 2.0377E-01; chi**2 = 1.1635E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.7842E-05; chi**2/np = 5.2888E-01; chi**2 = 1.1635E+02;
+ End of summary
+
+ Summary
+ nacc =  2700000; ngen =  2946744; chi**2/dof = 2.0967E-01; chi**2 = 1.1972E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.1119E-05; chi**2/np = 5.4419E-01; chi**2 = 1.1972E+02;
+ End of summary
+
+ Summary
+ nacc =  2710000; ngen =  2957637; chi**2/dof = 2.0987E-01; chi**2 = 1.1984E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0408E-04; chi**2/np = 5.4472E-01; chi**2 = 1.1984E+02;
+ End of summary
+
+ Summary
+ nacc =  2720000; ngen =  2968464; chi**2/dof = 1.9345E-01; chi**2 = 1.1046E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6704E-05; chi**2/np = 5.0209E-01; chi**2 = 1.1046E+02;
+ End of summary
+
+ Summary
+ nacc =  2730000; ngen =  2979327; chi**2/dof = 2.0237E-01; chi**2 = 1.1555E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.7733E-06; chi**2/np = 5.2524E-01; chi**2 = 1.1555E+02;
+ End of summary
+
+ Summary
+ nacc =  2740000; ngen =  2990275; chi**2/dof = 2.1046E-01; chi**2 = 1.2017E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0067E-04; chi**2/np = 5.4625E-01; chi**2 = 1.2017E+02;
+ End of summary
+
+ Summary
+ nacc =  2750000; ngen =  3001189; chi**2/dof = 1.8097E-01; chi**2 = 1.0333E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.3454E-05; chi**2/np = 4.6970E-01; chi**2 = 1.0333E+02;
+ End of summary
+
+ Summary
+ nacc =  2760000; ngen =  3012082; chi**2/dof = 1.8111E-01; chi**2 = 1.0341E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.3874E-05; chi**2/np = 4.7006E-01; chi**2 = 1.0341E+02;
+ End of summary
+
+ Summary
+ nacc =  2770000; ngen =  3022989; chi**2/dof = 1.6071E-01; chi**2 = 9.1766E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.5834E-05; chi**2/np = 4.1712E-01; chi**2 = 9.1766E+01;
+ End of summary
+
+ Summary
+ nacc =  2780000; ngen =  3033881; chi**2/dof = 1.6286E-01; chi**2 = 9.2991E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6249E-04; chi**2/np = 4.2269E-01; chi**2 = 9.2991E+01;
+ End of summary
+
+ Summary
+ nacc =  2790000; ngen =  3044815; chi**2/dof = 1.8524E-01; chi**2 = 1.0577E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0324E-04; chi**2/np = 4.8079E-01; chi**2 = 1.0577E+02;
+ End of summary
+
+ Summary
+ nacc =  2800000; ngen =  3055717; chi**2/dof = 1.8279E-01; chi**2 = 1.0437E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.4124E-06; chi**2/np = 4.7443E-01; chi**2 = 1.0437E+02;
+ End of summary
+
+ Summary
+ nacc =  2810000; ngen =  3066619; chi**2/dof = 1.6154E-01; chi**2 = 9.2242E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.6597E-05; chi**2/np = 4.1928E-01; chi**2 = 9.2242E+01;
+ End of summary
+
+ Summary
+ nacc =  2820000; ngen =  3077572; chi**2/dof = 1.6634E-01; chi**2 = 9.4979E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.1623E-06; chi**2/np = 4.3172E-01; chi**2 = 9.4979E+01;
+ End of summary
+
+ Summary
+ nacc =  2830000; ngen =  3088450; chi**2/dof = 1.6135E-01; chi**2 = 9.2129E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2552E-04; chi**2/np = 4.1877E-01; chi**2 = 9.2129E+01;
+ End of summary
+
+ Summary
+ nacc =  2840000; ngen =  3099356; chi**2/dof = 1.6372E-01; chi**2 = 9.3486E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8638E-06; chi**2/np = 4.2494E-01; chi**2 = 9.3486E+01;
+ End of summary
+
+ Summary
+ nacc =  2850000; ngen =  3110335; chi**2/dof = 1.8309E-01; chi**2 = 1.0454E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2481E-04; chi**2/np = 4.7520E-01; chi**2 = 1.0454E+02;
+ End of summary
+
+ Summary
+ nacc =  2860000; ngen =  3121279; chi**2/dof = 1.6324E-01; chi**2 = 9.3210E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2137E-04; chi**2/np = 4.2368E-01; chi**2 = 9.3210E+01;
+ End of summary
+
+ Summary
+ nacc =  2870000; ngen =  3132138; chi**2/dof = 1.8178E-01; chi**2 = 1.0379E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.4243E-04; chi**2/np = 4.7179E-01; chi**2 = 1.0379E+02;
+ End of summary
+
+ Summary
+ nacc =  2880000; ngen =  3143073; chi**2/dof = 1.7329E-01; chi**2 = 9.8947E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.6370E-05; chi**2/np = 4.4976E-01; chi**2 = 9.8947E+01;
+ End of summary
+
+ Summary
+ nacc =  2890000; ngen =  3153999; chi**2/dof = 1.7080E-01; chi**2 = 9.7526E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8429E-05; chi**2/np = 4.4330E-01; chi**2 = 9.7526E+01;
+ End of summary
+
+ Summary
+ nacc =  2900000; ngen =  3164862; chi**2/dof = 1.6224E-01; chi**2 = 9.2636E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2794E-04; chi**2/np = 4.2107E-01; chi**2 = 9.2636E+01;
+ End of summary
+
+ Summary
+ nacc =  2910000; ngen =  3175725; chi**2/dof = 1.6109E-01; chi**2 = 9.1981E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.8136E-05; chi**2/np = 4.1810E-01; chi**2 = 9.1981E+01;
+ End of summary
+
+ Summary
+ nacc =  2920000; ngen =  3186670; chi**2/dof = 1.5882E-01; chi**2 = 9.0684E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.3334E-04; chi**2/np = 4.1220E-01; chi**2 = 9.0684E+01;
+ End of summary
+
+ Summary
+ nacc =  2930000; ngen =  3197533; chi**2/dof = 1.5959E-01; chi**2 = 9.1125E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3200E-04; chi**2/np = 4.1420E-01; chi**2 = 9.1125E+01;
+ End of summary
+
+ Summary
+ nacc =  2940000; ngen =  3208375; chi**2/dof = 1.7583E-01; chi**2 = 1.0040E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.3112E-05; chi**2/np = 4.5636E-01; chi**2 = 1.0040E+02;
+ End of summary
+
+ Summary
+ nacc =  2950000; ngen =  3219268; chi**2/dof = 1.6627E-01; chi**2 = 9.4942E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9849E-05; chi**2/np = 4.3155E-01; chi**2 = 9.4942E+01;
+ End of summary
+
+ Summary
+ nacc =  2960000; ngen =  3230125; chi**2/dof = 1.8104E-01; chi**2 = 1.0338E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.6495E-05; chi**2/np = 4.6989E-01; chi**2 = 1.0338E+02;
+ End of summary
+
+ Summary
+ nacc =  2970000; ngen =  3241011; chi**2/dof = 1.7346E-01; chi**2 = 9.9043E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.9324E-05; chi**2/np = 4.5020E-01; chi**2 = 9.9043E+01;
+ End of summary
+
+ Summary
+ nacc =  2980000; ngen =  3251918; chi**2/dof = 1.7215E-01; chi**2 = 9.8296E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6309E-05; chi**2/np = 4.4680E-01; chi**2 = 9.8296E+01;
+ End of summary
+
+ Summary
+ nacc =  2990000; ngen =  3262828; chi**2/dof = 1.7059E-01; chi**2 = 9.7409E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1106E-04; chi**2/np = 4.4277E-01; chi**2 = 9.7409E+01;
+ End of summary
+
+ Summary
+ nacc =  3000000; ngen =  3273728; chi**2/dof = 1.8216E-01; chi**2 = 1.0401E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1158E-04; chi**2/np = 4.7278E-01; chi**2 = 1.0401E+02;
+ End of summary
+
+ Summary
+ nacc =  3010000; ngen =  3284666; chi**2/dof = 1.8799E-01; chi**2 = 1.0734E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1166E-04; chi**2/np = 4.8791E-01; chi**2 = 1.0734E+02;
+ End of summary
+
+ Summary
+ nacc =  3020000; ngen =  3295545; chi**2/dof = 1.9041E-01; chi**2 = 1.0873E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.1631E-04; chi**2/np = 4.9421E-01; chi**2 = 1.0873E+02;
+ End of summary
+
+ Summary
+ nacc =  3030000; ngen =  3306470; chi**2/dof = 2.0023E-01; chi**2 = 1.1433E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3382E-04; chi**2/np = 5.1970E-01; chi**2 = 1.1433E+02;
+ End of summary
+
+ Summary
+ nacc =  3040000; ngen =  3317414; chi**2/dof = 1.8039E-01; chi**2 = 1.0300E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1092E-04; chi**2/np = 4.6820E-01; chi**2 = 1.0300E+02;
+ End of summary
+
+ Summary
+ nacc =  3050000; ngen =  3328418; chi**2/dof = 1.9302E-01; chi**2 = 1.1022E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.3985E-05; chi**2/np = 5.0098E-01; chi**2 = 1.1022E+02;
+ End of summary
+
+ Summary
+ nacc =  3060000; ngen =  3339314; chi**2/dof = 1.8382E-01; chi**2 = 1.0496E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8997E-05; chi**2/np = 4.7709E-01; chi**2 = 1.0496E+02;
+ End of summary
+
+ Summary
+ nacc =  3070000; ngen =  3350209; chi**2/dof = 1.9786E-01; chi**2 = 1.1298E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.6057E-05; chi**2/np = 5.1354E-01; chi**2 = 1.1298E+02;
+ End of summary
+
+ Summary
+ nacc =  3080000; ngen =  3361176; chi**2/dof = 1.6935E-01; chi**2 = 9.6697E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.2344E-04; chi**2/np = 4.3953E-01; chi**2 = 9.6697E+01;
+ End of summary
+
+ Summary
+ nacc =  3090000; ngen =  3372024; chi**2/dof = 1.6220E-01; chi**2 = 9.2614E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.3410E-06; chi**2/np = 4.2097E-01; chi**2 = 9.2614E+01;
+ End of summary
+
+ Summary
+ nacc =  3100000; ngen =  3382959; chi**2/dof = 1.6576E-01; chi**2 = 9.4648E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9134E-04; chi**2/np = 4.3022E-01; chi**2 = 9.4648E+01;
+ End of summary
+
+ Summary
+ nacc =  3110000; ngen =  3393830; chi**2/dof = 1.5690E-01; chi**2 = 8.9593E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7554E-05; chi**2/np = 4.0724E-01; chi**2 = 8.9593E+01;
+ End of summary
+
+ Summary
+ nacc =  3120000; ngen =  3404688; chi**2/dof = 1.6618E-01; chi**2 = 9.4890E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.6645E-05; chi**2/np = 4.3132E-01; chi**2 = 9.4890E+01;
+ End of summary
+
+ Summary
+ nacc =  3130000; ngen =  3415581; chi**2/dof = 1.5085E-01; chi**2 = 8.6137E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.5570E-06; chi**2/np = 3.9153E-01; chi**2 = 8.6137E+01;
+ End of summary
+
+ Summary
+ nacc =  3140000; ngen =  3426460; chi**2/dof = 1.4680E-01; chi**2 = 8.3822E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.9481E-05; chi**2/np = 3.8101E-01; chi**2 = 8.3822E+01;
+ End of summary
+
+ Summary
+ nacc =  3150000; ngen =  3437414; chi**2/dof = 1.4782E-01; chi**2 = 8.4404E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8013E-04; chi**2/np = 3.8366E-01; chi**2 = 8.4404E+01;
+ End of summary
+
+ Summary
+ nacc =  3160000; ngen =  3448341; chi**2/dof = 1.5179E-01; chi**2 = 8.6673E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.3068E-05; chi**2/np = 3.9397E-01; chi**2 = 8.6673E+01;
+ End of summary
+
+ Summary
+ nacc =  3170000; ngen =  3459213; chi**2/dof = 1.4878E-01; chi**2 = 8.4953E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.2650E-05; chi**2/np = 3.8615E-01; chi**2 = 8.4953E+01;
+ End of summary
+
+ Summary
+ nacc =  3180000; ngen =  3470182; chi**2/dof = 1.6460E-01; chi**2 = 9.3987E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9442E-04; chi**2/np = 4.2722E-01; chi**2 = 9.3987E+01;
+ End of summary
+
+ Summary
+ nacc =  3190000; ngen =  3481113; chi**2/dof = 1.4626E-01; chi**2 = 8.3515E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0557E-05; chi**2/np = 3.7961E-01; chi**2 = 8.3515E+01;
+ End of summary
+
+ Summary
+ nacc =  3200000; ngen =  3492069; chi**2/dof = 1.7160E-01; chi**2 = 9.7981E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2128E-04; chi**2/np = 4.4537E-01; chi**2 = 9.7981E+01;
+ End of summary
+
+ Summary
+ nacc =  3210000; ngen =  3502971; chi**2/dof = 1.7145E-01; chi**2 = 9.7900E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0381E-05; chi**2/np = 4.4500E-01; chi**2 = 9.7900E+01;
+ End of summary
+
+ Summary
+ nacc =  3220000; ngen =  3513882; chi**2/dof = 1.6529E-01; chi**2 = 9.4380E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9218E-05; chi**2/np = 4.2900E-01; chi**2 = 9.4380E+01;
+ End of summary
+
+ Summary
+ nacc =  3230000; ngen =  3524786; chi**2/dof = 1.7648E-01; chi**2 = 1.0077E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0023E-04; chi**2/np = 4.5804E-01; chi**2 = 1.0077E+02;
+ End of summary
+
+ Summary
+ nacc =  3240000; ngen =  3535733; chi**2/dof = 1.7537E-01; chi**2 = 1.0014E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0031E-04; chi**2/np = 4.5517E-01; chi**2 = 1.0014E+02;
+ End of summary
+
+ Summary
+ nacc =  3250000; ngen =  3546621; chi**2/dof = 1.6757E-01; chi**2 = 9.5682E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9982E-04; chi**2/np = 4.3492E-01; chi**2 = 9.5682E+01;
+ End of summary
+
+ Summary
+ nacc =  3260000; ngen =  3557587; chi**2/dof = 1.9684E-01; chi**2 = 1.1240E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.9387E-04; chi**2/np = 5.1089E-01; chi**2 = 1.1240E+02;
+ End of summary
+
+ Summary
+ nacc =  3270000; ngen =  3568526; chi**2/dof = 1.8813E-01; chi**2 = 1.0742E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.7381E-05; chi**2/np = 4.8828E-01; chi**2 = 1.0742E+02;
+ End of summary
+
+ Summary
+ nacc =  3280000; ngen =  3579407; chi**2/dof = 1.6570E-01; chi**2 = 9.4613E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.9909E-05; chi**2/np = 4.3006E-01; chi**2 = 9.4613E+01;
+ End of summary
+
+ Summary
+ nacc =  3290000; ngen =  3590319; chi**2/dof = 1.5672E-01; chi**2 = 8.9489E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.5452E-05; chi**2/np = 4.0677E-01; chi**2 = 8.9489E+01;
+ End of summary
+
+ Summary
+ nacc =  3300000; ngen =  3601232; chi**2/dof = 1.6341E-01; chi**2 = 9.3306E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.0759E-05; chi**2/np = 4.2412E-01; chi**2 = 9.3306E+01;
+ End of summary
+
+ Summary
+ nacc =  3310000; ngen =  3612158; chi**2/dof = 1.5338E-01; chi**2 = 8.7579E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1809E-04; chi**2/np = 3.9809E-01; chi**2 = 8.7579E+01;
+ End of summary
+
+ Summary
+ nacc =  3320000; ngen =  3623118; chi**2/dof = 1.6667E-01; chi**2 = 9.5170E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.5276E-05; chi**2/np = 4.3259E-01; chi**2 = 9.5170E+01;
+ End of summary
+
+ Summary
+ nacc =  3330000; ngen =  3634086; chi**2/dof = 1.4630E-01; chi**2 = 8.3540E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.3906E-05; chi**2/np = 3.7973E-01; chi**2 = 8.3540E+01;
+ End of summary
+
+ Summary
+ nacc =  3340000; ngen =  3644924; chi**2/dof = 1.4370E-01; chi**2 = 8.2055E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2068E-05; chi**2/np = 3.7298E-01; chi**2 = 8.2055E+01;
+ End of summary
+
+ Summary
+ nacc =  3350000; ngen =  3655857; chi**2/dof = 1.6579E-01; chi**2 = 9.4668E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8596E-05; chi**2/np = 4.3031E-01; chi**2 = 9.4668E+01;
+ End of summary
+
+ Summary
+ nacc =  3360000; ngen =  3666779; chi**2/dof = 1.6971E-01; chi**2 = 9.6902E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7274E-04; chi**2/np = 4.4046E-01; chi**2 = 9.6902E+01;
+ End of summary
+
+ Summary
+ nacc =  3370000; ngen =  3677745; chi**2/dof = 1.8698E-01; chi**2 = 1.0677E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6394E-04; chi**2/np = 4.8530E-01; chi**2 = 1.0677E+02;
+ End of summary
+
+ Summary
+ nacc =  3380000; ngen =  3688553; chi**2/dof = 1.6122E-01; chi**2 = 9.2059E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.6358E-06; chi**2/np = 4.1845E-01; chi**2 = 9.2059E+01;
+ End of summary
+
+ Summary
+ nacc =  3390000; ngen =  3699523; chi**2/dof = 1.8712E-01; chi**2 = 1.0684E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.6934E-05; chi**2/np = 4.8565E-01; chi**2 = 1.0684E+02;
+ End of summary
+
+ Summary
+ nacc =  3400000; ngen =  3710458; chi**2/dof = 1.7135E-01; chi**2 = 9.7842E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.5692E-05; chi**2/np = 4.4474E-01; chi**2 = 9.7842E+01;
+ End of summary
+
+ Summary
+ nacc =  3410000; ngen =  3721359; chi**2/dof = 1.5254E-01; chi**2 = 8.7101E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.6595E-05; chi**2/np = 3.9591E-01; chi**2 = 8.7101E+01;
+ End of summary
+
+ Summary
+ nacc =  3420000; ngen =  3732208; chi**2/dof = 1.6473E-01; chi**2 = 9.4062E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8486E-06; chi**2/np = 4.2756E-01; chi**2 = 9.4062E+01;
+ End of summary
+
+ Summary
+ nacc =  3430000; ngen =  3743181; chi**2/dof = 1.6474E-01; chi**2 = 9.4066E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8384E-06; chi**2/np = 4.2757E-01; chi**2 = 9.4066E+01;
+ End of summary
+
+ Summary
+ nacc =  3440000; ngen =  3754122; chi**2/dof = 1.8004E-01; chi**2 = 1.0280E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0142E-04; chi**2/np = 4.6729E-01; chi**2 = 1.0280E+02;
+ End of summary
+
+ Summary
+ nacc =  3450000; ngen =  3765005; chi**2/dof = 1.9740E-01; chi**2 = 1.1271E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.9563E-05; chi**2/np = 5.1233E-01; chi**2 = 1.1271E+02;
+ End of summary
+
+ Summary
+ nacc =  3460000; ngen =  3775874; chi**2/dof = 2.0445E-01; chi**2 = 1.1674E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.4230E-05; chi**2/np = 5.3064E-01; chi**2 = 1.1674E+02;
+ End of summary
+
+ Summary
+ nacc =  3470000; ngen =  3786818; chi**2/dof = 2.4374E-01; chi**2 = 1.3918E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.1940E-04; chi**2/np = 6.3262E-01; chi**2 = 1.3918E+02;
+ End of summary
+
+ Summary
+ nacc =  3480000; ngen =  3797733; chi**2/dof = 1.9692E-01; chi**2 = 1.1244E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.5404E-05; chi**2/np = 5.1111E-01; chi**2 = 1.1244E+02;
+ End of summary
+
+ Summary
+ nacc =  3490000; ngen =  3808694; chi**2/dof = 1.9664E-01; chi**2 = 1.1228E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.8056E-05; chi**2/np = 5.1036E-01; chi**2 = 1.1228E+02;
+ End of summary
+
+ Summary
+ nacc =  3500000; ngen =  3819603; chi**2/dof = 2.1046E-01; chi**2 = 1.2017E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7892E-04; chi**2/np = 5.4623E-01; chi**2 = 1.2017E+02;
+ End of summary
+
+ Summary
+ nacc =  3510000; ngen =  3830513; chi**2/dof = 2.1257E-01; chi**2 = 1.2138E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.5359E-05; chi**2/np = 5.5171E-01; chi**2 = 1.2138E+02;
+ End of summary
+
+ Summary
+ nacc =  3520000; ngen =  3841446; chi**2/dof = 2.1553E-01; chi**2 = 1.2307E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.5023E-05; chi**2/np = 5.5941E-01; chi**2 = 1.2307E+02;
+ End of summary
+
+ Summary
+ nacc =  3530000; ngen =  3852424; chi**2/dof = 2.3813E-01; chi**2 = 1.3597E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.6784E-05; chi**2/np = 6.1805E-01; chi**2 = 1.3597E+02;
+ End of summary
+
+ Summary
+ nacc =  3540000; ngen =  3863417; chi**2/dof = 2.3664E-01; chi**2 = 1.3512E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.0421E-06; chi**2/np = 6.1420E-01; chi**2 = 1.3512E+02;
+ End of summary
+
+ Summary
+ nacc =  3550000; ngen =  3874368; chi**2/dof = 2.2086E-01; chi**2 = 1.2611E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.2268E-05; chi**2/np = 5.7322E-01; chi**2 = 1.2611E+02;
+ End of summary
+
+ Summary
+ nacc =  3560000; ngen =  3885257; chi**2/dof = 2.5936E-01; chi**2 = 1.4809E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7818E-05; chi**2/np = 6.7315E-01; chi**2 = 1.4809E+02;
+ End of summary
+
+ Summary
+ nacc =  3570000; ngen =  3896264; chi**2/dof = 2.7495E-01; chi**2 = 1.5700E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1764E-04; chi**2/np = 7.1362E-01; chi**2 = 1.5700E+02;
+ End of summary
+
+ Summary
+ nacc =  3580000; ngen =  3907195; chi**2/dof = 2.8937E-01; chi**2 = 1.6523E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9855E-05; chi**2/np = 7.5105E-01; chi**2 = 1.6523E+02;
+ End of summary
+
+ Summary
+ nacc =  3590000; ngen =  3918111; chi**2/dof = 2.6611E-01; chi**2 = 1.5195E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.5876E-05; chi**2/np = 6.9068E-01; chi**2 = 1.5195E+02;
+ End of summary
+
+ Summary
+ nacc =  3600000; ngen =  3928987; chi**2/dof = 2.3678E-01; chi**2 = 1.3520E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0741E-04; chi**2/np = 6.1456E-01; chi**2 = 1.3520E+02;
+ End of summary
+
+ Summary
+ nacc =  3610000; ngen =  3939904; chi**2/dof = 2.5498E-01; chi**2 = 1.4559E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.3490E-06; chi**2/np = 6.6179E-01; chi**2 = 1.4559E+02;
+ End of summary
+
+ Summary
+ nacc =  3620000; ngen =  3950876; chi**2/dof = 2.5671E-01; chi**2 = 1.4658E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9400E-05; chi**2/np = 6.6628E-01; chi**2 = 1.4658E+02;
+ End of summary
+
+ Summary
+ nacc =  3630000; ngen =  3961829; chi**2/dof = 2.3862E-01; chi**2 = 1.3625E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.3881E-05; chi**2/np = 6.1934E-01; chi**2 = 1.3625E+02;
+ End of summary
+
+ Summary
+ nacc =  3640000; ngen =  3972804; chi**2/dof = 2.4380E-01; chi**2 = 1.3921E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6028E-04; chi**2/np = 6.3277E-01; chi**2 = 1.3921E+02;
+ End of summary
+
+ Summary
+ nacc =  3650000; ngen =  3983770; chi**2/dof = 2.2846E-01; chi**2 = 1.3045E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.3866E-06; chi**2/np = 5.9296E-01; chi**2 = 1.3045E+02;
+ End of summary
+
+ Summary
+ nacc =  3660000; ngen =  3994717; chi**2/dof = 2.5104E-01; chi**2 = 1.4334E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.7712E-05; chi**2/np = 6.5156E-01; chi**2 = 1.4334E+02;
+ End of summary
+
+ Summary
+ nacc =  3670000; ngen =  4005618; chi**2/dof = 2.4166E-01; chi**2 = 1.3799E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1836E-04; chi**2/np = 6.2722E-01; chi**2 = 1.3799E+02;
+ End of summary
+
+ Summary
+ nacc =  3680000; ngen =  4016511; chi**2/dof = 2.4815E-01; chi**2 = 1.4169E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1298E-04; chi**2/np = 6.4405E-01; chi**2 = 1.4169E+02;
+ End of summary
+
+ Summary
+ nacc =  3690000; ngen =  4027397; chi**2/dof = 2.6624E-01; chi**2 = 1.5203E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7362E-04; chi**2/np = 6.9103E-01; chi**2 = 1.5203E+02;
+ End of summary
+
+ Summary
+ nacc =  3700000; ngen =  4038392; chi**2/dof = 2.2708E-01; chi**2 = 1.2966E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2597E-04; chi**2/np = 5.8936E-01; chi**2 = 1.2966E+02;
+ End of summary
+
+ Summary
+ nacc =  3710000; ngen =  4049338; chi**2/dof = 2.3197E-01; chi**2 = 1.3246E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.0822E-06; chi**2/np = 6.0208E-01; chi**2 = 1.3246E+02;
+ End of summary
+
+ Summary
+ nacc =  3720000; ngen =  4060271; chi**2/dof = 2.1998E-01; chi**2 = 1.2561E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8072E-04; chi**2/np = 5.7094E-01; chi**2 = 1.2561E+02;
+ End of summary
+
+ Summary
+ nacc =  3730000; ngen =  4071105; chi**2/dof = 2.3555E-01; chi**2 = 1.3450E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.5911E-05; chi**2/np = 6.1136E-01; chi**2 = 1.3450E+02;
+ End of summary
+
+ Summary
+ nacc =  3740000; ngen =  4081987; chi**2/dof = 2.5956E-01; chi**2 = 1.4821E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.7511E-05; chi**2/np = 6.7368E-01; chi**2 = 1.4821E+02;
+ End of summary
+
+ Summary
+ nacc =  3750000; ngen =  4092846; chi**2/dof = 2.3208E-01; chi**2 = 1.3252E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.0272E-05; chi**2/np = 6.0236E-01; chi**2 = 1.3252E+02;
+ End of summary
+
+ Summary
+ nacc =  3760000; ngen =  4103747; chi**2/dof = 2.2923E-01; chi**2 = 1.3089E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.3965E-06; chi**2/np = 5.9496E-01; chi**2 = 1.3089E+02;
+ End of summary
+
+ Summary
+ nacc =  3770000; ngen =  4114609; chi**2/dof = 2.5695E-01; chi**2 = 1.4672E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.3071E-05; chi**2/np = 6.6689E-01; chi**2 = 1.4672E+02;
+ End of summary
+
+ Summary
+ nacc =  3780000; ngen =  4125566; chi**2/dof = 2.3279E-01; chi**2 = 1.3293E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9294E-04; chi**2/np = 6.0421E-01; chi**2 = 1.3293E+02;
+ End of summary
+
+ Summary
+ nacc =  3790000; ngen =  4136503; chi**2/dof = 2.2525E-01; chi**2 = 1.2862E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1519E-05; chi**2/np = 5.8463E-01; chi**2 = 1.2862E+02;
+ End of summary
+
+ Summary
+ nacc =  3800000; ngen =  4147495; chi**2/dof = 2.1760E-01; chi**2 = 1.2425E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4529E-04; chi**2/np = 5.6476E-01; chi**2 = 1.2425E+02;
+ End of summary
+
+ Summary
+ nacc =  3810000; ngen =  4158437; chi**2/dof = 2.1816E-01; chi**2 = 1.2457E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.6900E-05; chi**2/np = 5.6622E-01; chi**2 = 1.2457E+02;
+ End of summary
+
+ Summary
+ nacc =  3820000; ngen =  4169418; chi**2/dof = 2.3226E-01; chi**2 = 1.3262E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8581E-04; chi**2/np = 6.0282E-01; chi**2 = 1.3262E+02;
+ End of summary
+
+ Summary
+ nacc =  3830000; ngen =  4180294; chi**2/dof = 2.3973E-01; chi**2 = 1.3689E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7053E-04; chi**2/np = 6.2222E-01; chi**2 = 1.3689E+02;
+ End of summary
+
+ Summary
+ nacc =  3840000; ngen =  4191265; chi**2/dof = 2.4635E-01; chi**2 = 1.4066E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.0755E-04; chi**2/np = 6.3938E-01; chi**2 = 1.4066E+02;
+ End of summary
+
+ Summary
+ nacc =  3850000; ngen =  4202191; chi**2/dof = 2.2089E-01; chi**2 = 1.2613E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9640E-06; chi**2/np = 5.7330E-01; chi**2 = 1.2613E+02;
+ End of summary
+
+ Summary
+ nacc =  3860000; ngen =  4213022; chi**2/dof = 2.2649E-01; chi**2 = 1.2932E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6509E-04; chi**2/np = 5.8783E-01; chi**2 = 1.2932E+02;
+ End of summary
+
+ Summary
+ nacc =  3870000; ngen =  4223963; chi**2/dof = 2.2838E-01; chi**2 = 1.3041E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.1966E-05; chi**2/np = 5.9276E-01; chi**2 = 1.3041E+02;
+ End of summary
+
+ Summary
+ nacc =  3880000; ngen =  4234906; chi**2/dof = 2.2557E-01; chi**2 = 1.2880E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.1031E-05; chi**2/np = 5.8544E-01; chi**2 = 1.2880E+02;
+ End of summary
+
+ Summary
+ nacc =  3890000; ngen =  4245831; chi**2/dof = 2.1352E-01; chi**2 = 1.2192E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.6670E-05; chi**2/np = 5.5419E-01; chi**2 = 1.2192E+02;
+ End of summary
+
+ Summary
+ nacc =  3900000; ngen =  4256772; chi**2/dof = 2.3368E-01; chi**2 = 1.3343E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8749E-04; chi**2/np = 6.0650E-01; chi**2 = 1.3343E+02;
+ End of summary
+
+ Summary
+ nacc =  3910000; ngen =  4267664; chi**2/dof = 2.1301E-01; chi**2 = 1.2163E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0979E-04; chi**2/np = 5.5285E-01; chi**2 = 1.2163E+02;
+ End of summary
+
+ Summary
+ nacc =  3920000; ngen =  4278529; chi**2/dof = 1.9368E-01; chi**2 = 1.1059E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.2084E-05; chi**2/np = 5.0270E-01; chi**2 = 1.1059E+02;
+ End of summary
+
+ Summary
+ nacc =  3930000; ngen =  4289446; chi**2/dof = 1.8818E-01; chi**2 = 1.0745E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0222E-04; chi**2/np = 4.8841E-01; chi**2 = 1.0745E+02;
+ End of summary
+
+ Summary
+ nacc =  3940000; ngen =  4300382; chi**2/dof = 2.0682E-01; chi**2 = 1.1810E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.7237E-04; chi**2/np = 5.3680E-01; chi**2 = 1.1810E+02;
+ End of summary
+
+ Summary
+ nacc =  3950000; ngen =  4311296; chi**2/dof = 1.9487E-01; chi**2 = 1.1127E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.5498E-05; chi**2/np = 5.0579E-01; chi**2 = 1.1127E+02;
+ End of summary
+
+ Summary
+ nacc =  3960000; ngen =  4322265; chi**2/dof = 1.9530E-01; chi**2 = 1.1151E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1553E-04; chi**2/np = 5.0688E-01; chi**2 = 1.1151E+02;
+ End of summary
+
+ Summary
+ nacc =  3970000; ngen =  4333122; chi**2/dof = 1.8827E-01; chi**2 = 1.0750E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2192E-05; chi**2/np = 4.8865E-01; chi**2 = 1.0750E+02;
+ End of summary
+
+ Summary
+ nacc =  3980000; ngen =  4344013; chi**2/dof = 1.7791E-01; chi**2 = 1.0158E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6463E-05; chi**2/np = 4.6175E-01; chi**2 = 1.0158E+02;
+ End of summary
+
+ Summary
+ nacc =  3990000; ngen =  4354848; chi**2/dof = 1.6375E-01; chi**2 = 9.3503E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.7233E-05; chi**2/np = 4.2501E-01; chi**2 = 9.3503E+01;
+ End of summary
+
+ Summary
+ nacc =  4000000; ngen =  4365719; chi**2/dof = 1.6160E-01; chi**2 = 9.2273E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7655E-04; chi**2/np = 4.1942E-01; chi**2 = 9.2273E+01;
+ End of summary
+
+ Summary
+ nacc =  4010000; ngen =  4376648; chi**2/dof = 1.7583E-01; chi**2 = 1.0040E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6966E-05; chi**2/np = 4.5637E-01; chi**2 = 1.0040E+02;
+ End of summary
+
+ Summary
+ nacc =  4020000; ngen =  4387518; chi**2/dof = 1.7459E-01; chi**2 = 9.9692E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4662E-04; chi**2/np = 4.5315E-01; chi**2 = 9.9692E+01;
+ End of summary
+
+ Summary
+ nacc =  4030000; ngen =  4398416; chi**2/dof = 1.8449E-01; chi**2 = 1.0534E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3626E-04; chi**2/np = 4.7884E-01; chi**2 = 1.0534E+02;
+ End of summary
+
+ Summary
+ nacc =  4040000; ngen =  4409274; chi**2/dof = 1.7131E-01; chi**2 = 9.7820E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8430E-04; chi**2/np = 4.4463E-01; chi**2 = 9.7820E+01;
+ End of summary
+
+ Summary
+ nacc =  4050000; ngen =  4420180; chi**2/dof = 1.7883E-01; chi**2 = 1.0211E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.7340E-05; chi**2/np = 4.6416E-01; chi**2 = 1.0211E+02;
+ End of summary
+
+ Summary
+ nacc =  4060000; ngen =  4431054; chi**2/dof = 1.8575E-01; chi**2 = 1.0607E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.8959E-05; chi**2/np = 4.8211E-01; chi**2 = 1.0607E+02;
+ End of summary
+
+ Summary
+ nacc =  4070000; ngen =  4441988; chi**2/dof = 1.8191E-01; chi**2 = 1.0387E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.4452E-05; chi**2/np = 4.7214E-01; chi**2 = 1.0387E+02;
+ End of summary
+
+ Summary
+ nacc =  4080000; ngen =  4452907; chi**2/dof = 1.8702E-01; chi**2 = 1.0679E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.5602E-05; chi**2/np = 4.8539E-01; chi**2 = 1.0679E+02;
+ End of summary
+
+ Summary
+ nacc =  4090000; ngen =  4463810; chi**2/dof = 1.7471E-01; chi**2 = 9.9760E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.7159E-06; chi**2/np = 4.5345E-01; chi**2 = 9.9760E+01;
+ End of summary
+
+ Summary
+ nacc =  4100000; ngen =  4474668; chi**2/dof = 1.6696E-01; chi**2 = 9.5335E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.0328E-05; chi**2/np = 4.3334E-01; chi**2 = 9.5335E+01;
+ End of summary
+
+ Summary
+ nacc =  4110000; ngen =  4485637; chi**2/dof = 1.9972E-01; chi**2 = 1.1404E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.1064E-05; chi**2/np = 5.1837E-01; chi**2 = 1.1404E+02;
+ End of summary
+
+ Summary
+ nacc =  4120000; ngen =  4496512; chi**2/dof = 1.7596E-01; chi**2 = 1.0047E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9462E-04; chi**2/np = 4.5668E-01; chi**2 = 1.0047E+02;
+ End of summary
+
+ Summary
+ nacc =  4130000; ngen =  4507479; chi**2/dof = 1.9102E-01; chi**2 = 1.0907E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.6717E-05; chi**2/np = 4.9579E-01; chi**2 = 1.0907E+02;
+ End of summary
+
+ Summary
+ nacc =  4140000; ngen =  4518356; chi**2/dof = 2.0620E-01; chi**2 = 1.1774E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.6550E-05; chi**2/np = 5.3519E-01; chi**2 = 1.1774E+02;
+ End of summary
+
+ Summary
+ nacc =  4150000; ngen =  4529218; chi**2/dof = 1.7666E-01; chi**2 = 1.0087E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0914E-04; chi**2/np = 4.5850E-01; chi**2 = 1.0087E+02;
+ End of summary
+
+ Summary
+ nacc =  4160000; ngen =  4540061; chi**2/dof = 1.5897E-01; chi**2 = 9.0771E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.0574E-05; chi**2/np = 4.1259E-01; chi**2 = 9.0771E+01;
+ End of summary
+
+ Summary
+ nacc =  4170000; ngen =  4550933; chi**2/dof = 1.7710E-01; chi**2 = 1.0112E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5677E-04; chi**2/np = 4.5965E-01; chi**2 = 1.0112E+02;
+ End of summary
+
+ Summary
+ nacc =  4180000; ngen =  4561845; chi**2/dof = 1.8820E-01; chi**2 = 1.0746E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.8482E-05; chi**2/np = 4.8845E-01; chi**2 = 1.0746E+02;
+ End of summary
+
+ Summary
+ nacc =  4190000; ngen =  4572810; chi**2/dof = 1.8461E-01; chi**2 = 1.0541E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.7061E-05; chi**2/np = 4.7915E-01; chi**2 = 1.0541E+02;
+ End of summary
+
+ Summary
+ nacc =  4200000; ngen =  4583639; chi**2/dof = 2.0038E-01; chi**2 = 1.1441E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.8443E-05; chi**2/np = 5.2007E-01; chi**2 = 1.1441E+02;
+ End of summary
+
+ Summary
+ nacc =  4210000; ngen =  4594558; chi**2/dof = 1.7923E-01; chi**2 = 1.0234E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6362E-04; chi**2/np = 4.6519E-01; chi**2 = 1.0234E+02;
+ End of summary
+
+ Summary
+ nacc =  4220000; ngen =  4605468; chi**2/dof = 1.6852E-01; chi**2 = 9.6227E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4009E-04; chi**2/np = 4.3740E-01; chi**2 = 9.6227E+01;
+ End of summary
+
+ Summary
+ nacc =  4230000; ngen =  4616372; chi**2/dof = 1.9048E-01; chi**2 = 1.0876E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5851E-04; chi**2/np = 4.9438E-01; chi**2 = 1.0876E+02;
+ End of summary
+
+ Summary
+ nacc =  4240000; ngen =  4627303; chi**2/dof = 1.9029E-01; chi**2 = 1.0866E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8989E-04; chi**2/np = 4.9389E-01; chi**2 = 1.0866E+02;
+ End of summary
+
+ Summary
+ nacc =  4250000; ngen =  4638257; chi**2/dof = 1.7195E-01; chi**2 = 9.8184E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9089E-04; chi**2/np = 4.4629E-01; chi**2 = 9.8184E+01;
+ End of summary
+
+ Summary
+ nacc =  4260000; ngen =  4649150; chi**2/dof = 1.9540E-01; chi**2 = 1.1158E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8687E-04; chi**2/np = 5.0716E-01; chi**2 = 1.1158E+02;
+ End of summary
+
+ Summary
+ nacc =  4270000; ngen =  4660132; chi**2/dof = 1.8179E-01; chi**2 = 1.0380E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.6093E-05; chi**2/np = 4.7183E-01; chi**2 = 1.0380E+02;
+ End of summary
+
+ Summary
+ nacc =  4280000; ngen =  4671083; chi**2/dof = 1.9133E-01; chi**2 = 1.0925E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4023E-04; chi**2/np = 4.9658E-01; chi**2 = 1.0925E+02;
+ End of summary
+
+ Summary
+ nacc =  4290000; ngen =  4681968; chi**2/dof = 1.8542E-01; chi**2 = 1.0587E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.6233E-05; chi**2/np = 4.8124E-01; chi**2 = 1.0587E+02;
+ End of summary
+
+ Summary
+ nacc =  4300000; ngen =  4692895; chi**2/dof = 1.7376E-01; chi**2 = 9.9217E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4704E-05; chi**2/np = 4.5098E-01; chi**2 = 9.9217E+01;
+ End of summary
+
+ Summary
+ nacc =  4310000; ngen =  4703775; chi**2/dof = 1.7809E-01; chi**2 = 1.0169E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.5658E-05; chi**2/np = 4.6223E-01; chi**2 = 1.0169E+02;
+ End of summary
+
+ Summary
+ nacc =  4320000; ngen =  4714755; chi**2/dof = 1.6888E-01; chi**2 = 9.6430E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1937E-05; chi**2/np = 4.3832E-01; chi**2 = 9.6430E+01;
+ End of summary
+
+ Summary
+ nacc =  4330000; ngen =  4725614; chi**2/dof = 1.6858E-01; chi**2 = 9.6259E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2415E-04; chi**2/np = 4.3754E-01; chi**2 = 9.6259E+01;
+ End of summary
+
+ Summary
+ nacc =  4340000; ngen =  4736465; chi**2/dof = 1.7165E-01; chi**2 = 9.8011E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.4292E-05; chi**2/np = 4.4550E-01; chi**2 = 9.8011E+01;
+ End of summary
+
+ Summary
+ nacc =  4350000; ngen =  4747304; chi**2/dof = 1.6849E-01; chi**2 = 9.6210E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.6220E-07; chi**2/np = 4.3732E-01; chi**2 = 9.6210E+01;
+ End of summary
+
+ Summary
+ nacc =  4360000; ngen =  4758257; chi**2/dof = 1.9056E-01; chi**2 = 1.0881E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1694E-04; chi**2/np = 4.9458E-01; chi**2 = 1.0881E+02;
+ End of summary
+
+ Summary
+ nacc =  4370000; ngen =  4769143; chi**2/dof = 1.8243E-01; chi**2 = 1.0416E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3589E-04; chi**2/np = 4.7348E-01; chi**2 = 1.0416E+02;
+ End of summary
+
+ Summary
+ nacc =  4380000; ngen =  4780074; chi**2/dof = 1.8302E-01; chi**2 = 1.0450E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6015E-04; chi**2/np = 4.7501E-01; chi**2 = 1.0450E+02;
+ End of summary
+
+ Summary
+ nacc =  4390000; ngen =  4790995; chi**2/dof = 1.9099E-01; chi**2 = 1.0906E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8528E-04; chi**2/np = 4.9571E-01; chi**2 = 1.0906E+02;
+ End of summary
+
+ Summary
+ nacc =  4400000; ngen =  4801870; chi**2/dof = 1.9932E-01; chi**2 = 1.1381E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8915E-07; chi**2/np = 5.1732E-01; chi**2 = 1.1381E+02;
+ End of summary
+
+ Summary
+ nacc =  4410000; ngen =  4812777; chi**2/dof = 2.1871E-01; chi**2 = 1.2489E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3419E-04; chi**2/np = 5.6766E-01; chi**2 = 1.2489E+02;
+ End of summary
+
+ Summary
+ nacc =  4420000; ngen =  4823672; chi**2/dof = 2.0905E-01; chi**2 = 1.1937E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.6362E-05; chi**2/np = 5.4257E-01; chi**2 = 1.1937E+02;
+ End of summary
+
+ Summary
+ nacc =  4430000; ngen =  4834609; chi**2/dof = 2.1533E-01; chi**2 = 1.2295E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6000E-04; chi**2/np = 5.5888E-01; chi**2 = 1.2295E+02;
+ End of summary
+
+ Summary
+ nacc =  4440000; ngen =  4845482; chi**2/dof = 2.2626E-01; chi**2 = 1.2920E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.5634E-05; chi**2/np = 5.8725E-01; chi**2 = 1.2920E+02;
+ End of summary
+
+ Summary
+ nacc =  4450000; ngen =  4856396; chi**2/dof = 2.0544E-01; chi**2 = 1.1731E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.3549E-05; chi**2/np = 5.3321E-01; chi**2 = 1.1731E+02;
+ End of summary
+
+ Summary
+ nacc =  4460000; ngen =  4867339; chi**2/dof = 2.0708E-01; chi**2 = 1.1825E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4528E-05; chi**2/np = 5.3748E-01; chi**2 = 1.1825E+02;
+ End of summary
+
+ Summary
+ nacc =  4470000; ngen =  4878189; chi**2/dof = 2.0078E-01; chi**2 = 1.1465E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0507E-04; chi**2/np = 5.2112E-01; chi**2 = 1.1465E+02;
+ End of summary
+
+ Summary
+ nacc =  4480000; ngen =  4889130; chi**2/dof = 1.9135E-01; chi**2 = 1.0926E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.9177E-05; chi**2/np = 4.9665E-01; chi**2 = 1.0926E+02;
+ End of summary
+
+ Summary
+ nacc =  4490000; ngen =  4900064; chi**2/dof = 2.0479E-01; chi**2 = 1.1694E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.0002E-05; chi**2/np = 5.3153E-01; chi**2 = 1.1694E+02;
+ End of summary
+
+ Summary
+ nacc =  4500000; ngen =  4910977; chi**2/dof = 1.7398E-01; chi**2 = 9.9342E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.5028E-05; chi**2/np = 4.5155E-01; chi**2 = 9.9342E+01;
+ End of summary
+
+ Summary
+ nacc =  4510000; ngen =  4921865; chi**2/dof = 1.9503E-01; chi**2 = 1.1136E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.3057E-06; chi**2/np = 5.0619E-01; chi**2 = 1.1136E+02;
+ End of summary
+
+ Summary
+ nacc =  4520000; ngen =  4932733; chi**2/dof = 1.7856E-01; chi**2 = 1.0196E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.8547E-05; chi**2/np = 4.6344E-01; chi**2 = 1.0196E+02;
+ End of summary
+
+ Summary
+ nacc =  4530000; ngen =  4943706; chi**2/dof = 1.8809E-01; chi**2 = 1.0740E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.4664E-05; chi**2/np = 4.8817E-01; chi**2 = 1.0740E+02;
+ End of summary
+
+ Summary
+ nacc =  4540000; ngen =  4954689; chi**2/dof = 1.8005E-01; chi**2 = 1.0281E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.7914E-05; chi**2/np = 4.6731E-01; chi**2 = 1.0281E+02;
+ End of summary
+
+ Summary
+ nacc =  4550000; ngen =  4965593; chi**2/dof = 1.7618E-01; chi**2 = 1.0060E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8893E-04; chi**2/np = 4.5728E-01; chi**2 = 1.0060E+02;
+ End of summary
+
+ Summary
+ nacc =  4560000; ngen =  4976453; chi**2/dof = 1.9264E-01; chi**2 = 1.1000E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.5190E-05; chi**2/np = 5.0000E-01; chi**2 = 1.1000E+02;
+ End of summary
+
+ Summary
+ nacc =  4570000; ngen =  4987394; chi**2/dof = 1.8018E-01; chi**2 = 1.0288E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8331E-04; chi**2/np = 4.6766E-01; chi**2 = 1.0288E+02;
+ End of summary
+
+ Summary
+ nacc =  4580000; ngen =  4998291; chi**2/dof = 2.0380E-01; chi**2 = 1.1637E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7799E-04; chi**2/np = 5.2896E-01; chi**2 = 1.1637E+02;
+ End of summary
+
+ Summary
+ nacc =  4590000; ngen =  5009188; chi**2/dof = 1.8051E-01; chi**2 = 1.0307E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7828E-04; chi**2/np = 4.6849E-01; chi**2 = 1.0307E+02;
+ End of summary
+
+ Summary
+ nacc =  4600000; ngen =  5020131; chi**2/dof = 1.6645E-01; chi**2 = 9.5042E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6392E-04; chi**2/np = 4.3201E-01; chi**2 = 9.5042E+01;
+ End of summary
+
+ Summary
+ nacc =  4610000; ngen =  5031037; chi**2/dof = 1.9652E-01; chi**2 = 1.1221E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1738E-04; chi**2/np = 5.1006E-01; chi**2 = 1.1221E+02;
+ End of summary
+
+ Summary
+ nacc =  4620000; ngen =  5041933; chi**2/dof = 1.5988E-01; chi**2 = 9.1292E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.0275E-06; chi**2/np = 4.1496E-01; chi**2 = 9.1292E+01;
+ End of summary
+
+ Summary
+ nacc =  4630000; ngen =  5052814; chi**2/dof = 1.6234E-01; chi**2 = 9.2699E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6868E-04; chi**2/np = 4.2136E-01; chi**2 = 9.2699E+01;
+ End of summary
+
+ Summary
+ nacc =  4640000; ngen =  5063747; chi**2/dof = 1.7393E-01; chi**2 = 9.9313E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.9278E-06; chi**2/np = 4.5142E-01; chi**2 = 9.9313E+01;
+ End of summary
+
+ Summary
+ nacc =  4650000; ngen =  5074641; chi**2/dof = 1.5787E-01; chi**2 = 9.0142E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.8045E-06; chi**2/np = 4.0974E-01; chi**2 = 9.0142E+01;
+ End of summary
+
+ Summary
+ nacc =  4660000; ngen =  5085574; chi**2/dof = 1.7375E-01; chi**2 = 9.9210E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4509E-05; chi**2/np = 4.5096E-01; chi**2 = 9.9210E+01;
+ End of summary
+
+ Summary
+ nacc =  4670000; ngen =  5096487; chi**2/dof = 1.8457E-01; chi**2 = 1.0539E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9861E-05; chi**2/np = 4.7905E-01; chi**2 = 1.0539E+02;
+ End of summary
+
+ Summary
+ nacc =  4680000; ngen =  5107426; chi**2/dof = 1.9216E-01; chi**2 = 1.0973E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.1243E-04; chi**2/np = 4.9875E-01; chi**2 = 1.0973E+02;
+ End of summary
+
+ Summary
+ nacc =  4690000; ngen =  5118386; chi**2/dof = 1.6738E-01; chi**2 = 9.5573E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1622E-04; chi**2/np = 4.3442E-01; chi**2 = 9.5573E+01;
+ End of summary
+
+ Summary
+ nacc =  4700000; ngen =  5129255; chi**2/dof = 1.4567E-01; chi**2 = 8.3179E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1458E-04; chi**2/np = 3.7809E-01; chi**2 = 8.3179E+01;
+ End of summary
+
+ Summary
+ nacc =  4710000; ngen =  5140192; chi**2/dof = 1.5747E-01; chi**2 = 8.9914E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.0231E-05; chi**2/np = 4.0870E-01; chi**2 = 8.9914E+01;
+ End of summary
+
+ Summary
+ nacc =  4720000; ngen =  5151098; chi**2/dof = 1.6002E-01; chi**2 = 9.1374E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7345E-04; chi**2/np = 4.1534E-01; chi**2 = 9.1374E+01;
+ End of summary
+
+ Summary
+ nacc =  4730000; ngen =  5162009; chi**2/dof = 1.6213E-01; chi**2 = 9.2576E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.3177E-04; chi**2/np = 4.2080E-01; chi**2 = 9.2576E+01;
+ End of summary
+
+ Summary
+ nacc =  4740000; ngen =  5172994; chi**2/dof = 1.6345E-01; chi**2 = 9.3329E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6284E-04; chi**2/np = 4.2422E-01; chi**2 = 9.3329E+01;
+ End of summary
+
+ Summary
+ nacc =  4750000; ngen =  5183927; chi**2/dof = 1.6633E-01; chi**2 = 9.4974E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3890E-04; chi**2/np = 4.3170E-01; chi**2 = 9.4974E+01;
+ End of summary
+
+ Summary
+ nacc =  4760000; ngen =  5194931; chi**2/dof = 1.4588E-01; chi**2 = 8.3296E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.4731E-05; chi**2/np = 3.7862E-01; chi**2 = 8.3296E+01;
+ End of summary
+
+ Summary
+ nacc =  4770000; ngen =  5205828; chi**2/dof = 1.5119E-01; chi**2 = 8.6330E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3556E-05; chi**2/np = 3.9241E-01; chi**2 = 8.6330E+01;
+ End of summary
+
+ Summary
+ nacc =  4780000; ngen =  5216698; chi**2/dof = 1.6072E-01; chi**2 = 9.1772E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2564E-05; chi**2/np = 4.1714E-01; chi**2 = 9.1772E+01;
+ End of summary
+
+ Summary
+ nacc =  4790000; ngen =  5227529; chi**2/dof = 1.6648E-01; chi**2 = 9.5060E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6622E-05; chi**2/np = 4.3209E-01; chi**2 = 9.5060E+01;
+ End of summary
+
+ Summary
+ nacc =  4800000; ngen =  5238409; chi**2/dof = 1.5656E-01; chi**2 = 8.9398E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.0385E-05; chi**2/np = 4.0636E-01; chi**2 = 8.9398E+01;
+ End of summary
+
+ Summary
+ nacc =  4810000; ngen =  5249347; chi**2/dof = 1.5348E-01; chi**2 = 8.7635E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8420E-04; chi**2/np = 3.9834E-01; chi**2 = 8.7635E+01;
+ End of summary
+
+ Summary
+ nacc =  4820000; ngen =  5260248; chi**2/dof = 1.8715E-01; chi**2 = 1.0686E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.3414E-05; chi**2/np = 4.8573E-01; chi**2 = 1.0686E+02;
+ End of summary
+
+ Summary
+ nacc =  4830000; ngen =  5271168; chi**2/dof = 1.9822E-01; chi**2 = 1.1318E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6187E-05; chi**2/np = 5.1447E-01; chi**2 = 1.1318E+02;
+ End of summary
+
+ Summary
+ nacc =  4840000; ngen =  5282074; chi**2/dof = 1.9450E-01; chi**2 = 1.1106E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7664E-04; chi**2/np = 5.0481E-01; chi**2 = 1.1106E+02;
+ End of summary
+
+ Summary
+ nacc =  4850000; ngen =  5292936; chi**2/dof = 1.6299E-01; chi**2 = 9.3068E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2700E-04; chi**2/np = 4.2303E-01; chi**2 = 9.3068E+01;
+ End of summary
+
+ Summary
+ nacc =  4860000; ngen =  5303888; chi**2/dof = 1.9056E-01; chi**2 = 1.0881E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5740E-04; chi**2/np = 4.9459E-01; chi**2 = 1.0881E+02;
+ End of summary
+
+ Summary
+ nacc =  4870000; ngen =  5314867; chi**2/dof = 1.5360E-01; chi**2 = 8.7705E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0049E-05; chi**2/np = 3.9866E-01; chi**2 = 8.7705E+01;
+ End of summary
+
+ Summary
+ nacc =  4880000; ngen =  5325796; chi**2/dof = 1.7306E-01; chi**2 = 9.8817E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.6793E-05; chi**2/np = 4.4917E-01; chi**2 = 9.8817E+01;
+ End of summary
+
+ Summary
+ nacc =  4890000; ngen =  5336767; chi**2/dof = 1.6496E-01; chi**2 = 9.4193E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8187E-04; chi**2/np = 4.2815E-01; chi**2 = 9.4193E+01;
+ End of summary
+
+ Summary
+ nacc =  4900000; ngen =  5347700; chi**2/dof = 1.6054E-01; chi**2 = 9.1669E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4399E-04; chi**2/np = 4.1668E-01; chi**2 = 9.1669E+01;
+ End of summary
+
+ Summary
+ nacc =  4910000; ngen =  5358644; chi**2/dof = 1.7736E-01; chi**2 = 1.0127E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2114E-04; chi**2/np = 4.6032E-01; chi**2 = 1.0127E+02;
+ End of summary
+
+ Summary
+ nacc =  4920000; ngen =  5369530; chi**2/dof = 1.4745E-01; chi**2 = 8.4192E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.8869E-06; chi**2/np = 3.8269E-01; chi**2 = 8.4192E+01;
+ End of summary
+
+ Summary
+ nacc =  4930000; ngen =  5380412; chi**2/dof = 1.5427E-01; chi**2 = 8.8090E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.9320E-05; chi**2/np = 4.0041E-01; chi**2 = 8.8090E+01;
+ End of summary
+
+ Summary
+ nacc =  4940000; ngen =  5391298; chi**2/dof = 1.6641E-01; chi**2 = 9.5022E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1767E-04; chi**2/np = 4.3192E-01; chi**2 = 9.5022E+01;
+ End of summary
+
+ Summary
+ nacc =  4950000; ngen =  5402257; chi**2/dof = 1.6508E-01; chi**2 = 9.4263E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.0600E-05; chi**2/np = 4.2847E-01; chi**2 = 9.4263E+01;
+ End of summary
+
+ Summary
+ nacc =  4960000; ngen =  5413153; chi**2/dof = 1.7673E-01; chi**2 = 1.0091E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0836E-04; chi**2/np = 4.5868E-01; chi**2 = 1.0091E+02;
+ End of summary
+
+ Summary
+ nacc =  4970000; ngen =  5424078; chi**2/dof = 1.8559E-01; chi**2 = 1.0597E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6853E-04; chi**2/np = 4.8168E-01; chi**2 = 1.0597E+02;
+ End of summary
+
+ Summary
+ nacc =  4980000; ngen =  5435053; chi**2/dof = 1.7983E-01; chi**2 = 1.0268E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7312E-05; chi**2/np = 4.6674E-01; chi**2 = 1.0268E+02;
+ End of summary
+
+ Summary
+ nacc =  4990000; ngen =  5445966; chi**2/dof = 1.4640E-01; chi**2 = 8.3597E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.7526E-05; chi**2/np = 3.7999E-01; chi**2 = 8.3597E+01;
+ End of summary
+
+ Summary
+ nacc =  5000000; ngen =  5456838; chi**2/dof = 1.4305E-01; chi**2 = 8.1682E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.2555E-05; chi**2/np = 3.7128E-01; chi**2 = 8.1682E+01;
+ End of summary
+
+ Summary
+ nacc =  5010000; ngen =  5467722; chi**2/dof = 1.6287E-01; chi**2 = 9.3000E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.4770E-05; chi**2/np = 4.2273E-01; chi**2 = 9.3000E+01;
+ End of summary
+
+ Summary
+ nacc =  5020000; ngen =  5478650; chi**2/dof = 1.4161E-01; chi**2 = 8.0858E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6683E-04; chi**2/np = 3.6754E-01; chi**2 = 8.0858E+01;
+ End of summary
+
+ Summary
+ nacc =  5030000; ngen =  5489545; chi**2/dof = 1.4797E-01; chi**2 = 8.4490E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4915E-06; chi**2/np = 3.8404E-01; chi**2 = 8.4490E+01;
+ End of summary
+
+ Summary
+ nacc =  5040000; ngen =  5500419; chi**2/dof = 1.5351E-01; chi**2 = 8.7656E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.0610E-05; chi**2/np = 3.9843E-01; chi**2 = 8.7656E+01;
+ End of summary
+
+ Summary
+ nacc =  5050000; ngen =  5511388; chi**2/dof = 1.5177E-01; chi**2 = 8.6660E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.5161E-06; chi**2/np = 3.9391E-01; chi**2 = 8.6660E+01;
+ End of summary
+
+ Summary
+ nacc =  5060000; ngen =  5522259; chi**2/dof = 1.5268E-01; chi**2 = 8.7182E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7292E-05; chi**2/np = 3.9628E-01; chi**2 = 8.7182E+01;
+ End of summary
+
+ Summary
+ nacc =  5070000; ngen =  5533183; chi**2/dof = 1.7159E-01; chi**2 = 9.7977E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7487E-04; chi**2/np = 4.4535E-01; chi**2 = 9.7977E+01;
+ End of summary
+
+ Summary
+ nacc =  5080000; ngen =  5544131; chi**2/dof = 1.4806E-01; chi**2 = 8.4545E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.6269E-05; chi**2/np = 3.8429E-01; chi**2 = 8.4545E+01;
+ End of summary
+
+ Summary
+ nacc =  5090000; ngen =  5555008; chi**2/dof = 1.8717E-01; chi**2 = 1.0687E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.9666E-05; chi**2/np = 4.8579E-01; chi**2 = 1.0687E+02;
+ End of summary
+
+ Summary
+ nacc =  5100000; ngen =  5566031; chi**2/dof = 1.5824E-01; chi**2 = 9.0356E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9169E-05; chi**2/np = 4.1071E-01; chi**2 = 9.0356E+01;
+ End of summary
+
+ Summary
+ nacc =  5110000; ngen =  5576921; chi**2/dof = 1.6660E-01; chi**2 = 9.5131E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.6547E-05; chi**2/np = 4.3241E-01; chi**2 = 9.5131E+01;
+ End of summary
+
+ Summary
+ nacc =  5120000; ngen =  5587837; chi**2/dof = 1.5224E-01; chi**2 = 8.6926E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0258E-04; chi**2/np = 3.9512E-01; chi**2 = 8.6926E+01;
+ End of summary
+
+ Summary
+ nacc =  5130000; ngen =  5598740; chi**2/dof = 1.6250E-01; chi**2 = 9.2786E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.6548E-05; chi**2/np = 4.2176E-01; chi**2 = 9.2786E+01;
+ End of summary
+
+ Summary
+ nacc =  5140000; ngen =  5609685; chi**2/dof = 1.6958E-01; chi**2 = 9.6831E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.0255E-05; chi**2/np = 4.4014E-01; chi**2 = 9.6831E+01;
+ End of summary
+
+ Summary
+ nacc =  5150000; ngen =  5620587; chi**2/dof = 1.5213E-01; chi**2 = 8.6864E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5150E-06; chi**2/np = 3.9484E-01; chi**2 = 8.6864E+01;
+ End of summary
+
+ Summary
+ nacc =  5160000; ngen =  5631510; chi**2/dof = 1.4866E-01; chi**2 = 8.4887E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9361E-04; chi**2/np = 3.8585E-01; chi**2 = 8.4887E+01;
+ End of summary
+
+ Summary
+ nacc =  5170000; ngen =  5642336; chi**2/dof = 1.5567E-01; chi**2 = 8.8887E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4321E-04; chi**2/np = 4.0403E-01; chi**2 = 8.8887E+01;
+ End of summary
+
+ Summary
+ nacc =  5180000; ngen =  5653290; chi**2/dof = 1.5688E-01; chi**2 = 8.9578E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2532E-04; chi**2/np = 4.0717E-01; chi**2 = 8.9578E+01;
+ End of summary
+
+ Summary
+ nacc =  5190000; ngen =  5664191; chi**2/dof = 1.5223E-01; chi**2 = 8.6922E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4473E-04; chi**2/np = 3.9510E-01; chi**2 = 8.6922E+01;
+ End of summary
+
+ Summary
+ nacc =  5200000; ngen =  5675062; chi**2/dof = 1.3634E-01; chi**2 = 7.7849E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3139E-05; chi**2/np = 3.5386E-01; chi**2 = 7.7849E+01;
+ End of summary
+
+ Summary
+ nacc =  5210000; ngen =  5685936; chi**2/dof = 1.5760E-01; chi**2 = 8.9990E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2775E-04; chi**2/np = 4.0905E-01; chi**2 = 8.9990E+01;
+ End of summary
+
+ Summary
+ nacc =  5220000; ngen =  5696853; chi**2/dof = 1.4705E-01; chi**2 = 8.3966E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4591E-05; chi**2/np = 3.8166E-01; chi**2 = 8.3966E+01;
+ End of summary
+
+ Summary
+ nacc =  5230000; ngen =  5707845; chi**2/dof = 1.6557E-01; chi**2 = 9.4543E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4723E-05; chi**2/np = 4.2974E-01; chi**2 = 9.4543E+01;
+ End of summary
+
+ Summary
+ nacc =  5240000; ngen =  5718730; chi**2/dof = 1.6289E-01; chi**2 = 9.3009E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1436E-04; chi**2/np = 4.2277E-01; chi**2 = 9.3009E+01;
+ End of summary
+
+ Summary
+ nacc =  5250000; ngen =  5729626; chi**2/dof = 1.6093E-01; chi**2 = 9.1890E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2250E-05; chi**2/np = 4.1768E-01; chi**2 = 9.1890E+01;
+ End of summary
+
+ Summary
+ nacc =  5260000; ngen =  5740533; chi**2/dof = 1.7542E-01; chi**2 = 1.0017E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8021E-05; chi**2/np = 4.5531E-01; chi**2 = 1.0017E+02;
+ End of summary
+
+ Summary
+ nacc =  5270000; ngen =  5751497; chi**2/dof = 1.6520E-01; chi**2 = 9.4328E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.6473E-06; chi**2/np = 4.2877E-01; chi**2 = 9.4328E+01;
+ End of summary
+
+ Summary
+ nacc =  5280000; ngen =  5762462; chi**2/dof = 1.5030E-01; chi**2 = 8.5820E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0975E-04; chi**2/np = 3.9009E-01; chi**2 = 8.5820E+01;
+ End of summary
+
+ Summary
+ nacc =  5290000; ngen =  5773395; chi**2/dof = 1.6926E-01; chi**2 = 9.6647E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6084E-04; chi**2/np = 4.3930E-01; chi**2 = 9.6647E+01;
+ End of summary
+
+ Summary
+ nacc =  5300000; ngen =  5784298; chi**2/dof = 1.6821E-01; chi**2 = 9.6045E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.0647E-05; chi**2/np = 4.3657E-01; chi**2 = 9.6045E+01;
+ End of summary
+
+ Summary
+ nacc =  5310000; ngen =  5795213; chi**2/dof = 1.6846E-01; chi**2 = 9.6188E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1956E-04; chi**2/np = 4.3722E-01; chi**2 = 9.6188E+01;
+ End of summary
+
+ Summary
+ nacc =  5320000; ngen =  5806124; chi**2/dof = 1.6514E-01; chi**2 = 9.4294E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3756E-04; chi**2/np = 4.2861E-01; chi**2 = 9.4294E+01;
+ End of summary
+
+ Summary
+ nacc =  5330000; ngen =  5816990; chi**2/dof = 1.6449E-01; chi**2 = 9.3922E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.5770E-05; chi**2/np = 4.2692E-01; chi**2 = 9.3922E+01;
+ End of summary
+
+ Summary
+ nacc =  5340000; ngen =  5827889; chi**2/dof = 1.7511E-01; chi**2 = 9.9990E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4903E-04; chi**2/np = 4.5450E-01; chi**2 = 9.9990E+01;
+ End of summary
+
+ Summary
+ nacc =  5350000; ngen =  5838830; chi**2/dof = 1.7406E-01; chi**2 = 9.9389E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0041E-04; chi**2/np = 4.5177E-01; chi**2 = 9.9389E+01;
+ End of summary
+
+ Summary
+ nacc =  5360000; ngen =  5849747; chi**2/dof = 1.7296E-01; chi**2 = 9.8758E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3661E-04; chi**2/np = 4.4890E-01; chi**2 = 9.8758E+01;
+ End of summary
+
+ Summary
+ nacc =  5370000; ngen =  5860632; chi**2/dof = 1.8005E-01; chi**2 = 1.0281E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.9585E-05; chi**2/np = 4.6732E-01; chi**2 = 1.0281E+02;
+ End of summary
+
+ Summary
+ nacc =  5380000; ngen =  5871585; chi**2/dof = 1.5186E-01; chi**2 = 8.6710E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.2371E-06; chi**2/np = 3.9414E-01; chi**2 = 8.6710E+01;
+ End of summary
+
+ Summary
+ nacc =  5390000; ngen =  5882595; chi**2/dof = 1.6849E-01; chi**2 = 9.6206E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.2587E-05; chi**2/np = 4.3730E-01; chi**2 = 9.6206E+01;
+ End of summary
+
+ Summary
+ nacc =  5400000; ngen =  5893599; chi**2/dof = 1.5540E-01; chi**2 = 8.8735E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.4514E-05; chi**2/np = 4.0334E-01; chi**2 = 8.8735E+01;
+ End of summary
+
+ Summary
+ nacc =  5410000; ngen =  5904571; chi**2/dof = 1.5458E-01; chi**2 = 8.8263E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.3188E-04; chi**2/np = 4.0120E-01; chi**2 = 8.8263E+01;
+ End of summary
+
+ Summary
+ nacc =  5420000; ngen =  5915536; chi**2/dof = 1.4819E-01; chi**2 = 8.4619E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7922E-04; chi**2/np = 3.8463E-01; chi**2 = 8.4619E+01;
+ End of summary
+
+ Summary
+ nacc =  5430000; ngen =  5926435; chi**2/dof = 1.6096E-01; chi**2 = 9.1907E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.4153E-04; chi**2/np = 4.1776E-01; chi**2 = 9.1907E+01;
+ End of summary
+
+ Summary
+ nacc =  5440000; ngen =  5937370; chi**2/dof = 1.7016E-01; chi**2 = 9.7159E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4734E-05; chi**2/np = 4.4163E-01; chi**2 = 9.7159E+01;
+ End of summary
+
+ Summary
+ nacc =  5450000; ngen =  5948256; chi**2/dof = 1.5721E-01; chi**2 = 8.9769E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.7267E-05; chi**2/np = 4.0804E-01; chi**2 = 8.9769E+01;
+ End of summary
+
+ Summary
+ nacc =  5460000; ngen =  5959219; chi**2/dof = 1.5834E-01; chi**2 = 9.0410E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.3055E-05; chi**2/np = 4.1095E-01; chi**2 = 9.0410E+01;
+ End of summary
+
+ Summary
+ nacc =  5470000; ngen =  5970138; chi**2/dof = 1.5129E-01; chi**2 = 8.6389E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.0779E-04; chi**2/np = 3.9268E-01; chi**2 = 8.6389E+01;
+ End of summary
+
+ Summary
+ nacc =  5480000; ngen =  5981055; chi**2/dof = 1.6875E-01; chi**2 = 9.6356E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6260E-05; chi**2/np = 4.3798E-01; chi**2 = 9.6356E+01;
+ End of summary
+
+ Summary
+ nacc =  5490000; ngen =  5991959; chi**2/dof = 1.6867E-01; chi**2 = 9.6312E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.5749E-05; chi**2/np = 4.3778E-01; chi**2 = 9.6312E+01;
+ End of summary
+
+ Summary
+ nacc =  5500000; ngen =  6002907; chi**2/dof = 1.6469E-01; chi**2 = 9.4040E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.4293E-06; chi**2/np = 4.2745E-01; chi**2 = 9.4040E+01;
+ End of summary
+
+ Summary
+ nacc =  5510000; ngen =  6013848; chi**2/dof = 1.5930E-01; chi**2 = 9.0961E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.8024E-05; chi**2/np = 4.1346E-01; chi**2 = 9.0961E+01;
+ End of summary
+
+ Summary
+ nacc =  5520000; ngen =  6024838; chi**2/dof = 1.5549E-01; chi**2 = 8.8783E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1389E-04; chi**2/np = 4.0356E-01; chi**2 = 8.8783E+01;
+ End of summary
+
+ Summary
+ nacc =  5530000; ngen =  6035821; chi**2/dof = 1.5509E-01; chi**2 = 8.8556E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0694E-04; chi**2/np = 4.0253E-01; chi**2 = 8.8556E+01;
+ End of summary
+
+ Summary
+ nacc =  5540000; ngen =  6046738; chi**2/dof = 1.7244E-01; chi**2 = 9.8461E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3973E-04; chi**2/np = 4.4755E-01; chi**2 = 9.8461E+01;
+ End of summary
+
+ Summary
+ nacc =  5550000; ngen =  6057609; chi**2/dof = 1.8729E-01; chi**2 = 1.0694E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.3730E-05; chi**2/np = 4.8610E-01; chi**2 = 1.0694E+02;
+ End of summary
+
+ Summary
+ nacc =  5560000; ngen =  6068523; chi**2/dof = 1.5555E-01; chi**2 = 8.8820E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.1151E-05; chi**2/np = 4.0373E-01; chi**2 = 8.8820E+01;
+ End of summary
+
+ Summary
+ nacc =  5570000; ngen =  6079370; chi**2/dof = 1.5116E-01; chi**2 = 8.6313E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.7757E-05; chi**2/np = 3.9233E-01; chi**2 = 8.6313E+01;
+ End of summary
+
+ Summary
+ nacc =  5580000; ngen =  6090229; chi**2/dof = 1.4569E-01; chi**2 = 8.3190E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.0743E-04; chi**2/np = 3.7813E-01; chi**2 = 8.3190E+01;
+ End of summary
+
+ Summary
+ nacc =  5590000; ngen =  6101061; chi**2/dof = 1.3223E-01; chi**2 = 7.5504E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2185E-04; chi**2/np = 3.4320E-01; chi**2 = 7.5504E+01;
+ End of summary
+
+ Summary
+ nacc =  5600000; ngen =  6111932; chi**2/dof = 1.5040E-01; chi**2 = 8.5878E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.3560E-05; chi**2/np = 3.9036E-01; chi**2 = 8.5878E+01;
+ End of summary
+
+ Summary
+ nacc =  5610000; ngen =  6122766; chi**2/dof = 1.5347E-01; chi**2 = 8.7633E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5899E-05; chi**2/np = 3.9833E-01; chi**2 = 8.7633E+01;
+ End of summary
+
+ Summary
+ nacc =  5620000; ngen =  6133667; chi**2/dof = 1.7338E-01; chi**2 = 9.8999E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8212E-05; chi**2/np = 4.5000E-01; chi**2 = 9.8999E+01;
+ End of summary
+
+ Summary
+ nacc =  5630000; ngen =  6144543; chi**2/dof = 1.6909E-01; chi**2 = 9.6553E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5153E-05; chi**2/np = 4.3888E-01; chi**2 = 9.6553E+01;
+ End of summary
+
+ Summary
+ nacc =  5640000; ngen =  6155512; chi**2/dof = 1.6299E-01; chi**2 = 9.3066E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.4763E-05; chi**2/np = 4.2303E-01; chi**2 = 9.3066E+01;
+ End of summary
+
+ Summary
+ nacc =  5650000; ngen =  6166404; chi**2/dof = 1.5887E-01; chi**2 = 9.0714E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.2026E-06; chi**2/np = 4.1233E-01; chi**2 = 9.0714E+01;
+ End of summary
+
+ Summary
+ nacc =  5660000; ngen =  6177358; chi**2/dof = 1.6532E-01; chi**2 = 9.4398E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4614E-05; chi**2/np = 4.2908E-01; chi**2 = 9.4398E+01;
+ End of summary
+
+ Summary
+ nacc =  5670000; ngen =  6188279; chi**2/dof = 1.8140E-01; chi**2 = 1.0358E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7080E-04; chi**2/np = 4.7082E-01; chi**2 = 1.0358E+02;
+ End of summary
+
+ Summary
+ nacc =  5680000; ngen =  6199239; chi**2/dof = 1.8700E-01; chi**2 = 1.0678E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.0489E-05; chi**2/np = 4.8535E-01; chi**2 = 1.0678E+02;
+ End of summary
+
+ Summary
+ nacc =  5690000; ngen =  6210101; chi**2/dof = 1.7353E-01; chi**2 = 9.9085E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.7028E-05; chi**2/np = 4.5038E-01; chi**2 = 9.9085E+01;
+ End of summary
+
+ Summary
+ nacc =  5700000; ngen =  6221072; chi**2/dof = 1.7195E-01; chi**2 = 9.8183E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.3256E-05; chi**2/np = 4.4629E-01; chi**2 = 9.8183E+01;
+ End of summary
+
+ Summary
+ nacc =  5710000; ngen =  6231973; chi**2/dof = 1.8209E-01; chi**2 = 1.0397E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.7026E-05; chi**2/np = 4.7260E-01; chi**2 = 1.0397E+02;
+ End of summary
+
+ Summary
+ nacc =  5720000; ngen =  6242803; chi**2/dof = 1.9878E-01; chi**2 = 1.1350E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.3534E-05; chi**2/np = 5.1592E-01; chi**2 = 1.1350E+02;
+ End of summary
+
+ Summary
+ nacc =  5730000; ngen =  6253753; chi**2/dof = 1.9501E-01; chi**2 = 1.1135E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3558E-04; chi**2/np = 5.0613E-01; chi**2 = 1.1135E+02;
+ End of summary
+
+ Summary
+ nacc =  5740000; ngen =  6264714; chi**2/dof = 1.7011E-01; chi**2 = 9.7131E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.3199E-05; chi**2/np = 4.4150E-01; chi**2 = 9.7131E+01;
+ End of summary
+
+ Summary
+ nacc =  5750000; ngen =  6275670; chi**2/dof = 1.9490E-01; chi**2 = 1.1129E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.3809E-05; chi**2/np = 5.0585E-01; chi**2 = 1.1129E+02;
+ End of summary
+
+ Summary
+ nacc =  5760000; ngen =  6286674; chi**2/dof = 1.9591E-01; chi**2 = 1.1187E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4397E-04; chi**2/np = 5.0848E-01; chi**2 = 1.1187E+02;
+ End of summary
+
+ Summary
+ nacc =  5770000; ngen =  6297687; chi**2/dof = 2.0261E-01; chi**2 = 1.1569E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6041E-04; chi**2/np = 5.2586E-01; chi**2 = 1.1569E+02;
+ End of summary
+
+ Summary
+ nacc =  5780000; ngen =  6308550; chi**2/dof = 1.7989E-01; chi**2 = 1.0272E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.9587E-05; chi**2/np = 4.6690E-01; chi**2 = 1.0272E+02;
+ End of summary
+
+ Summary
+ nacc =  5790000; ngen =  6319399; chi**2/dof = 1.9042E-01; chi**2 = 1.0873E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2919E-05; chi**2/np = 4.9422E-01; chi**2 = 1.0873E+02;
+ End of summary
+
+ Summary
+ nacc =  5800000; ngen =  6330350; chi**2/dof = 1.9329E-01; chi**2 = 1.1037E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.5403E-06; chi**2/np = 5.0168E-01; chi**2 = 1.1037E+02;
+ End of summary
+
+ Summary
+ nacc =  5810000; ngen =  6341283; chi**2/dof = 2.0589E-01; chi**2 = 1.1756E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9260E-05; chi**2/np = 5.3437E-01; chi**2 = 1.1756E+02;
+ End of summary
+
+ Summary
+ nacc =  5820000; ngen =  6352212; chi**2/dof = 1.7848E-01; chi**2 = 1.0191E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.2247E-05; chi**2/np = 4.6323E-01; chi**2 = 1.0191E+02;
+ End of summary
+
+ Summary
+ nacc =  5830000; ngen =  6363142; chi**2/dof = 1.7685E-01; chi**2 = 1.0098E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.7715E-05; chi**2/np = 4.5902E-01; chi**2 = 1.0098E+02;
+ End of summary
+
+ Summary
+ nacc =  5840000; ngen =  6374056; chi**2/dof = 1.9085E-01; chi**2 = 1.0897E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2902E-04; chi**2/np = 4.9533E-01; chi**2 = 1.0897E+02;
+ End of summary
+
+ Summary
+ nacc =  5850000; ngen =  6384872; chi**2/dof = 1.7744E-01; chi**2 = 1.0132E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.7952E-05; chi**2/np = 4.6053E-01; chi**2 = 1.0132E+02;
+ End of summary
+
+ Summary
+ nacc =  5860000; ngen =  6395832; chi**2/dof = 1.8165E-01; chi**2 = 1.0372E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8088E-05; chi**2/np = 4.7147E-01; chi**2 = 1.0372E+02;
+ End of summary
+
+ Summary
+ nacc =  5870000; ngen =  6406669; chi**2/dof = 1.8317E-01; chi**2 = 1.0459E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.2295E-05; chi**2/np = 4.7540E-01; chi**2 = 1.0459E+02;
+ End of summary
+
+ Summary
+ nacc =  5880000; ngen =  6417564; chi**2/dof = 1.8395E-01; chi**2 = 1.0503E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.1791E-05; chi**2/np = 4.7743E-01; chi**2 = 1.0503E+02;
+ End of summary
+
+ Summary
+ nacc =  5890000; ngen =  6428478; chi**2/dof = 1.8600E-01; chi**2 = 1.0621E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1906E-04; chi**2/np = 4.8276E-01; chi**2 = 1.0621E+02;
+ End of summary
+
+ Summary
+ nacc =  5900000; ngen =  6439325; chi**2/dof = 1.8895E-01; chi**2 = 1.0789E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7939E-04; chi**2/np = 4.9041E-01; chi**2 = 1.0789E+02;
+ End of summary
+
+ Summary
+ nacc =  5910000; ngen =  6450177; chi**2/dof = 2.0775E-01; chi**2 = 1.1863E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9551E-05; chi**2/np = 5.3921E-01; chi**2 = 1.1863E+02;
+ End of summary
+
+ Summary
+ nacc =  5920000; ngen =  6461174; chi**2/dof = 1.8228E-01; chi**2 = 1.0408E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.3915E-06; chi**2/np = 4.7311E-01; chi**2 = 1.0408E+02;
+ End of summary
+
+ Summary
+ nacc =  5930000; ngen =  6472034; chi**2/dof = 2.0786E-01; chi**2 = 1.1869E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1854E-04; chi**2/np = 5.3948E-01; chi**2 = 1.1869E+02;
+ End of summary
+
+ Summary
+ nacc =  5940000; ngen =  6482938; chi**2/dof = 2.0614E-01; chi**2 = 1.1770E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.1547E-05; chi**2/np = 5.3502E-01; chi**2 = 1.1770E+02;
+ End of summary
+
+ Summary
+ nacc =  5950000; ngen =  6493895; chi**2/dof = 1.8342E-01; chi**2 = 1.0473E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7878E-04; chi**2/np = 4.7606E-01; chi**2 = 1.0473E+02;
+ End of summary
+
+ Summary
+ nacc =  5960000; ngen =  6504802; chi**2/dof = 1.7580E-01; chi**2 = 1.0038E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.0007E-05; chi**2/np = 4.5628E-01; chi**2 = 1.0038E+02;
+ End of summary
+
+ Summary
+ nacc =  5970000; ngen =  6515640; chi**2/dof = 1.7842E-01; chi**2 = 1.0188E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.6227E-05; chi**2/np = 4.6308E-01; chi**2 = 1.0188E+02;
+ End of summary
+
+ Summary
+ nacc =  5980000; ngen =  6526539; chi**2/dof = 1.8018E-01; chi**2 = 1.0288E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.8175E-06; chi**2/np = 4.6764E-01; chi**2 = 1.0288E+02;
+ End of summary
+
+ Summary
+ nacc =  5990000; ngen =  6537472; chi**2/dof = 1.7228E-01; chi**2 = 9.8371E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1356E-04; chi**2/np = 4.4714E-01; chi**2 = 9.8371E+01;
+ End of summary
+
+ Summary
+ nacc =  6000000; ngen =  6548348; chi**2/dof = 1.7317E-01; chi**2 = 9.8882E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.3655E-05; chi**2/np = 4.4947E-01; chi**2 = 9.8882E+01;
+ End of summary
+
+ Summary
+ nacc =  6010000; ngen =  6559166; chi**2/dof = 1.7208E-01; chi**2 = 9.8256E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.6285E-05; chi**2/np = 4.4662E-01; chi**2 = 9.8256E+01;
+ End of summary
+
+ Summary
+ nacc =  6020000; ngen =  6570101; chi**2/dof = 1.7151E-01; chi**2 = 9.7930E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  6.2610E-05; chi**2/np = 4.4514E-01; chi**2 = 9.7930E+01;
+ End of summary
+
+ Summary
+ nacc =  6030000; ngen =  6580984; chi**2/dof = 1.4958E-01; chi**2 = 8.5410E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.2231E-05; chi**2/np = 3.8823E-01; chi**2 = 8.5410E+01;
+ End of summary
+
+ Summary
+ nacc =  6040000; ngen =  6591921; chi**2/dof = 1.6230E-01; chi**2 = 9.2675E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.0489E-04; chi**2/np = 4.2125E-01; chi**2 = 9.2675E+01;
+ End of summary
+
+ Summary
+ nacc =  6050000; ngen =  6602871; chi**2/dof = 1.6666E-01; chi**2 = 9.5165E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.7373E-05; chi**2/np = 4.3257E-01; chi**2 = 9.5165E+01;
+ End of summary
+
+ Summary
+ nacc =  6060000; ngen =  6613841; chi**2/dof = 1.5342E-01; chi**2 = 8.7602E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.7400E-05; chi**2/np = 3.9819E-01; chi**2 = 8.7602E+01;
+ End of summary
+
+ Summary
+ nacc =  6070000; ngen =  6624793; chi**2/dof = 1.5357E-01; chi**2 = 8.7687E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7155E-05; chi**2/np = 3.9858E-01; chi**2 = 8.7687E+01;
+ End of summary
+
+ Summary
+ nacc =  6080000; ngen =  6635689; chi**2/dof = 1.4936E-01; chi**2 = 8.5287E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1006E-04; chi**2/np = 3.8767E-01; chi**2 = 8.5287E+01;
+ End of summary
+
+ Summary
+ nacc =  6090000; ngen =  6646640; chi**2/dof = 1.5839E-01; chi**2 = 9.0443E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4170E-04; chi**2/np = 4.1111E-01; chi**2 = 9.0443E+01;
+ End of summary
+
+ Summary
+ nacc =  6100000; ngen =  6657586; chi**2/dof = 1.5568E-01; chi**2 = 8.8893E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0500E-04; chi**2/np = 4.0406E-01; chi**2 = 8.8893E+01;
+ End of summary
+
+ Summary
+ nacc =  6110000; ngen =  6668507; chi**2/dof = 1.8623E-01; chi**2 = 1.0634E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.7293E-04; chi**2/np = 4.8336E-01; chi**2 = 1.0634E+02;
+ End of summary
+
+ Summary
+ nacc =  6120000; ngen =  6679408; chi**2/dof = 1.7672E-01; chi**2 = 1.0091E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.3784E-05; chi**2/np = 4.5867E-01; chi**2 = 1.0091E+02;
+ End of summary
+
+ Summary
+ nacc =  6130000; ngen =  6690338; chi**2/dof = 2.0700E-01; chi**2 = 1.1820E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.8762E-04; chi**2/np = 5.3727E-01; chi**2 = 1.1820E+02;
+ End of summary
+
+ Summary
+ nacc =  6140000; ngen =  6701236; chi**2/dof = 1.8345E-01; chi**2 = 1.0475E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.0762E-05; chi**2/np = 4.7613E-01; chi**2 = 1.0475E+02;
+ End of summary
+
+ Summary
+ nacc =  6150000; ngen =  6712218; chi**2/dof = 1.9139E-01; chi**2 = 1.0928E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.7883E-05; chi**2/np = 4.9674E-01; chi**2 = 1.0928E+02;
+ End of summary
+
+ Summary
+ nacc =  6160000; ngen =  6723118; chi**2/dof = 1.6139E-01; chi**2 = 9.2153E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.8800E-05; chi**2/np = 4.1888E-01; chi**2 = 9.2153E+01;
+ End of summary
+
+ Summary
+ nacc =  6170000; ngen =  6733952; chi**2/dof = 1.5774E-01; chi**2 = 9.0071E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.5008E-04; chi**2/np = 4.0942E-01; chi**2 = 9.0071E+01;
+ End of summary
+
+ Summary
+ nacc =  6180000; ngen =  6744879; chi**2/dof = 1.3853E-01; chi**2 = 7.9102E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.2685E-05; chi**2/np = 3.5956E-01; chi**2 = 7.9102E+01;
+ End of summary
+
+ Summary
+ nacc =  6190000; ngen =  6755693; chi**2/dof = 1.5399E-01; chi**2 = 8.7930E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.6612E-06; chi**2/np = 3.9968E-01; chi**2 = 8.7930E+01;
+ End of summary
+
+ Summary
+ nacc =  6200000; ngen =  6766575; chi**2/dof = 1.6030E-01; chi**2 = 9.1533E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.9289E-06; chi**2/np = 4.1606E-01; chi**2 = 9.1533E+01;
+ End of summary
+
+ Summary
+ nacc =  6210000; ngen =  6777537; chi**2/dof = 1.6131E-01; chi**2 = 9.2107E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.7727E-05; chi**2/np = 4.1867E-01; chi**2 = 9.2107E+01;
+ End of summary
+
+ Summary
+ nacc =  6220000; ngen =  6788389; chi**2/dof = 1.5645E-01; chi**2 = 8.9332E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5132E-04; chi**2/np = 4.0605E-01; chi**2 = 8.9332E+01;
+ End of summary
+
+ Summary
+ nacc =  6230000; ngen =  6799270; chi**2/dof = 1.6511E-01; chi**2 = 9.4275E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4627E-05; chi**2/np = 4.2852E-01; chi**2 = 9.4275E+01;
+ End of summary
+
+ Summary
+ nacc =  6240000; ngen =  6810213; chi**2/dof = 1.7876E-01; chi**2 = 1.0207E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.9817E-04; chi**2/np = 4.6395E-01; chi**2 = 1.0207E+02;
+ End of summary
+
+ Summary
+ nacc =  6250000; ngen =  6821064; chi**2/dof = 1.8535E-01; chi**2 = 1.0584E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.2747E-05; chi**2/np = 4.8107E-01; chi**2 = 1.0584E+02;
+ End of summary
+
+ Summary
+ nacc =  6260000; ngen =  6831958; chi**2/dof = 2.0463E-01; chi**2 = 1.1684E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.4800E-05; chi**2/np = 5.3110E-01; chi**2 = 1.1684E+02;
+ End of summary
+
+ Summary
+ nacc =  6270000; ngen =  6842817; chi**2/dof = 1.6394E-01; chi**2 = 9.3612E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5998E-04; chi**2/np = 4.2551E-01; chi**2 = 9.3612E+01;
+ End of summary
+
+ Summary
+ nacc =  6280000; ngen =  6853720; chi**2/dof = 1.6438E-01; chi**2 = 9.3860E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.6112E-05; chi**2/np = 4.2664E-01; chi**2 = 9.3860E+01;
+ End of summary
+
+ Summary
+ nacc =  6290000; ngen =  6864588; chi**2/dof = 1.7222E-01; chi**2 = 9.8335E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0202E-04; chi**2/np = 4.4698E-01; chi**2 = 9.8335E+01;
+ End of summary
+
+ Summary
+ nacc =  6300000; ngen =  6875499; chi**2/dof = 1.6327E-01; chi**2 = 9.3225E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0987E-04; chi**2/np = 4.2375E-01; chi**2 = 9.3225E+01;
+ End of summary
+
+ Summary
+ nacc =  6310000; ngen =  6886431; chi**2/dof = 1.5557E-01; chi**2 = 8.8832E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.1975E-05; chi**2/np = 4.0378E-01; chi**2 = 8.8832E+01;
+ End of summary
+
+ Summary
+ nacc =  6320000; ngen =  6897396; chi**2/dof = 1.6762E-01; chi**2 = 9.5710E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.4861E-06; chi**2/np = 4.3505E-01; chi**2 = 9.5710E+01;
+ End of summary
+
+ Summary
+ nacc =  6330000; ngen =  6908357; chi**2/dof = 1.6307E-01; chi**2 = 9.3113E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.6701E-06; chi**2/np = 4.2324E-01; chi**2 = 9.3113E+01;
+ End of summary
+
+ Summary
+ nacc =  6340000; ngen =  6919241; chi**2/dof = 1.6395E-01; chi**2 = 9.3618E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1270E-04; chi**2/np = 4.2553E-01; chi**2 = 9.3618E+01;
+ End of summary
+
+ Summary
+ nacc =  6350000; ngen =  6930069; chi**2/dof = 1.7088E-01; chi**2 = 9.7572E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  5.6871E-06; chi**2/np = 4.4351E-01; chi**2 = 9.7572E+01;
+ End of summary
+
+ Summary
+ nacc =  6360000; ngen =  6940992; chi**2/dof = 1.6963E-01; chi**2 = 9.6861E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4831E-04; chi**2/np = 4.4028E-01; chi**2 = 9.6861E+01;
+ End of summary
+
+ Summary
+ nacc =  6370000; ngen =  6951969; chi**2/dof = 1.4622E-01; chi**2 = 8.3491E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.2887E-05; chi**2/np = 3.7950E-01; chi**2 = 8.3491E+01;
+ End of summary
+
+ Summary
+ nacc =  6380000; ngen =  6962775; chi**2/dof = 1.4565E-01; chi**2 = 8.3165E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.1685E-05; chi**2/np = 3.7802E-01; chi**2 = 8.3165E+01;
+ End of summary
+
+ Summary
+ nacc =  6390000; ngen =  6973686; chi**2/dof = 1.3449E-01; chi**2 = 7.6794E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7684E-04; chi**2/np = 3.4906E-01; chi**2 = 7.6794E+01;
+ End of summary
+
+ Summary
+ nacc =  6400000; ngen =  6984559; chi**2/dof = 1.6675E-01; chi**2 = 9.5216E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4375E-04; chi**2/np = 4.3280E-01; chi**2 = 9.5216E+01;
+ End of summary
+
+ Summary
+ nacc =  6410000; ngen =  6995497; chi**2/dof = 1.5033E-01; chi**2 = 8.5841E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.0985E-05; chi**2/np = 3.9018E-01; chi**2 = 8.5841E+01;
+ End of summary
+
+ Summary
+ nacc =  6420000; ngen =  7006456; chi**2/dof = 1.5748E-01; chi**2 = 8.9921E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4508E-05; chi**2/np = 4.0873E-01; chi**2 = 8.9921E+01;
+ End of summary
+
+ Summary
+ nacc =  6430000; ngen =  7017468; chi**2/dof = 1.7209E-01; chi**2 = 9.8263E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.9284E-06; chi**2/np = 4.4665E-01; chi**2 = 9.8263E+01;
+ End of summary
+
+ Summary
+ nacc =  6440000; ngen =  7028333; chi**2/dof = 1.5011E-01; chi**2 = 8.5713E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7203E-04; chi**2/np = 3.8960E-01; chi**2 = 8.5713E+01;
+ End of summary
+
+ Summary
+ nacc =  6450000; ngen =  7039172; chi**2/dof = 1.4440E-01; chi**2 = 8.2453E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5734E-04; chi**2/np = 3.7479E-01; chi**2 = 8.2453E+01;
+ End of summary
+
+ Summary
+ nacc =  6460000; ngen =  7050143; chi**2/dof = 1.4834E-01; chi**2 = 8.4702E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0157E-04; chi**2/np = 3.8501E-01; chi**2 = 8.4702E+01;
+ End of summary
+
+ Summary
+ nacc =  6470000; ngen =  7061138; chi**2/dof = 1.5142E-01; chi**2 = 8.6461E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2951E-04; chi**2/np = 3.9300E-01; chi**2 = 8.6461E+01;
+ End of summary
+
+ Summary
+ nacc =  6480000; ngen =  7072030; chi**2/dof = 1.6166E-01; chi**2 = 9.2306E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0961E-04; chi**2/np = 4.1957E-01; chi**2 = 9.2306E+01;
+ End of summary
+
+ Summary
+ nacc =  6490000; ngen =  7082960; chi**2/dof = 1.6139E-01; chi**2 = 9.2153E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.9674E-05; chi**2/np = 4.1888E-01; chi**2 = 9.2153E+01;
+ End of summary
+
+ Summary
+ nacc =  6500000; ngen =  7093795; chi**2/dof = 1.6342E-01; chi**2 = 9.3312E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1902E-04; chi**2/np = 4.2414E-01; chi**2 = 9.3312E+01;
+ End of summary
+
+ Summary
+ nacc =  6510000; ngen =  7104772; chi**2/dof = 1.6398E-01; chi**2 = 9.3632E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.7854E-05; chi**2/np = 4.2560E-01; chi**2 = 9.3632E+01;
+ End of summary
+
+ Summary
+ nacc =  6520000; ngen =  7115780; chi**2/dof = 1.5527E-01; chi**2 = 8.8657E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.2963E-05; chi**2/np = 4.0299E-01; chi**2 = 8.8657E+01;
+ End of summary
+
+ Summary
+ nacc =  6530000; ngen =  7126745; chi**2/dof = 1.4506E-01; chi**2 = 8.2830E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.4630E-05; chi**2/np = 3.7650E-01; chi**2 = 8.2830E+01;
+ End of summary
+
+ Summary
+ nacc =  6540000; ngen =  7137637; chi**2/dof = 1.6393E-01; chi**2 = 9.3604E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0026E-04; chi**2/np = 4.2547E-01; chi**2 = 9.3604E+01;
+ End of summary
+
+ Summary
+ nacc =  6550000; ngen =  7148587; chi**2/dof = 1.6460E-01; chi**2 = 9.3989E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1150E-05; chi**2/np = 4.2722E-01; chi**2 = 9.3989E+01;
+ End of summary
+
+ Summary
+ nacc =  6560000; ngen =  7159458; chi**2/dof = 1.6690E-01; chi**2 = 9.5302E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.9094E-05; chi**2/np = 4.3319E-01; chi**2 = 9.5302E+01;
+ End of summary
+
+ Summary
+ nacc =  6570000; ngen =  7170355; chi**2/dof = 1.7320E-01; chi**2 = 9.8897E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.9788E-05; chi**2/np = 4.4953E-01; chi**2 = 9.8897E+01;
+ End of summary
+
+ Summary
+ nacc =  6580000; ngen =  7181232; chi**2/dof = 1.4843E-01; chi**2 = 8.4753E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.3788E-05; chi**2/np = 3.8524E-01; chi**2 = 8.4753E+01;
+ End of summary
+
+ Summary
+ nacc =  6590000; ngen =  7192112; chi**2/dof = 1.6469E-01; chi**2 = 9.4038E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.9785E-05; chi**2/np = 4.2744E-01; chi**2 = 9.4038E+01;
+ End of summary
+
+ Summary
+ nacc =  6600000; ngen =  7203089; chi**2/dof = 1.7645E-01; chi**2 = 1.0075E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.8639E-05; chi**2/np = 4.5797E-01; chi**2 = 1.0075E+02;
+ End of summary
+
+ Summary
+ nacc =  6610000; ngen =  7213926; chi**2/dof = 1.8797E-01; chi**2 = 1.0733E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.7566E-05; chi**2/np = 4.8786E-01; chi**2 = 1.0733E+02;
+ End of summary
+
+ Summary
+ nacc =  6620000; ngen =  7224807; chi**2/dof = 1.6649E-01; chi**2 = 9.5068E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.6262E-04; chi**2/np = 4.3213E-01; chi**2 = 9.5068E+01;
+ End of summary
+
+ Summary
+ nacc =  6630000; ngen =  7235683; chi**2/dof = 1.7434E-01; chi**2 = 9.9549E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -8.6374E-05; chi**2/np = 4.5249E-01; chi**2 = 9.9549E+01;
+ End of summary
+
+ Summary
+ nacc =  6640000; ngen =  7246490; chi**2/dof = 1.9672E-01; chi**2 = 1.1232E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.1872E-04; chi**2/np = 5.1057E-01; chi**2 = 1.1232E+02;
+ End of summary
+
+ Summary
+ nacc =  6650000; ngen =  7257452; chi**2/dof = 1.7959E-01; chi**2 = 1.0255E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1114E-04; chi**2/np = 4.6611E-01; chi**2 = 1.0255E+02;
+ End of summary
+
+ Summary
+ nacc =  6660000; ngen =  7268373; chi**2/dof = 1.7490E-01; chi**2 = 9.9867E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8154E-05; chi**2/np = 4.5394E-01; chi**2 = 9.9867E+01;
+ End of summary
+
+ Summary
+ nacc =  6670000; ngen =  7279294; chi**2/dof = 1.7287E-01; chi**2 = 9.8708E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.7832E-04; chi**2/np = 4.4867E-01; chi**2 = 9.8708E+01;
+ End of summary
+
+ Summary
+ nacc =  6680000; ngen =  7290206; chi**2/dof = 1.5936E-01; chi**2 = 9.0997E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.5801E-05; chi**2/np = 4.1362E-01; chi**2 = 9.0997E+01;
+ End of summary
+
+ Summary
+ nacc =  6690000; ngen =  7301134; chi**2/dof = 1.5364E-01; chi**2 = 8.7728E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4414E-05; chi**2/np = 3.9876E-01; chi**2 = 8.7728E+01;
+ End of summary
+
+ Summary
+ nacc =  6700000; ngen =  7312044; chi**2/dof = 1.7652E-01; chi**2 = 1.0080E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9308E-04; chi**2/np = 4.5816E-01; chi**2 = 1.0080E+02;
+ End of summary
+
+ Summary
+ nacc =  6710000; ngen =  7322888; chi**2/dof = 1.6756E-01; chi**2 = 9.5677E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -7.5309E-05; chi**2/np = 4.3490E-01; chi**2 = 9.5677E+01;
+ End of summary
+
+ Summary
+ nacc =  6720000; ngen =  7333795; chi**2/dof = 1.5659E-01; chi**2 = 8.9410E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4857E-04; chi**2/np = 4.0641E-01; chi**2 = 8.9410E+01;
+ End of summary
+
+ Summary
+ nacc =  6730000; ngen =  7344683; chi**2/dof = 1.8093E-01; chi**2 = 1.0331E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -9.8672E-05; chi**2/np = 4.6960E-01; chi**2 = 1.0331E+02;
+ End of summary
+
+ Summary
+ nacc =  6740000; ngen =  7355624; chi**2/dof = 1.4976E-01; chi**2 = 8.5514E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1045E-04; chi**2/np = 3.8870E-01; chi**2 = 8.5514E+01;
+ End of summary
+
+ Summary
+ nacc =  6750000; ngen =  7366542; chi**2/dof = 1.6487E-01; chi**2 = 9.4140E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.7035E-05; chi**2/np = 4.2791E-01; chi**2 = 9.4140E+01;
+ End of summary
+
+ Summary
+ nacc =  6760000; ngen =  7377390; chi**2/dof = 1.5240E-01; chi**2 = 8.7018E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.1755E-05; chi**2/np = 3.9554E-01; chi**2 = 8.7018E+01;
+ End of summary
+
+ Summary
+ nacc =  6770000; ngen =  7388356; chi**2/dof = 1.7205E-01; chi**2 = 9.8240E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.2645E-04; chi**2/np = 4.4655E-01; chi**2 = 9.8240E+01;
+ End of summary
+
+ Summary
+ nacc =  6780000; ngen =  7399279; chi**2/dof = 1.6558E-01; chi**2 = 9.4544E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2521E-04; chi**2/np = 4.2975E-01; chi**2 = 9.4544E+01;
+ End of summary
+
+ Summary
+ nacc =  6790000; ngen =  7410121; chi**2/dof = 1.7141E-01; chi**2 = 9.7878E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.6253E-05; chi**2/np = 4.4490E-01; chi**2 = 9.7878E+01;
+ End of summary
+
+ Summary
+ nacc =  6800000; ngen =  7421066; chi**2/dof = 1.9072E-01; chi**2 = 1.0890E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4748E-05; chi**2/np = 4.9502E-01; chi**2 = 1.0890E+02;
+ End of summary
+
+ Summary
+ nacc =  6810000; ngen =  7431998; chi**2/dof = 2.0949E-01; chi**2 = 1.1962E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2263E-04; chi**2/np = 5.4373E-01; chi**2 = 1.1962E+02;
+ End of summary
+
+ Summary
+ nacc =  6820000; ngen =  7442859; chi**2/dof = 1.8219E-01; chi**2 = 1.0403E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.9748E-06; chi**2/np = 4.7288E-01; chi**2 = 1.0403E+02;
+ End of summary
+
+ Summary
+ nacc =  6830000; ngen =  7453769; chi**2/dof = 2.0159E-01; chi**2 = 1.1511E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.8513E-04; chi**2/np = 5.2322E-01; chi**2 = 1.1511E+02;
+ End of summary
+
+ Summary
+ nacc =  6840000; ngen =  7464720; chi**2/dof = 1.8854E-01; chi**2 = 1.0765E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.6780E-04; chi**2/np = 4.8934E-01; chi**2 = 1.0765E+02;
+ End of summary
+
+ Summary
+ nacc =  6850000; ngen =  7475619; chi**2/dof = 2.0118E-01; chi**2 = 1.1487E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.4398E-05; chi**2/np = 5.2216E-01; chi**2 = 1.1487E+02;
+ End of summary
+
+ Summary
+ nacc =  6860000; ngen =  7486615; chi**2/dof = 2.0155E-01; chi**2 = 1.1509E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.3909E-04; chi**2/np = 5.2312E-01; chi**2 = 1.1509E+02;
+ End of summary
+
+ Summary
+ nacc =  6870000; ngen =  7497480; chi**2/dof = 1.9808E-01; chi**2 = 1.1310E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.7601E-05; chi**2/np = 5.1410E-01; chi**2 = 1.1310E+02;
+ End of summary
+
+ Summary
+ nacc =  6880000; ngen =  7508318; chi**2/dof = 1.8459E-01; chi**2 = 1.0540E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2866E-04; chi**2/np = 4.7910E-01; chi**2 = 1.0540E+02;
+ End of summary
+
+ Summary
+ nacc =  6890000; ngen =  7519231; chi**2/dof = 1.6956E-01; chi**2 = 9.6818E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.4817E-05; chi**2/np = 4.4008E-01; chi**2 = 9.6818E+01;
+ End of summary
+
+ Summary
+ nacc =  6900000; ngen =  7530128; chi**2/dof = 1.8182E-01; chi**2 = 1.0382E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0745E-05; chi**2/np = 4.7190E-01; chi**2 = 1.0382E+02;
+ End of summary
+
+ Summary
+ nacc =  6910000; ngen =  7541062; chi**2/dof = 1.7263E-01; chi**2 = 9.8570E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.2039E-06; chi**2/np = 4.4804E-01; chi**2 = 9.8570E+01;
+ End of summary
+
+ Summary
+ nacc =  6920000; ngen =  7551939; chi**2/dof = 1.7922E-01; chi**2 = 1.0234E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0722E-04; chi**2/np = 4.6516E-01; chi**2 = 1.0234E+02;
+ End of summary
+
+ Summary
+ nacc =  6930000; ngen =  7562905; chi**2/dof = 1.9358E-01; chi**2 = 1.1053E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5368E-04; chi**2/np = 5.0242E-01; chi**2 = 1.1053E+02;
+ End of summary
+
+ Summary
+ nacc =  6940000; ngen =  7573852; chi**2/dof = 1.7454E-01; chi**2 = 9.9665E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.5913E-05; chi**2/np = 4.5302E-01; chi**2 = 9.9665E+01;
+ End of summary
+
+ Summary
+ nacc =  6950000; ngen =  7584805; chi**2/dof = 1.8194E-01; chi**2 = 1.0389E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7572E-04; chi**2/np = 4.7222E-01; chi**2 = 1.0389E+02;
+ End of summary
+
+ Summary
+ nacc =  6960000; ngen =  7595680; chi**2/dof = 1.8474E-01; chi**2 = 1.0548E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.1375E-05; chi**2/np = 4.7947E-01; chi**2 = 1.0548E+02;
+ End of summary
+
+ Summary
+ nacc =  6970000; ngen =  7606640; chi**2/dof = 1.7519E-01; chi**2 = 1.0003E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0354E-04; chi**2/np = 4.5470E-01; chi**2 = 1.0003E+02;
+ End of summary
+
+ Summary
+ nacc =  6980000; ngen =  7617583; chi**2/dof = 1.6700E-01; chi**2 = 9.5359E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.7992E-05; chi**2/np = 4.3345E-01; chi**2 = 9.5359E+01;
+ End of summary
+
+ Summary
+ nacc =  6990000; ngen =  7628547; chi**2/dof = 1.4049E-01; chi**2 = 8.0220E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.8846E-05; chi**2/np = 3.6464E-01; chi**2 = 8.0220E+01;
+ End of summary
+
+ Summary
+ nacc =  7000000; ngen =  7639462; chi**2/dof = 1.6015E-01; chi**2 = 9.1445E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0557E-04; chi**2/np = 4.1566E-01; chi**2 = 9.1445E+01;
+ End of summary
+
+ Summary
+ nacc =  7010000; ngen =  7650302; chi**2/dof = 1.5146E-01; chi**2 = 8.6481E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.7959E-04; chi**2/np = 3.9310E-01; chi**2 = 8.6481E+01;
+ End of summary
+
+ Summary
+ nacc =  7020000; ngen =  7661227; chi**2/dof = 1.5833E-01; chi**2 = 9.0404E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.6820E-05; chi**2/np = 4.1093E-01; chi**2 = 9.0404E+01;
+ End of summary
+
+ Summary
+ nacc =  7030000; ngen =  7672109; chi**2/dof = 1.7950E-01; chi**2 = 1.0249E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.8446E-05; chi**2/np = 4.6587E-01; chi**2 = 1.0249E+02;
+ End of summary
+
+ Summary
+ nacc =  7040000; ngen =  7682950; chi**2/dof = 1.5565E-01; chi**2 = 8.8877E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.5524E-05; chi**2/np = 4.0399E-01; chi**2 = 8.8877E+01;
+ End of summary
+
+ Summary
+ nacc =  7050000; ngen =  7693822; chi**2/dof = 1.7518E-01; chi**2 = 1.0003E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.3666E-05; chi**2/np = 4.5467E-01; chi**2 = 1.0003E+02;
+ End of summary
+
+ Summary
+ nacc =  7060000; ngen =  7704677; chi**2/dof = 1.7607E-01; chi**2 = 1.0054E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.1234E-05; chi**2/np = 4.5699E-01; chi**2 = 1.0054E+02;
+ End of summary
+
+ Summary
+ nacc =  7070000; ngen =  7715562; chi**2/dof = 1.8122E-01; chi**2 = 1.0348E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.6797E-05; chi**2/np = 4.7036E-01; chi**2 = 1.0348E+02;
+ End of summary
+
+ Summary
+ nacc =  7080000; ngen =  7726538; chi**2/dof = 1.9982E-01; chi**2 = 1.1410E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.5433E-05; chi**2/np = 5.1863E-01; chi**2 = 1.1410E+02;
+ End of summary
+
+ Summary
+ nacc =  7090000; ngen =  7737452; chi**2/dof = 2.0769E-01; chi**2 = 1.1859E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3343E-04; chi**2/np = 5.3905E-01; chi**2 = 1.1859E+02;
+ End of summary
+
+ Summary
+ nacc =  7100000; ngen =  7748356; chi**2/dof = 1.9672E-01; chi**2 = 1.1233E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5125E-04; chi**2/np = 5.1058E-01; chi**2 = 1.1233E+02;
+ End of summary
+
+ Summary
+ nacc =  7110000; ngen =  7759274; chi**2/dof = 1.8051E-01; chi**2 = 1.0307E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4429E-04; chi**2/np = 4.6851E-01; chi**2 = 1.0307E+02;
+ End of summary
+
+ Summary
+ nacc =  7120000; ngen =  7770179; chi**2/dof = 1.7499E-01; chi**2 = 9.9922E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.3181E-05; chi**2/np = 4.5419E-01; chi**2 = 9.9922E+01;
+ End of summary
+
+ Summary
+ nacc =  7130000; ngen =  7781060; chi**2/dof = 1.8103E-01; chi**2 = 1.0337E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.0866E-05; chi**2/np = 4.6985E-01; chi**2 = 1.0337E+02;
+ End of summary
+
+ Summary
+ nacc =  7140000; ngen =  7791994; chi**2/dof = 1.6270E-01; chi**2 = 9.2904E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.0953E-05; chi**2/np = 4.2229E-01; chi**2 = 9.2904E+01;
+ End of summary
+
+ Summary
+ nacc =  7150000; ngen =  7802904; chi**2/dof = 1.6915E-01; chi**2 = 9.6585E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.9325E-05; chi**2/np = 4.3902E-01; chi**2 = 9.6585E+01;
+ End of summary
+
+ Summary
+ nacc =  7160000; ngen =  7813857; chi**2/dof = 1.9264E-01; chi**2 = 1.1000E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.9075E-04; chi**2/np = 4.9999E-01; chi**2 = 1.1000E+02;
+ End of summary
+
+ Summary
+ nacc =  7170000; ngen =  7824799; chi**2/dof = 1.6930E-01; chi**2 = 9.6670E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.2612E-04; chi**2/np = 4.3941E-01; chi**2 = 9.6670E+01;
+ End of summary
+
+ Summary
+ nacc =  7180000; ngen =  7835737; chi**2/dof = 1.7041E-01; chi**2 = 9.7305E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.0625E-05; chi**2/np = 4.4230E-01; chi**2 = 9.7305E+01;
+ End of summary
+
+ Summary
+ nacc =  7190000; ngen =  7846738; chi**2/dof = 1.5079E-01; chi**2 = 8.6099E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.3914E-05; chi**2/np = 3.9136E-01; chi**2 = 8.6099E+01;
+ End of summary
+
+ Summary
+ nacc =  7200000; ngen =  7857748; chi**2/dof = 1.6746E-01; chi**2 = 9.5617E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  9.6549E-06; chi**2/np = 4.3462E-01; chi**2 = 9.5617E+01;
+ End of summary
+
+ Summary
+ nacc =  7210000; ngen =  7868628; chi**2/dof = 1.5042E-01; chi**2 = 8.5892E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.4271E-07; chi**2/np = 3.9042E-01; chi**2 = 8.5892E+01;
+ End of summary
+
+ Summary
+ nacc =  7220000; ngen =  7879501; chi**2/dof = 1.5668E-01; chi**2 = 8.9466E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.0727E-06; chi**2/np = 4.0666E-01; chi**2 = 8.9466E+01;
+ End of summary
+
+ Summary
+ nacc =  7230000; ngen =  7890432; chi**2/dof = 1.5664E-01; chi**2 = 8.9441E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.3580E-05; chi**2/np = 4.0655E-01; chi**2 = 8.9441E+01;
+ End of summary
+
+ Summary
+ nacc =  7240000; ngen =  7901330; chi**2/dof = 1.8716E-01; chi**2 = 1.0687E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.1129E-05; chi**2/np = 4.8577E-01; chi**2 = 1.0687E+02;
+ End of summary
+
+ Summary
+ nacc =  7250000; ngen =  7912286; chi**2/dof = 1.5880E-01; chi**2 = 9.0674E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  4.1657E-05; chi**2/np = 4.1216E-01; chi**2 = 9.0674E+01;
+ End of summary
+
+ Summary
+ nacc =  7260000; ngen =  7923122; chi**2/dof = 1.6391E-01; chi**2 = 9.3593E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.4588E-05; chi**2/np = 4.2542E-01; chi**2 = 9.3593E+01;
+ End of summary
+
+ Summary
+ nacc =  7270000; ngen =  7934032; chi**2/dof = 1.6421E-01; chi**2 = 9.3766E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.4348E-04; chi**2/np = 4.2621E-01; chi**2 = 9.3766E+01;
+ End of summary
+
+ Summary
+ nacc =  7280000; ngen =  7944998; chi**2/dof = 1.5120E-01; chi**2 = 8.6334E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.1200E-04; chi**2/np = 3.9243E-01; chi**2 = 8.6334E+01;
+ End of summary
+
+ Summary
+ nacc =  7290000; ngen =  7955846; chi**2/dof = 1.5730E-01; chi**2 = 8.9818E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.3938E-04; chi**2/np = 4.0826E-01; chi**2 = 8.9818E+01;
+ End of summary
+
+ Summary
+ nacc =  7300000; ngen =  7966758; chi**2/dof = 1.6971E-01; chi**2 = 9.6906E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  8.0586E-05; chi**2/np = 4.4048E-01; chi**2 = 9.6906E+01;
+ End of summary
+
+ Summary
+ nacc =  7310000; ngen =  7977720; chi**2/dof = 1.7517E-01; chi**2 = 1.0002E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.1382E-04; chi**2/np = 4.5464E-01; chi**2 = 1.0002E+02;
+ End of summary
+
+ Summary
+ nacc =  7320000; ngen =  7988696; chi**2/dof = 1.5543E-01; chi**2 = 8.8749E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.2020E-04; chi**2/np = 4.0341E-01; chi**2 = 8.8749E+01;
+ End of summary
+
+ Summary
+ nacc =  7330000; ngen =  7999585; chi**2/dof = 1.6055E-01; chi**2 = 9.1671E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  2.8422E-05; chi**2/np = 4.1669E-01; chi**2 = 9.1671E+01;
+ End of summary
+
+ Summary
+ nacc =  7340000; ngen =  8010450; chi**2/dof = 1.6239E-01; chi**2 = 9.2723E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.3586E-05; chi**2/np = 4.2147E-01; chi**2 = 9.2723E+01;
+ End of summary
+
+ Summary
+ nacc =  7350000; ngen =  8021387; chi**2/dof = 1.5332E-01; chi**2 = 8.7548E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -6.2767E-06; chi**2/np = 3.9795E-01; chi**2 = 8.7548E+01;
+ End of summary
+
+ Summary
+ nacc =  7360000; ngen =  8032293; chi**2/dof = 1.8283E-01; chi**2 = 1.0440E+02;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.0838E-04; chi**2/np = 4.7453E-01; chi**2 = 1.0440E+02;
+ End of summary
+
+ Summary
+ nacc =  7370000; ngen =  8043217; chi**2/dof = 1.5527E-01; chi**2 = 8.8660E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.9990E-05; chi**2/np = 4.0300E-01; chi**2 = 8.8660E+01;
+ End of summary
+
+ Summary
+ nacc =  7380000; ngen =  8054145; chi**2/dof = 1.4926E-01; chi**2 = 8.5228E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -5.2711E-05; chi**2/np = 3.8740E-01; chi**2 = 8.5228E+01;
+ End of summary
+
+ Summary
+ nacc =  7390000; ngen =  8065023; chi**2/dof = 1.4426E-01; chi**2 = 8.2371E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.5842E-04; chi**2/np = 3.7441E-01; chi**2 = 8.2371E+01;
+ End of summary
+
+ Summary
+ nacc =  7400000; ngen =  8075971; chi**2/dof = 1.6719E-01; chi**2 = 9.5468E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.5733E-04; chi**2/np = 4.3395E-01; chi**2 = 9.5468E+01;
+ End of summary
+
+ Summary
+ nacc =  7410000; ngen =  8086858; chi**2/dof = 1.6360E-01; chi**2 = 9.3415E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -3.3367E-05; chi**2/np = 4.2462E-01; chi**2 = 9.3415E+01;
+ End of summary
+
+ Summary
+ nacc =  7420000; ngen =  8097804; chi**2/dof = 1.5136E-01; chi**2 = 8.6426E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -2.3036E-04; chi**2/np = 3.9284E-01; chi**2 = 8.6426E+01;
+ End of summary
+
+ Summary
+ nacc =  7430000; ngen =  8108583; chi**2/dof = 1.4171E-01; chi**2 = 8.0918E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -4.4745E-05; chi**2/np = 3.6781E-01; chi**2 = 8.0918E+01;
+ End of summary
+
+ Summary
+ nacc =  7440000; ngen =  8119426; chi**2/dof = 1.4278E-01; chi**2 = 8.1525E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  3.0556E-05; chi**2/np = 3.7057E-01; chi**2 = 8.1525E+01;
+ End of summary
+
+ Summary
+ nacc =  7450000; ngen =  8130298; chi**2/dof = 1.4805E-01; chi**2 = 8.4534E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  7.8198E-05; chi**2/np = 3.8424E-01; chi**2 = 8.4534E+01;
+ End of summary
+
+ Summary
+ nacc =  7460000; ngen =  8141283; chi**2/dof = 1.5603E-01; chi**2 = 8.9093E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 =  1.0625E-04; chi**2/np = 4.0497E-01; chi**2 = 8.9093E+01;
+ End of summary
+
+ Summary
+ nacc =  7467734; ngen =  8149740; chi**2/dof = 1.5414E-01; chi**2 = 8.8016E+01;
+ Experiment 1: beta =  1.0000E+00; alpha0 = -1.7154E-04; chi**2/np = 4.0007E-01; chi**2 = 8.8016E+01;
+ End of summary
+ 
+   Total time in loop so far :   240.0000     s
+   Time per generated step is:  2.9448792E-02 ms
+
+ Saving results ... Do not interrupt
+ Saving completed
+ MCGR normal end

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e220f8bc45772d5d0b01607d86e3de83b7bb0a0f44c59cec8e92e0719c7e2110
-size 231
+Oxygen:
+epsilon = 0.65 kJmol-1
+sigma = 3.16 Angstroms
+mass = 16
+charge = -0.8476
+
+Hydrogen:
+epsilon = 0.00 kJmol-1
+sigma = 0.00 Angstroms
+mass = 2
+charge = 0.4238
+
+density = 0.1 atomsA-3
+
+The data type is 2 Q,S(Q),Err

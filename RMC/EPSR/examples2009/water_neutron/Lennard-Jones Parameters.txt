@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dc8ce2dfae632988f9bb87503da6b7d89b7898eb23065e468ed1668c635f2c0
-size 247
+Oxygen:
+epsilon = 0.65 kJmol-1
+sigma = 3.16 Angstroms
+mass = 16
+charge = -0.8476
+
+Hydrogen:
+epsilon = 0.00 kJmol-1
+sigma = 0.00 Angstroms
+mass = 2
+charge = 0.4238
+
+density = 0.1 atomsA-3
+
+The data type is 5, Gudrun MDCS01 file format

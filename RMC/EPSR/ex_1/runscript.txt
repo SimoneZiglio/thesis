@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac0031a6739ed3e1ef2540513c09d815bc7958fcdc1f50df58b4b844d0c89fa9
-size 29
+# simple runscript
+epsr sio2

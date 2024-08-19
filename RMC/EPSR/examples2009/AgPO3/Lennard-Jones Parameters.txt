@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a67a68de7bb7465d5fb0f2f2f7ded4ae2fd8bc18f3039f21d571e8a688d7342
-size 314
+Silver:
+epsilon = 0.8 kJmol-1
+sigma = 2.52 Angstroms
+mass = 108
+charge = +0.1
+
+Phosphorus:
+epsilon = 0.8 kJmol-1
+sigma = 0.5 Angstroms
+mass = 31
+charge = +0.5
+
+Oxygen:
+epsilon = 0.8 kJmol-1
+sigma = 2.7 Angstroms
+mass = 16
+charge = -0.2
+
+density = 0.0308 atomsA-3
+
+The data is data type 1 Q,S(Q)

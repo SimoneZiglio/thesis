@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5be4f301d92bf2865a5f7599ebe9998dc2112d30a30b7134e09a973541c2ac04
-size 250
+IF gasp fails to run, possibly the reason is that the original stem name
+is too long for gasp to handle. In this case, we can simply change the
+stem name to a shorter one and gasp should be able to run without
+problems.
+
+Yuanpeng Zhang @ May-31-2018

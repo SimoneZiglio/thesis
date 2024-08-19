@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdc40f9952f1f186734faa5742aa35f472717b54ed08b8a8c35b2d8dfb67b3d0
-size 2550
+roverlap    0.9               Minimum allowed intermolecular separation between two atoms                     
+rminfac     0.6               Factor to set the minimum separation between pairs. [0.6]                       
+rminpt      9.               Radius at which potential truncation gets to 0.5                                
+rmaxpt      12.               Radius at which potential truncation goes to 0.0                                
+rbroad      0.               Controls potential decay. [0.0]                                                 
+expecf      0.3               Potential decay for short distance repulsive term. [0.3]                        
+rcharge     0.               Calculates energy due to molecular polarisation. [0.0]                          
+power       12.               Repulsive power in Lennard-Jones potential. [12]                                
+ncoeffp     100               Number of coefficients used to define the EP. [100]                             
+pdmax       12.               Maximum distance of Empirical Potential                                         
+pdstep      0.12               Spacing between coefficients in r. Set by program                               
+npitss      1000               Number of steps for refining the potential. [1000]                              
+paccept     0.0005               Acceptance factor for potential refinement. [0.0005]                            
+psigma2     0.0011999999               Width of Poisson curves. [0.003]                                                
+q
+ 3
+ OW  OW 
+ 1.9 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ OW  HW 
+ 0.95 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ HW  HW 
+ 0.9 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.

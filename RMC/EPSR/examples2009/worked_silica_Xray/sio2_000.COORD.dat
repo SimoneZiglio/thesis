@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92171832fe7216403e5534cfe25d5567917af96709d3fb7d7a427123f6ad2014
-size 2074
+sio2_000.COORD               Title of this file
+fnameato    sio2_000.ato               Name of .ato file                                                               
+nsize       200               Maximum coordination number (max 200)                                           
+nsumt       113               Number of configurations already accumulated                                    
+ndist       3               Number of coordination number distributions                                     
+
+distribution   1
+
+atom1       Si               Atom type 1 to define a coordination number                                     
+atom2       Si               Atom type 2 to define a coordination number                                     
+rmin        2.7               Minimum distance for this bond                                                  
+rmax        3.5               Maximum distance for this bond                                                  
+
+distribution   2
+
+atom1       Si               Atom type 1 to define a coordination number                                     
+atom2       O               Atom type 2 to define a coordination number                                     
+rmin        1               Minimum distance for this bond                                                  
+rmax        2.4               Maximum distance for this bond                                                  
+
+distribution   3
+
+atom1       O               Atom type 1 to define a coordination number                                     
+atom2       O               Atom type 2 to define a coordination number                                     
+rmin        2.3               Minimum distance for this bond                                                  
+rmax        3.2               Maximum distance for this bond                                                  
+q
+ Si  Si 
+    2.70000    3.50000    3.89972    0.46265
+ Si  O  
+    1.00000    2.40000    3.93051    0.25582
+ O   O  
+    2.30000    3.20000    6.82653    1.06694

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8bdcc8310ca205bf928c429250a3f17ada924678a47909ba643849fa6a25403b
-size 183
+set terminal postscript eps enhanced colour "Times-Roman" 22
+set encoding iso_8859_1 
+set output 'junk.eps'
+
+set size 0.8,1
+
+set pointsize 0.3
+
+replot
+
+set output
+set terminal x11
+

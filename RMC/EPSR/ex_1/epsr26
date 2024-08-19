@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd5cbae3ba5745defbdfd5ca37199177f02a9d3e80f0e5a19799136aabc70f14
-size 1014
+export EPSRroot=/home/simo/EPSR26workshop/EPSR
+export EPSRbin="$EPSRroot"'/bin'
+export EPSRstartup="$EPSRroot"'/startup'
+EPSRrun=$(pwd)
+if [ $# -gt 0 ]
+then 
+  EPSRrun=$1 ;
+fi
+# Check if the specified folder exists. If not create it in the current folder.
+if [ ! -d "$EPSRrun" ]
+then EPSRrun=$(pwd)/"$EPSRrun";
+fi
+#echo "$EPSRrun" 
+# Check if the specified folder exists. If not create it.
+if [ ! -d "$EPSRrun" ]
+then mkdir "$EPSRrun"
+fi
+cd "$EPSRrun"
+# Copy the EPSR startup file 
+if [ ! -f "epsr26" ]
+then
+cp "$EPSRroot"/epsr26 epsr26
+chmod +x epsr26
+fi
+# Check that the specified folder has plot_defaults.txt. If not then copy a version in.
+if [ ! -f plot_defaults.txt ]
+then cp "$EPSRstartup"/plot_defaults.txt plot_defaults.txt
+fi
+cp "$EPSRstartup"/system_commands.txt system_commands.txt
+cp "$EPSRstartup"/gnuatoms.txt gnuatoms.txt
+cp "$EPSRstartup"/gnubonds.txt gnubonds.txt
+cp "$EPSRstartup"/f0_WaasKirf.dat f0_WaasKirf.dat
+cp "$EPSRstartup"/vanderWaalsRadii.txt vanderWaalsRadii.txt
+"$EPSRbin"/epsrshell
+

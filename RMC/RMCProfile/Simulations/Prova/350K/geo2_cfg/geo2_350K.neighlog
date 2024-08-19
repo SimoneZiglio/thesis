@@ -1,3 +1,95 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc9bb2c586449c14d65c0f1bbe2814a520d53e6f6316545a1020299ef3d5113e
-size 3989
+ DW option activated: distance window will be used
+  Generating new .neigh file
+ Potential distances
+   3.0000000000000000     
+   3.5000000000000000     
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ .neigh file calculated
+ Coordination summary:
+
+
+ Coordination number      Number of atoms   (%)
+           1           1           1
+           2           4           4
+           3          12          12
+           4          17          17
+           5          15          15
+           6          12          12
+           7          16          16
+           8          13          13
+           9           3           3
+          10           6           6
+          11           1           1

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea8c0424cc44f0d04b69351a832262493149c9c8ea181cc8ffcefad8bc460388
-size 292
+ 6
+Filename: C:\EPSR18\run\worked_methanol\met_3_fmole\methanol.ato
+C        -0.503    -0.289    -0.241
+H        -1.153    -0.979     0.452
+H        -1.254     0.389    -0.672
+H        -0.150    -1.060    -0.869
+O         0.623     0.277     0.309
+H         0.594     1.175     0.063

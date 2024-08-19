@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9f7ac2bdfce591e0447a5b485c0739a7c75d4d1c37a09d4e5d5d179942f086d
-size 1850
+benznormal.SHARM               Title of this file
+fnameato    benzpure.ato               Name of .ato file                                                               
+nr          120               Number of radius values (max 200)                                               
+rmax        12               Maximum radius for spherical harmonic coefficients                              
+nsumt       1101               Number of configurations already accumulated                                    
+ncoeffs     98               Number of coefficients (program calculates this)                                
+l1values    0 2 4 6 8               L1 values (separated by spaces)                                                 
+l2values    0 2 4 6 8               L2 values (separated by spaces)                                                 
+lvalues     0 2 4 6 8               L values (separated by spaces)                                                  
+n1step      6               Step in N1 values                                                               
+n2step      6               Step in N2 values                                                               
+atom-c      C               Central molecule - list of centre atom types                                    
+axisc1      x 1               First axis definition for central molecule                                      
+axisc2      y 2 3               Second axis definition for central molecule                                     
+atom-s      C               Second molecule - list of centre atom types                                     
+axiss1      x 1               First axis definition for second molecule                                       
+axiss2      y 2 3               Second axis definition for second molecule                                      
+q

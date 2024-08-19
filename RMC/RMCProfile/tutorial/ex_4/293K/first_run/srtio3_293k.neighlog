@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:936f5b572ac72839177bfc02b16423e90c5f1f78e8358b48fa6cc59af82a1401
-size 623
+ DW option activated: distance window will be used
+  Generating new .neigh file
+ Potential distances
+   3.7000000000000002        3.1000000000000001        2.5000000000000000        3.7000000000000002        1.6799999999999999        2.5000000000000000     
+   4.0999999999999996        3.6000000000000001        3.0499999999999998        4.0999999999999996        2.2100000000000000        3.0499999999999998     
+ .neigh file calculated
+ Coordination summary:
+
+
+ Coordination number      Number of atoms   (%)
+          14        1536          60
+          20         512          20
+          26         512          20

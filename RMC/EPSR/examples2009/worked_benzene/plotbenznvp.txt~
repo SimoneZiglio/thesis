@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2afab4968859eae30d814d334112d2b9dc00c6c400d4f0382b6f5cf2214283fe
-size 1155
+ydel=2
+yf=1.6
+xf=9
+ymax=4
+yrang=ymax+6*ydel
+set yrange [0:yrang]
+set label "001 (100)" at xf,yf+0*ydel
+set label "010 (010)" at xf,yf+1*ydel
+set label "100 (001)" at xf,yf+2*ydel
+set label "110 (011)" at xf,yf+3*ydel
+set label "101 (101)" at xf,yf+4*ydel
+set label "011 (110)" at xf,yf+5*ydel
+set label "111 (111)" at xf,yf+6*ydel
+
+plot \
+'benznormal.g01' u 1:(column(2) + 0*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(2) + 0*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(4) + 1*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(4) + 1*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(6) + 2*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(6) + 2*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(8) + 3*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(8) + 3*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(10) + 4*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(10) + 4*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(12) + 5*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(12) + 5*ydel) notitle w p, \
+'benznormal.g01' u 1:(column(14) + 6*ydel) notitle w l, \
+'benzparallel.g01' u 1:(column(14) + 6*ydel) notitle w p
+

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:685a7b25b4d37192253ff4a71b68b12e08749f249d032581209aaf6bc08539a5
-size 120
+epsilon: 0.65 kJmol-1
+sigma: 3.166 Angstroms
+Mass: 16
+
+density 0.0334 atomsA-3
+
+The data is data type 2 Q,S(Q),Err

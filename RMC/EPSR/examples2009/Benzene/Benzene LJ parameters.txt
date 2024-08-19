@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac6c38a1cd6bbe8c5d96ad878c608e34c432d32c565870efe665aff417a9146a
-size 214
+Carbon:
+Epsilon = 0.1 kJmol-1
+sigma = 3.0 Angstroms
+Mass = 12
+
+Hydrogen:
+Epsilon = 0.1 kJmol-1
+sigma = 1.0 Angstroms
+Mass = 2
+
+density 0.081 atomsA-3
+
+The data is datatype 3 (Old Genie histogram format)

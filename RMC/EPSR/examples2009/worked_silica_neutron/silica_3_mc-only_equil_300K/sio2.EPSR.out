@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da934a6969d33b360d63f60762154ce8dd7dc6f4ed914b773076b037235f79fe
-size 900
+
+  EPSR version 2007-10-25
+
+  Trial no.     6      Iteration no.     1      No. of trials in sum     1
+  Chi-square  0.686419E-02
+  Energies: repulsive -0.350707E+04 harmonic  0.000000E+00
+  Abs. empirical energy:   0.000000E+00
+  R-factor, abs. energy and pressure for data file  1:  0.6864E-02  0.0000E+00 -0.0000E+00
+  R-factor for partial  1:  0.1018E-01
+  R-factor for partial  2:  0.5214E-02
+  R-factor for partial  3:  0.1670E-03
+  Noise in average g(r)  0.922576E+01
+  Intermolecular energy and U_pol -0.350708E+04  0.000000E+00 kJ/mole
+  Intermolecular pressure  0.199387E+03 kbar
+  Average dipole moment and std.  0.000000E+00  0.000000E+00 D
+  Av. intermolecular energy -0.350710E+04+- 0.101893E+00 kJ/mole
+  Av. intermolecular pressure  0.200742E+03+- 0.271759E+01 kbar
+  Number of rejects in MOLFIT:-
+       0       0       0    3750
+       0       0       0    2831

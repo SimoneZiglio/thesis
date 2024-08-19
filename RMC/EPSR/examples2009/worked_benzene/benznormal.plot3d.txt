@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d2daff1bb7cfd19ad2f3bf9843084d7842bd483ffed437b7a7a659ff358f54c
-size 2723
+benznormal.SHARM.h01
+12               no. of coefficients - determined from coefficients file                         
+0               = 0 for identical molecules, else 1 if different                                
+1               0 sets first coefficient to zero - normally 1                                   
+4               number of smoothings on coefficients                                            
+7               maximum radius of plotting box                                                  
+1 1               no. of plots along x- and y-axis [set at 1 1]                                   
+1.0               aspect ratio of plot [1.0]                                                      
+2 7               minimum and maximum radius of plot                                              
+-2.5               fractional isosurface level (-ve for absolute)                                  
+1 0               use l1 and l2 (1 or 0)                                                          
+1 0               use n1 and n2 (1 or 0)                                                          
+0               use m2 (1 or 0)                                                                 
+1               vary (thetal, phil) (1), (thetam, phim) (2), (thetam, chim) (3)                 
+0 0 0
+1               number of spheres at centre of plot (max 25)                                    
+1.0 0.0 0 0 0.7 0.7 0.7           sphere radius, (r,theta,phi), (r,g,b colour indices)
+1.5 2 1               axes character size, line width and colour (separated by spaces)                
+   
+0.1 -1.3 2               (x,y) coords. of title, and character size (separated by spaces)                
+   
+0.8 0.8 1.0               red green blue fractions for background (separated by spaces)                   
+-1               ishade (1-8): 0 means no shading, -ve means inverted shading                    
+1 1 0               red green blue fractions for object (separated by spaces)                       
+2 2 0               (x,y,z) coordinates for light source (separated by spaces)                      
+1.0               fade factor (0 = no fading, 1=full fading)                                      
+0               transparency of object (0=0%,1=25%,2=50%,3=75%)                                 
+1.0 0.0 1.0 1.0               difuse, shine, polish and contrast                                              
+15 10               rotation and elevation of viewing point (deg.)                                  
+0               extra lines (0) - cannot be set                                                 
+0               extra text (0) - cannot be set                                                  
+.SHARM.h01

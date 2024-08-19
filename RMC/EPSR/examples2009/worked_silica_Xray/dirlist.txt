@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0bab6196c176a39c8b94d0e22f9ccbef9cf545d70f07b37198502294ee9e4099
-size 63
+junk.ato
+O.ato
+si.ato
+sio2.ato
+sio2_000.ato
+sio2_095.ato

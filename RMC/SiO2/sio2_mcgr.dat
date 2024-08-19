@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aff2db7e700b0f2ea24673b3d8f2c0ca612d0d11d3cbac3e20625bd8a88b0501
-size 780
+SiO2 
+.false.         ! rerun
+0.0657   	! number density
+.false.		! fitting partials
+1		! n_partials
+1               ! no of zero constraints
+1 0.0 1.4       ! zero constraint
+0.01		! delta
+5 20.0  	! mr, rmax
+.false.		! save multi           
+.false.		! converge only
+1		! no of positivity contraints
+1 0.0 50.       ! positivity constraint
+0               ! no of coordination constraints
+.true.		! smooth
+3
+1
+0.1 50.
+.false.		! conv_resol
+10000 1		! step for printing,plotting
+60 5		! time limit, step_save
+1 0		! n_data sets
+sio2_neutron.fq
+1 220		! points to fit
+0.2759		! coeff.
+3 0.01		! isig,sigma
+.false.		! convolute
+.false.		! renorm
+1.0		! beta
+.true.		! background
+1               ! nback
+0.0 		! bcoeff
+.false.		! magnetic
+sio2_mcgr

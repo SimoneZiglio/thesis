@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3a117eec9c20fc9276272d30917fe9d6f4665f3508c2da72f3b17a6646328ec
-size 29
+sio2_000_o.plot3d.txt
+/gif

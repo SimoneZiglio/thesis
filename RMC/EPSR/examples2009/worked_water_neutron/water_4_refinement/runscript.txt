@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59f46615b8c02ecaead70d94d3e1f7d779e69d2d43a6b4d536e7be9d682e8071
-size 46
+# simple runscript
+epsr water_1000.EPSR.inp

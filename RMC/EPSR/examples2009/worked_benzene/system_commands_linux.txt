@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b61d5c799341eaa473d82355cf011389ca3f7bed119dbb4e007e79f8f4117c0
-size 355
+system_ls   ls -g
+system_cd  cd
+system_md  mkdir
+system_edit gedit
+system_del  rm
+system_termination /
+system_join  &&
+system_gnu  gnuplot
+system_jmol  java -jar $EPSRbin/Jmol.jar
+system_binaries $EPSRbin
+system_plot2d  $EPSRbin/map2d
+system_plot3d  $EPSRbin/map3drot
+system_plotato $EPSRbin/pgplotato
+system_pgout /png
+gnu_pointtype 6
+gnu_pointsize 0.4
+

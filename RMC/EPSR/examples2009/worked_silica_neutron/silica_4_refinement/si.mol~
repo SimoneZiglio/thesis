@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bad578be3800b3d485cb984061d1d20ef092f5eab675ff60f643cf48e0077018
-size 297
+ 4
+|   |1  |2  | 3 | 4 | 5 | 6 |7  |8  |9  |10 |11 |12 |13 |14 |15 |16 |17 |18 |19 
+  1                          Si 
+potential Si   0.80000E+00  0.76000E+01  0.28000E+02  0.40000E+01 Si
+temperature  0.100000E+04
+vibtemp  0.650000E+02
+density  0.683400E-01
+ecoredcore    1.00000    3.00000

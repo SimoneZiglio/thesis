@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61f0cf98354f2e5eac1de7511186918991c15826fbbe2f234d53512177defa73
-size 469
+system_ls   dir/b
+
+system_cd  cd/d
+
+system_md  md
+
+system_edit "c:\Program Files\Windows NT\Accessories\wordpad"
+
+system_del  del
+system_termination \
+
+system_join  &&
+
+system_gnu   %EPSRgnu%\wgnuplot.exe
+
+system_jmol  java -jar %EPSRbin%\Jmol.jar
+
+system_binaries %EPSRbin%
+system_plot2d  %EPSRbin%\map2dplot.exe
+
+system_plot3d  %EPSRbin%\map3dplotquadrot.exe
+
+system_plotato %EPSRbin%\mypgplotato2006-11-13.exe
+
+system_pgout /GIF
+
+gnu_pointtype 8
+
+gnu_pointsize 0.3
+

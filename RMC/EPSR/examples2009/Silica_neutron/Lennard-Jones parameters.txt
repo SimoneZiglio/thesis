@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e20f91ed5fe24b1c5574bcdbeffcafc381f1a147e8ce4f77fd5dd688550e2a1
-size 243
+Silicon:
+epsilon = 0.8 kJmol-1
+sigma = 0.76 Angstroms
+mass = 28
+charge = +4
+
+Oxygen:
+epsilon = 0.65 kJmol-1
+sigma = 3.69 Angstroms
+mass = 16
+charge -2
+
+density = 0.0664 atomsA-3
+
+The data type is 3 (Old Genie II histogram format)

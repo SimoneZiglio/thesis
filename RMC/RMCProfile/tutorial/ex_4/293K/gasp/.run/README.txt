@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ecdb941c6c2dcb4287e605c9392db9d45eb55bb79d64c800e23ff892074f55a5
-size 227
+The original stem name (which is used in the 'rmc' folder) 'srtio3_293k'
+was changed to 'srtio3_RT' for the gasp analysis. The reason for this is
+that gasp cannot read file with too long filename.
+
+Yuanpeng Zhang @ May-31-2018

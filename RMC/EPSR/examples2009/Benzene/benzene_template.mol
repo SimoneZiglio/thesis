@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77de0efe4570547722820d83acc2eff1dd9e02d4bcb962fe1fb2386763a24779
-size 1313
+ 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   
+  1                  M1 
+  2                  *
+  3                  C1 
+  4              *       *
+  5  M3  *   C3              C2  *   M2 
+  6          *               *
+  7  M2  *   C2              C3  *   M3 
+  8              *       *
+  9                  C1 
+ 10                  *
+ 11                  M1 
+bond C1  C2     1.38000
+bond C1  C3     1.38000
+bond C2  C3     1.38000
+bond C1  M1     1.06000
+bond C2  M2     1.06000
+bond C3  M3     1.06000
+angle C1  C2  C3   120.00000
+angle C2  C3  C1   120.00000
+angle C3  C1  C2   120.00000
+angle M1  C1  C2   120.00000
+angle M1  C1  C3   120.00000
+angle M2  C2  C3   120.00000
+angle M2  C2  C1   120.00000
+angle M3  C3  C1   120.00000
+angle M3  C3  C2   120.00000
+extra   2  11    2.76000
+extra   5   8    2.76000
+extra   9   4    2.76000
+extra   1  12    4.88000
+extra   6   7    4.88000
+extra   3  10    4.88000
+changelabel C1  C  
+changelabel M1  M  
+changelabel C2  C  
+changelabel M2  M  
+changelabel C3  C  
+changelabel M3  M  
+potential C    0.70000E+00  0.37000E+01  0.12000E+02  0.00000E+00 C 
+potential M    0.50000E-01  0.16000E+01  0.20000E+01  0.00000E+00 H 
+temperature  0.300000E+03
+vibtemp  0.650000E+02
+density  0.900000E-01
+ecoredcore    1.00000    3.00000

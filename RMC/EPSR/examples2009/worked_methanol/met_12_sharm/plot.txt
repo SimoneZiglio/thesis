@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2d6ad3777c18936a24de9024ab3bb0ea1e9ce349a01c2bdb0eec5891b77ae64
-size 25
+met_oh.plot3d.txt
+/gif

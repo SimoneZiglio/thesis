@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:284ba89b1885d42e597a6ad9b1856543637ab764dd322436edebef1028ef2563
-size 532
+reset
+set title 'C:\EPSR\examples_rh\silica_with_silvia\silica_2_mc-only_equil_10000K\sio2'
+set xlabel 'Iteration number'
+set ylabel 'U [kJ/mole]'
+set xrange [ 0.000E+00: 0.200E+04]
+set yrange [-0.400E+04: 0.400E+04]
+set nologscale x
+set nologscale y
+set label   1 ' Block 1                     ' at  0.150E+04, 0.250E+00
+set style line  1 lt   1 pt   8 ps    0.30
+plot \
+'C:\EPSR\examples_rh\silica_with_silvia\silica_2_mc-only_equil_10000K\sio2.EPSR.erg' u   0:(   1.00000*column(  1)+   0.000) notitle w lines ls   1

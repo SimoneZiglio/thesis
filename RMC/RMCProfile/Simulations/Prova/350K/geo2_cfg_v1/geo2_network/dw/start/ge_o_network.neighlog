@@ -1,3 +1,237 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac35280ccf0a20ba501e58f5b95442faf0fd7020ed8c7558c9512d41e0bc477e
-size 10459
+ DW option activated: distance window will be used
+  Generating new .neigh file
+ Potential distances
+   2.8999999999999999        1.1699999999999999        2.3500000000000001     
+   3.6000000000000001        2.3500000000000001        3.6000000000000001     
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ Warning - neighbour found at dist < mindist
+ .neigh file calculated
+ Coordination summary:
+
+
+ Coordination number      Number of atoms   (%)
+           1           1           0
+           4           6           2
+           5          13           5
+           6          25          10
+           7          26          10
+           8          51          20
+           9          36          14
+          10          28          11
+          11          18           7
+          12          20           8
+          13          10           4
+          14           8           3
+          15           4           1
+          16           2           0

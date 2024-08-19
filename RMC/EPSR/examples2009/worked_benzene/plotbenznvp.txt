@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:519b0910e775bf3899e2e29dad1937a1cab23f6182faa33a563120ada6c5d506
-size 1449
+ydel=2
+yf=1.6
+xf=9
+ymax=4
+yrang=ymax+6*ydel
+set yrange [0:yrang]
+set label "001 (100)" at xf,yf+0*ydel
+set label "010 (010)" at xf,yf+1*ydel
+set label "100 (001)" at xf,yf+2*ydel
+set label "110 (011)" at xf,yf+3*ydel
+set label "101 (101)" at xf,yf+4*ydel
+set label "011 (110)" at xf,yf+5*ydel
+set label "111 (111)" at xf,yf+6*ydel
+
+plot \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(2) + 0*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(2) + 0*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(4) + 1*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(4) + 1*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(6) + 2*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(6) + 2*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(8) + 3*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(8) + 3*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(10) + 4*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(10) + 4*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(12) + 5*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(12) + 5*ydel) notitle w p, \
+'~/EPSR17/run/benzene/benznormal.g01' u 1:(column(14) + 6*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benzparallel.g01' u 1:(column(14) + 6*ydel) notitle w p
+

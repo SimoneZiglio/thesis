@@ -1,3 +1,601 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aff2becbb7d890dbf2a771d8f383183c0d602ee7079c57f2a00c56af6d44b421
-size 32603
+ RMCA (v3) intermediate (histogram) file
+ Making Si network for SiO2                                                      
+     2332811     1470383      669416           0 F
+ 403F6AF6       0       0       0403F6AF6       0       0       0403F6AF6
+ 3BB367A1        300         1
+         300
+ 3D29AB95 3CBC5910 BDF7D504
+ 3E4F5F1C BE6EB0DB 3DF4CA3E
+ 3E2CC480 BCC0E918 3E3B3337
+ 3E557248 BDE3F403 3E4059DE
+ 3DA2EC0D BCFEC308 BE4B4963
+ 3E66DAB2 BD720196 3DB4E1CA
+ BE3E0CF8 3DFDB4B5 3E4BB07E
+ 3DE011F9 BDA33086 3DCEBBA7
+ BE7E3FE2 BDDE517C 3D6BB93E
+ BBE45B07 3E53132D BE3FF5C2
+ BE04660B BE65441A BE495E61
+ 3E705B89 BDB3BA9F BB46351D
+ BD942B6C BDB2C400 3DBABD33
+ BE350A6E 3D090F8B BDCE95D7
+ 3DF59A21 3E2B10A6 3E2486CF
+ BE386073 BD735FA4 BE4CD7AC
+ 3E407CBE 3E04A62D BCC5BFD4
+ 3B117503 BC23AF7C BE678D02
+ 3D99DF14 BE40E8AE BE7757E5
+ BD94821B 3E1CC70D BE699E7F
+ 3DED135C 3E02610B 3DB3AFF7
+ BDD75E1A BE3F5F0F BC526244
+ 3E2E5C16 3D67E074 BE62E25E
+ 3E11624D 3E148FE9 BE3A5664
+ 3D546E34 3DE2A672 3D9A8A37
+ BE66A7FB 3DD9BBEA BE5EDE4F
+ BD4C4DE1 BD7D1174 BE4E00B0
+ 3E2BE885 3D816D65 BC9510F9
+ 3E7D558B BE7C93FC 3E538333
+ BBB6CB16 BE33F55F BD648886
+ BDAE947A 3DB5A914 BE6BF9D0
+ 3DD55E12 3E5B7F89 3DCAB71D
+ BE76F99D BE3CDA9D 3E5A83EC
+ 3E62DD53 BE6B1AC9 BE6D711A
+ BE0243A7 BC12B3B9 3E0A22AC
+ 3E197836 3D9718EE 3DF264F2
+ BBA11C91 3E6C7B90 3E66C59A
+ BD7D312F BDE7510D 3D181700
+ BD9B4850 3D568983 3C4F66BB
+ BD91BC5C 3E0CF202 3D4B22B3
+ 3E658159 3DE3413B BE094B0E
+ 3DE23DCB BDD4A893 BD15A553
+ 3E76673E BC213FB8 3E0178A0
+ BE0BD78E BD8D08DA 3E50BB2E
+ BE28DE39 3E3848D7 BC2AE57A
+ BE489DCE BDC25007 3E45C9D5
+ BA98F678 BE0656C9 BE232A2E
+ BDA74ABE BE33A282 BE0C267C
+ 3DB28CC8 BE6F7924 BBF1AF47
+ 3E15D2AD 3DADAF5A BE243BF8
+ 3E372568 3DC4BC0E 3E630CDC
+ 3C20C4E1 BE4B4F0C BE50E62A
+ BE09CA6E 3E03CC41 BCCF1AAA
+ BE387588 BE11B44D BE41BB46
+ BE5EF553 3E033F7A BDEA7177
+ BD541AE9 3E5F2D39 3DEEBDFF
+ 3DE21BB2 BD2BD1A2 3D4AD6D7
+ BB7CBF95 BE3CC19E 3DE1BE4C
+ BE42183C BE0C398E 3E751701
+ 3D8B9147 3E6DA908 3E1E9835
+ 3D03DF3F 3E5B5DE6 BBFC4DBE
+ 3E2373AB 3E288366 BDB932ED
+ BDF78A91 BE04EE92 3E707576
+ BE628943 3E271CCB 3E6D4E76
+ 3E725CDC 3D1E55F2 3A8147A3
+ 3DCA42A4 BE075206 BE0A2749
+ 3DBD8D61 3DA5D4C0 3C4EFB96
+ 3DB50F09 3E358151 BDABE9FB
+ BDFA7C71 BB2957CF BD943CC4
+ 3E593210 BE38C5A5 3DAA20C9
+ 3CD7C899 BDB731BC 3CD1D84D
+ 3E617585 3E5B20EE 3C3DE4FD
+ BE7D8DB8 3D118F8B 3D82D78F
+ BE31B720 3D579D8D 3E3051CC
+ 3D2927B5 3DCB60B2 3E25A417
+ BD4B28FB BE39EBDA BE43E828
+ BD9ED5E0 3DF22A1A 3E32E14D
+ 3E06DAE1 BE76D5F3 BD624509
+ BDE8C9E1 BD95DFB8 3BF5DC6B
+ 3E1358AC BE48BCB1 3DF65E7D
+ BD8177C9 3E32FA47 BE2C9119
+ BE1F1266 BC08554C BE79B25A
+ BE035B73 3CC533C6 BE131F4C
+ BD4AE0D5 BE1AA1CC BC6622D7
+ BD516AB7 3DB31FE0 3DF2E4EF
+ BB3B1AF9 BE5B5730 3E3C78DB
+ 3E2054CB 3E32F58D 3DD105D1
+ BE482544 3E25F43C BE4F98EE
+ BC3E7A9D 3E13D131 BE64CE1A
+ 3E5A0921 3E0631E9 3D992869
+ BE417588 BCD79813 BD9ECE3B
+ BE002352 BD96DA77 3E11ADD5
+ 3E32B1D3 3E1B83D4 3E47AF42
+ BD91C10C BE78C456 3CB65FC4
+ 3E2EEA52 BE789F34 3C8F0238
+ BC828156 3E7FC56B BD4CF767
+ BE598A5F BE0A29C4 3C157143
+ 3E7C7389 BD6D6767 3E391D7E
+ BD98F05C 3DD78A43 BD950EBE
+ BD92CB14 3D6AD930 3E56C6C5
+ 3E07A573 3E42B4A3 BE70FEDC
+ 3E431E98 3CB9B97A 3E162FB1
+ 3DBEB53C 3E048494 BE0E7D27
+ BE3DD178 BE5B0A8D BE642C56
+ BE29831A 3E693FF9 BE4327C6
+ BDF0CB6C BE5326CB BD94220E
+ BDEB1C69 BD1657C9 3D9D03A4
+ BD014324 BDBD0DF2 3E733DE3
+ BE7427CA BE11069E 3E2AB2D1
+ 3E7436F6 BD249C8B BE338A0E
+ 3DBB570C 3D125AF1 BD9E7CDE
+ BDFC46C8 3E0EDD18 3E6F5A85
+ 3D54EA46 3E74DD64 3D416999
+ BCADDF10 3BC186F9 BE2602D1
+ 3D5FD29A 3E7F0EFB BE61C38B
+ BE402939 3E38CF88 3DA551E9
+ 3DEE92EF 3C9DF211 BE652E06
+ 3D4E83B4 3E26E416 3E26B666
+ BD936E35 3E52E7A1 3D64B954
+ 3DB73BCA BD9311C2 BDDDE70D
+ 3E682F2F 3E1B807A BE381C8C
+ BD90D47A 3E6D2337 3E788E29
+ BE619846 3E385CE2 BE177665
+ 3E52F741 3C90D2AE BD62A625
+ 3DF44CCF BD6C20F9 3E46318C
+ BDD1B8D6 BE0413F0 BD1E031B
+ 3D2DC512 3D4BDBFD 3CF3A037
+ BCE97ABC 3D117B72 BD14C6BE
+ 3CFBEA2F BE15E2C8 3E6AC2C2
+ 3E12BEC0 BE55ACAC BDEC7F58
+ 3DF22089 3DF28768 3E533602
+ BE609E3C BE15B1CE 3DD9E323
+ BD7E6A45 BD10CFC6 BDB41560
+ 3D737804 3E2FC6B1 3DBA4F51
+ 3DBA0311 3E47E716 BC669BA9
+ 3E258EFC BD0AACB2 3DC32245
+ BDADCC85 3A1519E8 BC9873DB
+ 3E2C614A BE2B69B6 3D08FBB9
+ BE6DC8E4 3CB2DB89 BD90B09C
+ 3E785956 BE6DE4E4 3D601448
+ 3E5FA029 BD48F08A BE6FCA70
+ 3D07A130 3DDCD304 3C4F9E09
+ 3DB838AC BE4E6E15 3E23E762
+ 3E2E6F20 3DD1FCBD 3D00B9B6
+ BE3A3F89 3E751347 3E0E8183
+ 3D1E1D55 BDE2F294 BE5B896A
+ BDF5A588 BE7F020B BCD4BDFC
+ BC91CCD1 3E155F80 3C96B57D
+ BE08A532 3D667A20 BE527B62
+ BE4209E4 BBBDB8AC 3D64B31A
+ BB79F66A BD1DB57C 3E07AACB
+ BC69D289 3E783C1B 3D4105CF
+ BE2093DB 3DEDE869 BE5D9F60
+ BDE53615 BE57BAD1 3E3D5FF0
+ BCE468D4 3E29ED85 3E3B19B7
+ BE3B49E5 BD7CA5DA BE05F12D
+ 3E68FBD0 3E608060 BDE3A454
+ BE5C5329 BD5D18AD 3E056A94
+ 3E1E7F52 3E4E6A89 BC90A0F9
+ BE5B966E 3DCB69EB 3E12BDF4
+ BDAFB79A BACE25ED BE3A05C9
+ 3E2AE100 BD8E49E2 BCA14CBE
+ 3E2D675E 3E6DC298 3D9BEAF8
+ 3E2A5712 BE128C25 3E1CD7E0
+ BDF47B1B BD5FC76F BE238FD0
+ BE5B1E7E BDEB93D4 BDBC3DAE
+ BDCE8F8A BE5A2FC3 3D8EE50F
+ 3E7D8483 BE74CE81 BE1D6F0E
+ 3D84D4AC BD708F1A BD4F6B96
+ BE0C75A5 BDA259FD BD5B2EBC
+ BE545564 3BDE1FC3 BE4B4892
+ 3CBAB02D BD8866EE BE2F3012
+ 3DEDC5B3 3DC74B6D BD56FF9F
+ 3E720809 3E3F7185 3E37AEBB
+ BC69F0CB 3E3ACE93 BD10AE0F
+ 3E66F03E 3C813854 BE6AED67
+ BD854BFA BD353C34 3D1C1635
+ 3E13B401 BD3DB1FD BDAADDBE
+ BDDFBC77 3D8465FC BD298C66
+ BE583E93 3BD12DD6 3E71616A
+ BD7B1E58 BD727898 3E1CB403
+ BCA72FC2 BD8DC62D BDEDD616
+ 3E6163E4 3DFDC0BF 3E109A26
+ BB930782 BD5D5E5C BD585DCF
+ 3D904730 BDEFF193 3D7C8273
+ BDB8A7D6 3E63C328 3E3865EE
+ 3E15D636 BBD55C40 BD06ED99
+ BDFE8316 BE057C82 BE26C4FA
+ 3E4142CF 3A52C270 BE32E538
+ 3E1D37D1 BE16F127 BD8A638A
+ BE736695 3E2999A5 3DF0C567
+ BCDF8065 3CACD9E1 BDC2EFD6
+ BD5EA443 BE5FE20B 3E0F3ED2
+ BCEE5456 BE1C7BEE 3E5484B5
+ BD0D70A1 BE401381 3D5D5A44
+ 3D32DD16 3C9463C4 BE42CF15
+ 3E260732 BD9ED368 3E1E4DA8
+ 3DC134CA BC8242AA 3E6D221D
+ BE00CB54 3DBB0223 3DB3ABEE
+ BE6FC3C0 BE64772F 3DF48EBE
+ 3DEAAD3E 3C648AF6 3CAE772D
+ BE1B54E5 BE249A99 3E3876E3
+ BBB57941 3E6A4423 3E1E99E0
+ BD085D3E BE73F2B2 BE1C0C23
+ 3D836D4A BE055860 B95B8C07
+ BDF74E77 BE7E3EDF 3E0266E7
+ BE125BAE 3DF5CA4F BDBAB399
+ 3CD78E76 3E2A0A89 3E6E2530
+ BD815874 3E29B9D3 BD97143D
+ BE062FE3 3E207EB1 3D9DCF95
+ 3D08C0AD BE758FA8 BE243546
+ 3DC13342 BDC3CEFC 3E79D4A6
+ 3CACB63A BDDEC754 BD76A869
+ 3DAD9718 3E18BA42 BE736880
+ 3E3A4A83 3E7D14D1 BE16D480
+ 3E2BA924 BDF45AEB BE5CC150
+ BE4B599C 3DFEBE2A BC4EB4D2
+ BD83CE0F BE2A46D0 3DD35F5F
+ BE297AA2 BE60285D 3E606FA0
+ 3D59D32F 3E0FA08A BE3BFB69
+ 3D107A9E BDA3F89A 3DC4F78E
+ 3E69121F BDD1D7AB BE40C453
+ BE6B7C0A BE2E79A8 BE5ED121
+ BDA560E6 BDFD21D7 BE5F6A30
+ 3DC57CB1 BE1B9F87 3E5A480E
+ 3E37F883 BE555095 BD163999
+ 3D485456 BE2C697C BE1FB34D
+ BE761A91 BCC165DA BC972790
+ BE74283F BE5AF5BA BDBEDFD6
+ BE4231CE 3E3F4FB5 3E2C7937
+ BE31E130 BDD4B1FF 3DDDACED
+ BDE5FDA8 BA031968 3E56D775
+ BBDCD045 3DDC1066 3E5A85D0
+ BC9FDEAB 3DFEDDDB BDE29760
+ 3E24090B BCDC06B8 BE7EB84B
+ BDC82082 3E62F776 BE4DE964
+ 3D2781D8 3C0B2F6B 3DA7E4A1
+ 3E43A2AA 3E128A08 BE6F4F12
+ BBBB959B 3D31E476 3E6A21E5
+ BE0AB502 3D032451 3CEF6100
+ BE09CE78 3E4D3CC0 3E6C5CB2
+ 3D7806FA BC6560EE 3CAB3712
+ 3E2AEE73 BD8CD3BF BE2ED3CF
+ BD0C70EE BE098DD8 BDC557B9
+ 3C0F4402 3D52FE27 3DFC6E34
+ BE457E0B 3E5E3A47 3E6D0DCA
+ 3D00574A 3D2255CA BD8104EF
+ BE616D70 3DA4ABB8 BE205E1C
+ 3DF7FAC9 3E54EE80 BE069C57
+ BE393082 3C6CD54A BC525A0E
+ BD5B89F9 BE539379 BDA69ED2
+ 3E29BF9C 3DD0FC51 BDD4042E
+ 3DCC2FD6 BC5E906A BE03BAE7
+ 3DFDDD0F 3E777E95 BE3F6C2A
+ 3E591271 3D943E27 3DBB4F7A
+ 3E112BAD BE0E5757 3DC34F58
+ BE659736 3E2F0FA2 3CE9D6A9
+ BE609ABB 3E45A1A4 BDAAE1AF
+ 3DE6D883 BDC74023 BE435E10
+ BE71E0A8 BE266729 BD44AD78
+ BA94DAC7 3DE920F9 BE2E5037
+ BE1AEC36 BE0AE114 BDA1F98B
+ 3E2DA384 3E6E0FE0 3E7242AE
+ 3E22ED2C BE21EBB5 BE255675
+ 3D2FAB94 3D112640 3E3B4D45
+ 3D69E150 3E433C82 BE0B3D3F
+ 3D6DEF49 BC9AD51F 3E0F8AA9
+ 3E68C128 3E24F0E8 BD92798E
+ BE1BE711 3E7CCB7B BDCEA4DF
+ BDD241CD BE6E7EC0 BE0FBFDB
+ BE0529B8 3DC3FA6E BE1896DE
+ BE7E8CCA 3C90451E BE183156
+ BE0B81AF 3E3C2D1B BD9A5770
+ BE355D7C BE44EE37 3E0154CA
+ 3D98624A BE7401B9 3E5A7162
+ BE4317A7 BE6F319B BE1AABD9
+ 380FD700 BE0D5958 3D8E6333
+ BE46FF46 3D8C2EF0 3CE14E9A
+ 3E71BE6E BE3CD7D4 3C83CFFD
+ BC8873BA 3DE219E3 3D97A45B
+ BDF1E4D3 3D8060FE 3E147259
+ BDEAB68C BDC6887A BDE14589
+ 3C72CC17 BE5E7AC2 3B6CF744
+ 3E5ACEE3 3E514FD3 BE5AAC03
+ 3DFEDBB4 3C1DDB7A 3E03E5E3
+ 3E47023C BE5B04E4 3E550D6C
+ BE289304 3D373399 3DD8AA8D
+ BD649B05 BD0CED2B 3E7284E2
+ 3DD57909 BE4E6C61 BE321165
+ BE46CE25 3D8EAC40 3E69BAB6
+ BC0BEEFD BDBC1827 3E36FD52
+ BD816215 3DD4E654 BE1CD741
+ BE3A8348 3DF91308 3DC32740
+ BE4865BD BE2C7504 BE050F13
+ 3DEB2CE8 BE33F049 BC58D9CF
+ BE2E5969 BD8D2B22 3D53DE45
+ BD9D6B9D 3E664CC8 BD86C4BD
+ BD7A17ED 3E19F256 3DFEC569
+ 3E6FDEA9 3DCAAEA7 3C5AD60A
+ 3E51EF6B BE336743 BDB4CA59
+       119 3CCCCCCD
+       0       0       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0      42      87
+     118     101      99     106      71      52      45      48      46      43
+      36      65      60      63      75      75      82      88      84     103
+     112      85     118     117     135     123     140     143     161     159
+     160     170     169     199     152     165     211     180     207     183
+     209     222     234     224     238     273     229     248     266     233
+     277     263     267     257     274     317     307     305     351     367
+     375     383     344     370     357     372     386     395     407     411
+     426     457     456     420     442     437     478     452     476     510
+     479     541     518     552     565     559     555     578     621
+           9 Coordination no. constraints
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+         1         1 3F39999A 3F600000
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+       4       4       4       4       4       4       4       4       4       4
+           0  BVS constraints
+           0 Triplet constraints

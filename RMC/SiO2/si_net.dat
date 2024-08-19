@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0bbac91ebc47b52e54167f754f403e2e00e3501dbe08e4805a3d8bf66daec6a
-size 809
+Making Si network for SiO2
+0.0219			! number density
+2.9				! cut offs
+0.3				! maximum moves
+0 0.0				! nswap,swapfrac
+0.1				! r spacing
+.false.			! moveout option
+0				! number of configurations to collect
+10000 1			! step for printing,plotting
+2 15				! Time limit, step for saving
+0 0 0 0 			! sets of experiments
+9				! no. of coordination constraints
+1 1 2.9 3.5 0 0.0 0.000001	! create a gradient towards 4-fold co-ordination
+1 1 2.9 3.5 1 0.0 0.00001
+1 1 2.9 3.5 2 0.0 0.0001
+1 1 2.9 3.5 3 0.0 0.001
+1 1 2.9 3.5 4 1.0 0.01
+1 1 2.9 3.5 5 0.0 0.001
+1 1 2.9 3.5 6 0.0 0.0001
+1 1 2.9 3.5 7 0.0 0.00001
+1 1 2.9 3.5 8 0.0 0.000001
+0				! no. of average coordination constraints
+0				! no. of bvs constraints
+0				! no. of triplet constraints
+.false.			! whether to use a potential

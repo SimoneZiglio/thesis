@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e85c3df43bd7bacaea663f5752dc299d1df1f2f2a9ca9e5332087f0d092a51f
-size 64
+cd ./benzene
+epsr benzpure
+sharm benznormal
+sharm benzparallel
+

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4ff0b8f2cbeba54bccf56f39693b35a8600af9d67ec84a68e08d42b71508b60
-size 532
+reset
+ydel=1
+yf=1.6
+xf=7
+ymax=5
+yrang=ymax+3*ydel
+set yrange [0:yrang]
+set label "Theta_l = 0, Theta_m = 0" at xf,yf+0*ydel
+set label "Theta_l = 0, Theta_m = 45" at xf,yf+1*ydel
+set label "Theta_l = 0, Theta_m = 90" at xf,yf+2*ydel
+
+plot \
+'~/EPSR17/run/benzene/benznormal_orientation_theta=0.g01' u 1:(column(2) + 0*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benznormal_orientation_theta=0.g01' u 1:(column(4) + 1*ydel) notitle w l, \
+'~/EPSR17/run/benzene/benznormal_orientation_theta=0.g01' u 1:(column(6) + 2*ydel) notitle w l
+

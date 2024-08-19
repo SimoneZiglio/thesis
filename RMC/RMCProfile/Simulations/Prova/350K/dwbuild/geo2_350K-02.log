@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df9c20d049d64c5cc531df27d1ca51d692c7218dd84ed4cdcd47ba0b0829d25e
-size 392
+Time       moves_acc moves_gen     G(r)_1     S(Q)_1
+h/m/s/.th    WEIGHT PARAMETERS   0.100E+01  0.100E+01
+161717.493       16569      158845  0.280E-01  0.101E+01
+161729.493       24924      301672  0.215E-01  0.100E+01
+161741.493       31924      451382  0.224E-01  0.100E+01
+161753.493       40138      601088  0.221E-01  0.999E+00
+161805.493       54092      746912  0.163E-01  0.999E+00

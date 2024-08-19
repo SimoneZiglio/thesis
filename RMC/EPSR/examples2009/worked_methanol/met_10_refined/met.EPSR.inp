@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db4ec02d88c21b1f5da8db3bce80bb68ab01d23ea59f583753b7acc537fe92c0
-size 4987
+met.EPSR               Title of this file
+feedback    0.8               Confidence factor - should be < 1. [0.8]                                        
+potfac      1.0               1.0 to enable potential refinement, 0.0 to inhibit                              
+ereq        5.               Overall requested energy amplitude - overrules efilereq                         
+sizefactor  1.0               Multiplying factor for box dimension. [1.0]                                     
+nq          400               Number of Q values. [400]                                                       
+qstep       0.05               Size of Q step [1/A]. [0.05]                                                    
+ireset      0               Sets the Empirical Potential to zero                                            
+iinit       0               Sets accumulators to zero. Recalculates r and Q. [1]                            
+ntimes      5               Number of MC cycles between potential refinements. [5]                          
+niter       1               Number of potential refinements before exitting. [1]                            
+nsumt       -1               Number of iterations already accumulated. [-1 with reset]                       
+intra       100               Number of molecule moves between molecule shakes. [100]                         
+inter       5               Number of iterations in running averages. [5]                                   
+rho         0.089290015               Atomic number density - will be derived from .ato file                          
+cellst      0.03               Size of r step [A]. [0.03]                                                      
+fwhm        0.0               Resolution width - Q independent term. [0.0]                                    
+fwhmq       0.02               Resolution width - Q dependent term. [0.02 for SLS]                             
+nsmoop      1               1 means background subtraction is ON, 0 means OFF                               
+fnameato    met.ato               Name of .ato file                                                               
+fnamepcof   met.pcof               Name of potential coefficients file.                                            
+qmin        0.05               Minimum value of Q used for potential fits. [0.05]                              
+ndata       3               Number of data files to be fit by EPSR                                          
+
+data   1
+
+datafile    NIMROD00000045.mdcs01               Name of data file to be fit                                                     
+wtsfile     cd3od_tot.wts               Name of weights file for this data set                                          
+nrtype      5               Data type - see User Manual for more details                                    
+rshmin      0.7               Minimum radius [A] - used for background subtraction                            
+szeros      0.0               Zero limit - 0 means use first data point for Q=0                               
+tweak       1.0               Scaling factor for this data set. [1.0]                                         
+efilereq    1.0               Requested energy amplitude for this data set [1.0]                              
+
+data   2
+
+datafile    NIMROD00000057.mdcs01               Name of data file to be fit                                                     
+wtsfile     cd3oh_tot.wts               Name of weights file for this data set                                          
+nrtype      5               Data type - see User Manual for more details                                    
+rshmin      0.7               Minimum radius [A] - used for background subtraction                            
+szeros      0.0               Zero limit - 0 means use first data point for Q=0                               
+tweak       1.0               Scaling factor for this data set. [1.0]                                         
+efilereq    1.0               Requested energy amplitude for this data set [1.0]                              
+
+data   3
+
+datafile    NIMROD00000050.mdcs01               Name of data file to be fit                                                     
+wtsfile     ch3od_tot.wts               Name of weights file for this data set                                          
+nrtype      5               Data type - see User Manual for more details                                    
+rshmin      0.7               Minimum radius [A] - used for background subtraction                            
+szeros      0.0               Zero limit - 0 means use first data point for Q=0                               
+tweak       1.0               Scaling factor for this data set. [1.0]                                         
+efilereq    1.0               Requested energy amplitude for this data set [1.0]                              
+q
