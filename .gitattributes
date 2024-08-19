@@ -1,0 +1,2 @@
+*.chi2 filter=lfs diff=lfs merge=lfs -text
+RMC/** filter=lfs diff=lfs merge=lfs -text

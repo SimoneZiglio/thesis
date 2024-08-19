@@ -1,0 +1,6 @@
+# # numero cilindri, numero punti MC, cilindro su cui fermare l integrazione 
+ 3.             199999.        3. 
+ # raggio del cilindro in cm, mu_tot in cm-1  
+0.4 0.5162075609739601
+0.425 0.
+0.55 0.

@@ -1,0 +1,301 @@
+FILE LOG CONVERSIONE DATI
+
+I file sono stati convertiti con il programma GO usando l'opzione 22 [file to X->Y] da file *.nex a file *.dat.
+Durante la conversione i dati non sono stati modificati. Sull'asse delle X è riportato il cell number.
+I dettagli del singolo file (temperatura, tempo, monitor) sono riportati sul file table.mem.
+
+EFFICIENCY ====================================================================================================
+
+bs99999.99  --> efficiency.dat
+
+TEST OF THE EMPTY CELL T=300K =================================================================================
+
+bs44189.nex --> bs44189.dat [Reattore in accensione!]
+bs44190.nex --> bs44190.dat
+bs44191.nex --> bs44191.dat
+bs44192.nex --> bs44192.dat
+bs44193.nex --> bs44193.dat
+bs44194.nex --> bs44194.dat
+bs44195.nex --> bs44195.dat
+bs44196.nex --> bs44196.dat
+bs44197.nex --> bs44197.dat
+bs44198.nex --> bs44198.dat [Beam line chiusa durante la misura!]
+
+TEST OF THE SAMPLE T=300K =====================================================================================
+
+bs44199.nex --> bs44199.dat
+
+EMPTY CELL T=800K =============================================================================================
+
+bs44200.nex --> bs44200.dat
+bs44201.nex --> bs44201.dat [Misura interrotta!]
+bs44202.nex --> bs44202.dat
+bs44203.nex --> bs44203.dat
+bs44204.nex --> bs44204.dat
+bs44205.nex --> bs44205.dat
+bs44206.nex --> bs44206.dat
+bs44207.nex --> bs44207.dat
+bs44208.nex --> bs44208.dat
+bs44209.nex --> bs44209.dat
+bs44210.nex --> bs44210.dat
+
+EMPTY CELL T=300K =============================================================================================
+
+bs44211.nex --> bs44211.dat [Controllo in temperatura non ottimale!]
+bs44212.nex --> bs44212.dat
+bs44213.nex --> bs44213.dat
+bs44214.nex --> bs44214.dat
+bs44215.nex --> bs44215.dat
+bs44216.nex --> bs44216.dat [Acquisizione interrotta!]
+bs44217.nex --> bs44217.dat [Errore nel lancio della sequenza di misura!]
+bs44218.nex --> bs44218.dat
+bs44219.nex --> bs44219.dat
+bs44220.nex --> bs44220.dat
+bs44221.nex --> bs44221.dat
+bs44222.nex --> bs44222.dat
+bs44223.nex --> bs44223.dat
+bs44224.nex --> bs44224.dat [Acquisizione interrotta!]
+
+SAMPLE T=350K =================================================================================================
+
+bs44225.nex --> bs44225.dat [Errore nel lancio della sequenza di misura!]
+bs44226.nex --> bs44226.dat [Controllo in temperatura troppo elevato!]
+bs44227.nex --> bs44227.dat 
+bs44228.nex --> bs44228.dat [Aquisizione interrotta!]
+bs44229.nex --> bs44229.dat
+bs44230.nex --> bs44230.dat
+bs44231.nex --> bs44231.dat
+bs44232.nex --> bs44232.dat
+bs44233.nex --> bs44233.dat
+bs44234.nex --> bs44234.dat
+bs44235.nex --> bs44235.dat
+bs44236.nex --> bs44236.dat
+bs44237.nex --> bs44237.dat
+
+SAMPLE T=500K =================================================================================================
+
+bs44238.nex --> bs44238.dat
+bs44239.nex --> bs44239.dat
+bs44240.nex --> bs44240.dat
+bs44241.nex --> bs44241.dat
+bs44242.nex --> bs44242.dat
+bs44243.nex --> bs44243.dat
+bs44244.nex --> bs44244.dat
+bs44245.nex --> bs44245.dat
+bs44246.nex --> bs44246.dat
+bs44247.nex --> bs44247.dat
+
+SAMPLE T=600K =================================================================================================
+
+bs44248.nex --> bs44258.dat
+bs44249.nex --> bs44259.dat
+bs44250.nex --> bs44250.dat
+bs44251.nex --> bs44251.dat
+bs44252.nex --> bs44252.dat
+bs44253.nex --> bs44253.dat
+bs44254.nex --> bs44254.dat
+bs44255.nex --> bs44255.dat
+bs44256.nex --> bs44256.dat
+bs44257.nex --> bs44257.dat
+
+SAMPLE T=700K =================================================================================================
+
+bs44258.nex --> bs44258.dat
+bs44259.nex --> bs44259.dat
+bs44260.nex --> bs44260.dat
+bs44261.nex --> bs44261.dat
+bs44262.nex --> bs44262.dat
+bs44263.nex --> bs44263.dat
+bs44264.nex --> bs44264.dat
+bs44265.nex --> bs44265.dat
+bs44266.nex --> bs44266.dat
+bs44267.nex --> bs44267.dat
+
+SAMPLE T=750K =================================================================================================
+
+bs44268.nex --> bs44268.dat
+bs44269.nex --> bs44269.dat
+bs44270.nex --> bs44270.dat
+bs44271.nex --> bs44271.dat
+bs44272.nex --> bs44272.dat [Misura interrotta per crash di sistema!]
+bs44273.nex --> bs44273.dat
+bs44274.nex --> bs44274.dat
+bs44275.nex --> bs44275.dat
+bs44276.nex --> bs44276.dat
+bs44277.nex --> bs44277.dat
+bs44278.nex --> bs44278.dat
+
+SAMPLE T=800K =================================================================================================
+
+bs44279.nex --> bs44289.dat
+bs44280.nex --> bs44280.dat
+bs44281.nex --> bs44281.dat
+bs44282.nex --> bs44282.dat [Misura interrotta per crash di sistema!]
+bs44283.nex --> bs44283.dat [Misura interrotta per crash di sistema!]
+bs44284.nex --> bs44284.dat
+bs44285.nex --> bs44285.dat
+bs44286.nex --> bs44286.dat
+bs44287.nex --> bs44287.dat
+bs44288.nex --> bs44288.dat
+bs44289.nex --> bs44289.dat [Segnale anomalo!]
+bs44290.nex --> bs44290.dat [Segnale anomalo!]
+bs44291.nex --> bs44291.dat [Segnale anomalo!]
+
+SAMPLE T=850K =================================================================================================
+
+bs44291.nex --> bs44291.dat [Misura interrotta per crash di sistema!]
+bs44292.nex --> bs44292.dat [Detector spostato per verifica elettronica]
+bs44293.nex --> bs44293.dat [Misura interrotta per crash di sistema!]
+bs44294.nex --> bs44294.dat 
+bs44295.nex --> bs44295.dat
+
+SAMPLE T=900K =================================================================================================
+
+bs44296.nex --> bs44296.dat [Misura interrotta per sostituzione PC di acquisizione dati!]
+bs44297.nex --> bs44297.dat
+bs44298.nex --> bs44298.dat
+bs44299.nex --> bs44299.dat
+bs44300.nex --> bs44300.dat
+bs44301.nex --> bs44301.dat
+bs44302.nex --> bs44302.dat
+bs44303.nex --> bs44303.dat
+bs44304.nex --> bs44304.dat
+bs44305.nex --> bs44305.dat
+bs44306.nex --> bs44306.dat
+bs44307.nex --> bs44307.dat
+bs44308.nex --> bs44308.dat [Acquisizione interrotta!]
+
+SAMPLE T=1000K ================================================================================================
+
+bs44309.nex --> bs44309.dat
+bs44310.nex --> bs44310.dat
+bs44311.nex --> bs44311.dat
+bs44312.nex --> bs44312.dat
+bs44313.nex --> bs44313.dat
+bs44314.nex --> bs44314.dat
+bs44315.nex --> bs44315.dat
+bs44316.nex --> bs44316.dat
+bs44317.nex --> bs44317.dat
+bs44318.nex --> bs44318.dat
+
+SAMPLE T=1100K ================================================================================================
+
+bs44319.nex --> bs44319.dat
+bs44320.nex --> bs44320.dat
+bs44321.nex --> bs44321.dat
+bs44322.nex --> bs44322.dat
+bs44323.nex --> bs44323.dat
+bs44324.nex --> bs44324.dat
+bs44325.nex --> bs44325.dat
+bs44326.nex --> bs44326.dat
+bs44327.nex --> bs44327.dat
+bs44328.nex --> bs44328.dat
+bs44329.nex --> bs44329.dat
+bs44330.nex --> bs44330.dat
+
+SAMPLE HEATING ================================================================================================
+
+bs44331.nex --> bs44331.dat	Tm=1400 Acquisizione interrotta!
+bs44332.nex --> bs44332.dat	Tm=1400 Misura di verifica!
+bs44333.nex --> bs44333.dat	Tm=1450 Fusione del campione!
+bs44334.nex --> bs44334.dat	Tm=1450 Fusione del campione!
+bs44335.nex --> bs44335.dat	Tm=1400 Misura di Verifica!
+
+SAMPLE T=1400K ================================================================================================
+
+bs44335.nex --> bs44335.dat
+bs44336.nex --> bs44336.dat
+bs44337.nex --> bs44337.dat
+bs44338.nex --> bs44338.dat
+bs44339.nex --> bs44339.dat
+bs44340.nex --> bs44340.dat
+bs44341.nex --> bs44341.dat
+bs44342.nex --> bs44342.dat
+bs44343.nex --> bs44343.dat
+bs44344.nex --> bs44344.dat
+bs44345.nex --> bs44345.dat
+bs44346.nex --> bs44346.dat
+bs44347.nex --> bs44347.dat
+bs44348.nex --> bs44348.dat
+
+SAMPLE T=1350K ================================================================================================
+
+bs44349.nex --> bs44349.dat
+bs44350.nex --> bs44350.dat
+bs44351.nex --> bs44351.dat
+bs44352.nex --> bs44352.dat
+bs44353.nex --> bs44353.dat
+bs44354.nex --> bs44354.dat
+bs44355.nex --> bs44355.dat
+bs44356.nex --> bs44356.dat
+bs44357.nex --> bs44357.dat
+bs44358.nex --> bs44358.dat
+
+SAMPLE T=1325K ================================================================================================
+
+bs44359.nex --> bs44359.dat	Tm=1400K M=200000 
+bs44360.nex --> bs44360.dat	Tm=1325K M=2000000
+bs44361.nex --> bs44361.dat	Tm=1325K M=2000000
+bs44362.nex --> bs44362.dat	Tm=1400K M=200000
+bs44363.nex --> bs44363.dat	Tm=1325K M=1000000
+bs44364.nex --> bs44364.dat	Tm=1325K M=1000000
+bs44365.nex --> bs44365.dat	Tm=1325K M=1000000
+bs44366.nex --> bs44366.dat	Tm=1400K M=500000
+bs44367.nex --> bs44367.dat	Tm=1325K M=500000
+bs44368.nex --> bs44368.dat	Tm=1325K M=500000
+bs44369.nex --> bs44369.dat	Tm=1325K M=500000 
+bs44370.nex --> bs44370.dat	Tm=1325K M=500000
+
+SAMPLE T=1300K ================================================================================================
+
+bs44371.nex --> bs44371.dat	Tm=1400K M=200000
+bs44372.nex --> bs44372.dat	Tm=1300K M=500000
+bs44373.nex --> bs44373.dat	Tm=1300K M=5000000
+bs44374.nex --> bs44374.dat	Tm=1300K M=5000000
+
+SAMPLE T=1200K ================================================================================================
+
+bs44375.nex --> bs44375.dat	
+
+SAMPLE T=800K ================================================================================================
+
+bs44376.nex --> bs44376.dat	M=200000
+
+SAMPLE T=300K ================================================================================================
+
+bs44377.nex --> bs44377.dat	
+bs44378.nex --> bs44378.dat	
+bs44379.nex --> bs44379.dat	
+
+NICKEL POWDER ================================================================================================
+
+bs44380.nex --> bs44380.dat	M=200000 
+bs44381.nex --> bs44381.dat	M=200000 con detector ruotato di 0.05°
+bs44382.nex --> bs44382.dat	M=200000 con detector ruotato di 0.10°
+bs44383.nex --> bs44383.dat	M=200000 con detector ruotato di 0.14°
+
+EMPTY FOURNACE ===============================================================================================
+
+bs44384.nex --> bs44384.dat	
+bs44385.nex --> bs44385.dat
+bs44386.nex --> bs44386.dat	
+bs44387.nex --> bs44387.dat	
+bs44388.nex --> bs44388.dat	
+bs44389.nex --> bs44389.dat	
+
+VANADIUM =====================================================================================================
+
+bs44390.nex --> bs44390.dat	
+bs44391.nex --> bs44391.dat	
+bs44392.nex --> bs44392.dat	
+bs44393.nex --> bs44393.dat	
+bs44394.nex --> bs44394.dat	
+bs44395.nex --> bs44395.dat	
+bs44396.nex --> bs44396.dat	
+bs44397.nex --> bs44397.dat	
+bs44398.nex --> bs44398.dat	
+bs44399.nex --> bs44399.dat	
+bs44400.nex --> bs44400.dat	
+bs44400.nex --> bs44401.dat
+bs44400.nex --> bs44402.dat
+

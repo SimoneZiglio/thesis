@@ -1,0 +1,50 @@
+################################
+#GUIDE FOR REMOTE LOGIN ON WORKSTATIONS
+#,---- |---, ,---- ,----
+#|     |   | |     |    
+#'---, |   | '---, |    
+#    | |   |     | |     
+#----' |---' ----' '----
+#
+#Contacts:
+#Giacomo Baldi: 0461 282797
+#Marco Zanatta: 0461 281522
+#Flavio Rossi: 0461 282002
+#PhD students: 0461 281541
+#Lab. x-rays: 0461 281559
+#
+#
+#Erica Alfinelli 2022
+################################
+# The sdsc group has two workstations whose have a static dns:
+
+%dell workstation tower precision 5820
+%dns: panarotta.physics.unitn.it
+
+%dell workstation tower precision 7920
+%dns: marzola.physics.unitn.it
+
+%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+%to get a remote connection you need firstly an account on the machine.
+%If you don't have it, please contact your supervisor to create one for you
+%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+#Remote connection:
+ssh -X [username]@panarotta.physics.unitn.it
+%or
+ssh -X [username]@marzola.physics.unitn.it
+
+#copying from the machines:
+%from your machine digit (for a single file)
+scp [username]@panarotta.physics.unitn.it:/path/to/the/file/you/want/to/copy .
+%this will copy your file in the position where you have your command window opened
+
+%from your machine digit (for a folder)
+scp -r [username]@panarotta.physics.unitn.it:/path/to/the/folder/you/want/to/copy .
+%this will copy the folder in the position where you have your command window opened
+
+%if you have to take only some files from an already copied folder digit
+rsync [username]@panarotta.physics.unitn.it:/path/to/the/folder .
+%the program will copy only the files which are not present in the folder on your PC
+
+
